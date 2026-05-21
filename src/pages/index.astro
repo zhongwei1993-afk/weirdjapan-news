@@ -1,0 +1,359 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+const [hero, ...rest] = posts;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+
+		{hero && (
+			<section class="hero">
+				<a href={`/blog/${hero.id}/`} class="hero-link">
+					<div class="hero-image">
+						{hero.data.heroImageUrl ? (
+							<img src={hero.data.heroImageUrl} alt={hero.data.heroImageAlt || hero.data.title} class="hero-img" loading="eager" fetchpriority="high" />
+						) : (
+							<div class="hero-pattern" aria-hidden="true"></div>
+						)}
+					</div>
+					<div class="hero-content">
+						<span class="kicker">Today's Story</span>
+						<h1 class="hero-title">{hero.data.title}</h1>
+						<p class="hero-desc">{hero.data.description}</p>
+						<div class="hero-meta">
+							<FormattedDate date={hero.data.pubDate} />
+							<span class="hero-cta">Read story →</span>
+						</div>
+					</div>
+				</a>
+			</section>
+		)}
+
+		<section class="latest-section">
+			<div class="section-header">
+				<h2 class="section-title">More Oddities</h2>
+				<a href="/blog" class="section-link">All stories →</a>
+			</div>
+
+			{rest.length === 0 ? (
+				<p class="empty">More stories coming soon. Subscribe below.</p>
+			) : (
+				<div class="grid">
+					{rest.map((post) => (
+						<article class="card">
+							<a href={`/blog/${post.id}/`} class="card-link">
+								<div class="card-image">
+									{post.data.heroImageUrl ? (
+										<img src={post.data.heroImageUrl} alt={post.data.heroImageAlt || post.data.title} class="card-img" loading="lazy" />
+									) : (
+										<div class="card-pattern" aria-hidden="true"></div>
+									)}
+								</div>
+								<div class="card-body">
+									<span class="card-kicker">{post.data.category}</span>
+									<h3 class="card-title">{post.data.title}</h3>
+									<p class="card-desc">{post.data.description}</p>
+									<FormattedDate date={post.data.pubDate} />
+								</div>
+							</a>
+						</article>
+					))}
+				</div>
+			)}
+		</section>
+
+		<section class="newsletter">
+			<div class="newsletter-inner">
+				<h2>The Weekly Weird</h2>
+				<p>Five strange Japan stories every Sunday. No spam. Unsubscribe anytime.</p>
+				<form class="newsletter-form" onsubmit="event.preventDefault();">
+					<input type="email" placeholder="your@email.com" aria-label="Email address" required />
+					<button type="submit">Subscribe</button>
+				</form>
+			</div>
+		</section>
+
+		<Footer />
+
+		<style>
+			/* Hero */
+			.hero {
+				background: #fff;
+			}
+			.hero-link {
+				display: grid;
+				grid-template-columns: 1.1fr 1fr;
+				gap: 0;
+				max-width: var(--container);
+				margin: 0 auto;
+				color: inherit;
+				text-decoration: none;
+				border: none;
+			}
+			.hero-image {
+				min-height: 480px;
+				background: linear-gradient(135deg, #DC2626 0%, #991B1B 100%);
+				position: relative;
+				overflow: hidden;
+			}
+			.hero-img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
+				border-radius: 0;
+			}
+			.hero-pattern {
+				position: absolute;
+				inset: 0;
+				background-image:
+					radial-gradient(circle at 20% 30%, rgba(255,255,255,0.10) 0, transparent 50%),
+					radial-gradient(circle at 80% 70%, rgba(255,255,255,0.08) 0, transparent 50%),
+					repeating-linear-gradient(45deg, transparent 0, transparent 20px, rgba(255,255,255,0.03) 20px, rgba(255,255,255,0.03) 40px);
+			}
+			.hero-image::after {
+				content: '◉';
+				position: absolute;
+				font-size: 120px;
+				color: rgba(255,255,255,0.15);
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				font-family: var(--font-serif);
+			}
+			.hero-content {
+				padding: 4em 3em;
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				background: #fff;
+			}
+			.kicker {
+				font-family: var(--font-sans);
+				font-size: 0.78rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.12em;
+				color: var(--accent);
+				margin-bottom: 1em;
+			}
+			.hero-title {
+				font-size: 2.6rem;
+				line-height: 1.1;
+				margin: 0 0 0.5em;
+				color: rgb(var(--black));
+			}
+			.hero-link:hover .hero-title {
+				color: var(--accent);
+				transition: color 200ms ease;
+			}
+			.hero-desc {
+				font-size: 1.1rem;
+				color: rgb(var(--gray-700));
+				line-height: 1.55;
+				margin: 0 0 1.5em;
+			}
+			.hero-meta {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				font-size: 0.9rem;
+				color: rgb(var(--gray-500));
+				font-family: var(--font-sans);
+			}
+			.hero-cta {
+				color: var(--accent);
+				font-weight: 600;
+			}
+
+			/* Latest section */
+			.latest-section {
+				max-width: var(--container);
+				margin: 4em auto;
+				padding: 0 1.5em;
+			}
+			.section-header {
+				display: flex;
+				justify-content: space-between;
+				align-items: baseline;
+				padding-bottom: 0.6em;
+				border-bottom: 2px solid rgb(var(--black));
+				margin-bottom: 2em;
+			}
+			.section-title {
+				font-size: 1.6rem;
+				margin: 0;
+			}
+			.section-link {
+				font-size: 0.9rem;
+				color: rgb(var(--gray-700));
+				border: none;
+				text-decoration: none;
+				font-weight: 500;
+			}
+			.section-link:hover {
+				color: var(--accent);
+				border: none;
+			}
+
+			.grid {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 2em;
+			}
+			.empty {
+				text-align: center;
+				padding: 3em 0;
+				color: rgb(var(--gray-500));
+				font-style: italic;
+			}
+
+			.card-link {
+				display: block;
+				color: inherit;
+				text-decoration: none;
+				border: none;
+			}
+			.card-image {
+				aspect-ratio: 4 / 3;
+				background: linear-gradient(135deg, #1a1a1a 0%, #404040 100%);
+				border-radius: var(--radius);
+				overflow: hidden;
+				margin-bottom: 1em;
+				position: relative;
+			}
+			.card-img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
+				border-radius: 0;
+				transition: transform 350ms ease;
+			}
+			.card-link:hover .card-img {
+				transform: scale(1.04);
+			}
+			.card-pattern {
+				position: absolute;
+				inset: 0;
+				background-image:
+					radial-gradient(circle at 30% 40%, rgba(220,38,38,0.25) 0, transparent 50%),
+					radial-gradient(circle at 70% 60%, rgba(255,255,255,0.05) 0, transparent 50%);
+			}
+			.card-body {
+				padding: 0;
+			}
+			.card-kicker {
+				font-size: 0.7rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				color: var(--accent);
+				display: block;
+				margin-bottom: 0.5em;
+			}
+			.card-title {
+				font-size: 1.3rem;
+				margin: 0 0 0.5em;
+				line-height: 1.25;
+				color: rgb(var(--black));
+			}
+			.card-link:hover .card-title {
+				color: var(--accent);
+				transition: color 180ms ease;
+			}
+			.card-desc {
+				font-size: 0.95rem;
+				color: rgb(var(--gray-700));
+				line-height: 1.5;
+				margin: 0 0 0.6em;
+				display: -webkit-box;
+				-webkit-line-clamp: 2;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
+			}
+			.card-body :global(time) {
+				font-size: 0.85rem;
+				color: rgb(var(--gray-500));
+			}
+
+			/* Newsletter */
+			.newsletter {
+				background: rgb(var(--gray-900));
+				color: #fff;
+				padding: 4em 1.5em;
+				margin-top: 5em;
+			}
+			.newsletter-inner {
+				max-width: 600px;
+				margin: 0 auto;
+				text-align: center;
+			}
+			.newsletter h2 {
+				color: #fff;
+				margin: 0 0 0.5em;
+				font-size: 1.8rem;
+			}
+			.newsletter p {
+				color: rgb(var(--gray-300));
+				margin: 0 0 1.8em;
+				font-size: 1rem;
+			}
+			.newsletter-form {
+				display: flex;
+				gap: 0.5em;
+				max-width: 440px;
+				margin: 0 auto;
+			}
+			.newsletter-form input {
+				flex: 1;
+				padding: 0.85em 1em;
+				border: 1px solid rgb(var(--gray-700));
+				background: rgb(var(--gray-800));
+				color: #fff;
+				border-radius: var(--radius);
+				font-size: 0.95rem;
+			}
+			.newsletter-form input::placeholder { color: rgb(var(--gray-500)); }
+			.newsletter-form button {
+				padding: 0.85em 1.5em;
+				background: var(--accent);
+				color: #fff;
+				border: none;
+				border-radius: var(--radius);
+				font-weight: 600;
+				cursor: pointer;
+				transition: background 150ms ease;
+				font-size: 0.95rem;
+			}
+			.newsletter-form button:hover { background: var(--accent-dark); }
+
+			@media (max-width: 900px) {
+				.hero-link {
+					grid-template-columns: 1fr;
+				}
+				.hero-image { min-height: 280px; }
+				.hero-content { padding: 2.5em 1.5em; }
+				.hero-title { font-size: 1.9rem; }
+				.grid { grid-template-columns: 1fr; }
+				.newsletter-form { flex-direction: column; }
+				.section-title { font-size: 1.3rem; }
+			}
+		</style>
+	</body>
+</html>

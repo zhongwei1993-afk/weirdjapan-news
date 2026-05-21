@@ -1,0 +1,130 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<header class="site-header">
+	<div class="masthead">
+		<a href="/" class="logo" aria-label={SITE_TITLE}>
+			<span class="logo-mark" aria-hidden="true"></span>
+			<span class="logo-text">WeirdJapan<span class="logo-tld">.news</span></span>
+		</a>
+		<p class="tagline">Daily oddities from Japan. The stories travel guides skip.</p>
+	</div>
+	<nav class="primary-nav" aria-label="Primary">
+		<a href="/blog">All Stories</a>
+		<a href="/blog">Only In Japan</a>
+		<a href="/blog">Food</a>
+		<a href="/blog">Tech</a>
+		<a href="/blog">Culture</a>
+		<a href="/about">About</a>
+	</nav>
+</header>
+
+<style>
+	.site-header {
+		background: #fff;
+		border-bottom: 1px solid rgb(var(--gray-200));
+	}
+
+	.masthead {
+		max-width: var(--container);
+		margin: 0 auto;
+		padding: 2.5em 1.5em 1.5em;
+		text-align: center;
+	}
+
+	.logo {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.55em;
+		color: rgb(var(--black));
+		text-decoration: none;
+		border-bottom: none;
+		font-family: var(--font-serif);
+		font-weight: 800;
+		font-size: 2.4rem;
+		letter-spacing: -0.03em;
+		line-height: 1;
+	}
+	.logo:hover { color: rgb(var(--black)); border-bottom: none; }
+
+	.logo-mark {
+		display: inline-block;
+		width: 0.85em;
+		height: 0.85em;
+		background: var(--accent);
+		border-radius: 50%;
+		flex-shrink: 0;
+	}
+
+	.logo-tld {
+		color: var(--accent);
+		font-weight: 700;
+	}
+
+	.tagline {
+		margin: 0.6em 0 0;
+		color: rgb(var(--gray-500));
+		font-size: 0.95rem;
+		font-style: italic;
+		letter-spacing: 0.01em;
+	}
+
+	.primary-nav {
+		max-width: var(--container);
+		margin: 0 auto;
+		padding: 0.6em 1.5em;
+		display: flex;
+		justify-content: center;
+		gap: 1.8em;
+		flex-wrap: wrap;
+		border-top: 1px solid rgb(var(--gray-200));
+	}
+	.primary-nav a {
+		color: rgb(var(--gray-800));
+		text-decoration: none;
+		border-bottom: none;
+		font-size: 0.92rem;
+		font-weight: 500;
+		letter-spacing: 0.02em;
+		text-transform: uppercase;
+		padding: 0.6em 0;
+		position: relative;
+		transition: color 120ms ease;
+	}
+	.primary-nav a::after {
+		content: '';
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+		height: 2px;
+		background: var(--accent);
+		transform: scaleX(0);
+		transform-origin: left;
+		transition: transform 180ms ease;
+	}
+	.primary-nav a:hover,
+	.primary-nav a.active {
+		color: var(--accent);
+	}
+	.primary-nav a:hover::after,
+	.primary-nav a.active::after {
+		transform: scaleX(1);
+	}
+
+	@media (max-width: 720px) {
+		.masthead { padding: 1.8em 1em 1.2em; }
+		.logo { font-size: 1.8rem; }
+		.tagline { font-size: 0.85rem; }
+		.primary-nav {
+			gap: 1em;
+			padding: 0.4em 1em;
+			font-size: 0.85rem;
+		}
+		.primary-nav a {
+			font-size: 0.8rem;
+			padding: 0.5em 0;
+		}
+	}
+</style>

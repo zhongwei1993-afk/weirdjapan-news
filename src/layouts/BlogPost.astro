@@ -1,0 +1,395 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+const { title, description, pubDate, updatedDate, heroImageUrl, heroImageAlt, heroImageCredit, heroImageCreditUrl, category } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+	</head>
+
+	<body>
+		<Header />
+
+		<article class="article">
+			<header class="article-header">
+				<div class="article-header-inner">
+					<a href="/blog" class="back-link">← Back to all stories</a>
+					<span class="kicker">{category}</span>
+					<h1>{title}</h1>
+					<p class="lede">{description}</p>
+					<div class="article-meta">
+						<span class="author">
+							<span class="author-avatar" aria-hidden="true"></span>
+							<span>WeirdJapan Editorial</span>
+						</span>
+						<span class="separator">·</span>
+						<FormattedDate date={pubDate} />
+						{updatedDate && (
+							<>
+								<span class="separator">·</span>
+								<span class="updated">Updated <FormattedDate date={updatedDate} /></span>
+							</>
+						)}
+					</div>
+				</div>
+			</header>
+
+			{heroImageUrl ? (
+				<figure class="article-hero-figure">
+					<img src={heroImageUrl} alt={heroImageAlt || title} class="article-hero-img" loading="eager" fetchpriority="high" />
+					{heroImageCredit && (
+						<figcaption class="article-hero-credit">
+							{heroImageCreditUrl ? (
+								<a href={heroImageCreditUrl} target="_blank" rel="noopener">{heroImageCredit}</a>
+							) : (
+								<span>{heroImageCredit}</span>
+							)}
+						</figcaption>
+					)}
+				</figure>
+			) : (
+				<div class="article-hero" aria-hidden="true">
+					<div class="article-hero-pattern"></div>
+				</div>
+			)}
+
+			<div class="article-body prose">
+				<slot />
+			</div>
+
+			<footer class="article-footer">
+				<div class="share">
+					<span class="share-label">Share this story</span>
+					<a href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${Astro.url}`} target="_blank" rel="noopener" aria-label="Share on X">
+						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+					</a>
+					<a href={`https://www.facebook.com/sharer/sharer.php?u=${Astro.url}`} target="_blank" rel="noopener" aria-label="Share on Facebook">
+						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"/></svg>
+					</a>
+					<a href={`https://www.reddit.com/submit?url=${Astro.url}&title=${encodeURIComponent(title)}`} target="_blank" rel="noopener" aria-label="Share on Reddit">
+						<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12.5c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>
+					</a>
+				</div>
+
+				<div class="newsletter-inline">
+					<h3>Get the next one in your inbox</h3>
+					<p>The Weekly Weird — five strange Japan stories every Sunday. No spam.</p>
+					<form class="newsletter-form-inline" onsubmit="event.preventDefault();">
+						<input type="email" placeholder="your@email.com" aria-label="Email address" required />
+						<button type="submit">Subscribe</button>
+					</form>
+				</div>
+			</footer>
+		</article>
+
+		<Footer />
+
+		<style>
+			.article {
+				background: #fff;
+			}
+
+			.article-header {
+				padding: 3em 1.5em 1em;
+				border-bottom: 1px solid rgb(var(--gray-100));
+			}
+			.article-header-inner {
+				max-width: 760px;
+				margin: 0 auto;
+			}
+			.back-link {
+				display: inline-block;
+				font-size: 0.85rem;
+				color: rgb(var(--gray-500));
+				text-decoration: none;
+				border: none;
+				margin-bottom: 1.5em;
+				transition: color 150ms ease;
+			}
+			.back-link:hover { color: var(--accent); border: none; }
+
+			.kicker {
+				font-family: var(--font-sans);
+				font-size: 0.78rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.12em;
+				color: var(--accent);
+				display: block;
+				margin-bottom: 0.8em;
+			}
+
+			.article-header h1 {
+				font-size: 3rem;
+				line-height: 1.1;
+				margin: 0 0 0.6em;
+				letter-spacing: -0.025em;
+			}
+
+			.lede {
+				font-family: var(--font-serif);
+				font-size: 1.35rem;
+				line-height: 1.5;
+				color: rgb(var(--gray-700));
+				margin: 0 0 1.5em;
+				font-weight: 400;
+			}
+
+			.article-meta {
+				display: flex;
+				align-items: center;
+				gap: 0.6em;
+				font-size: 0.9rem;
+				color: rgb(var(--gray-500));
+				font-family: var(--font-sans);
+				flex-wrap: wrap;
+			}
+			.article-meta :global(time) { color: inherit; }
+			.author { display: inline-flex; align-items: center; gap: 0.5em; }
+			.author-avatar {
+				width: 32px; height: 32px;
+				background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
+				border-radius: 50%;
+				display: inline-block;
+			}
+			.separator { color: rgb(var(--gray-300)); }
+
+			.article-hero-figure {
+				max-width: var(--container);
+				margin: 2em auto 0;
+				padding: 0;
+			}
+			.article-hero-img {
+				width: 100%;
+				aspect-ratio: 21 / 9;
+				object-fit: cover;
+				border-radius: var(--radius);
+				display: block;
+				background: rgb(var(--gray-100));
+			}
+			.article-hero-credit {
+				text-align: right;
+				font-size: 0.78rem;
+				color: rgb(var(--gray-500));
+				margin-top: 0.5em;
+				padding-right: 0.5em;
+			}
+			.article-hero-credit a {
+				color: inherit;
+				border: none;
+			}
+			.article-hero-credit a:hover {
+				color: var(--accent);
+				border: none;
+			}
+
+			.article-hero {
+				max-width: var(--container);
+				margin: 2em auto 0;
+				aspect-ratio: 21 / 9;
+				background: linear-gradient(135deg, #DC2626 0%, #7F1D1D 60%, #1a1a1a 100%);
+				position: relative;
+				overflow: hidden;
+				border-radius: var(--radius);
+			}
+			.article-hero-pattern {
+				position: absolute;
+				inset: 0;
+				background-image:
+					radial-gradient(circle at 20% 30%, rgba(255,255,255,0.12) 0, transparent 50%),
+					radial-gradient(circle at 80% 70%, rgba(255,255,255,0.06) 0, transparent 50%),
+					repeating-linear-gradient(45deg, transparent 0, transparent 30px, rgba(255,255,255,0.025) 30px, rgba(255,255,255,0.025) 60px);
+			}
+			.article-hero::after {
+				content: '◉';
+				position: absolute;
+				top: 50%; left: 50%;
+				transform: translate(-50%, -50%);
+				font-size: 180px;
+				color: rgba(255,255,255,0.12);
+				font-family: var(--font-serif);
+			}
+
+			.article-body.prose {
+				max-width: 720px;
+				margin: 3em auto;
+				padding: 0 1.5em;
+				font-size: 1.1rem;
+				line-height: 1.75;
+				color: rgb(var(--gray-800));
+			}
+
+			/* First paragraph drop cap-style emphasis */
+			.article-body.prose :global(p:first-of-type) {
+				font-size: 1.2rem;
+				line-height: 1.6;
+				color: rgb(var(--gray-900));
+			}
+			.article-body.prose :global(p:first-of-type::first-letter) {
+				font-family: var(--font-serif);
+				font-size: 4.2rem;
+				font-weight: 800;
+				color: var(--accent);
+				float: left;
+				line-height: 0.9;
+				padding: 0.1em 0.1em 0 0;
+				margin-right: 0.05em;
+			}
+
+			.article-body.prose :global(h2) {
+				font-size: 1.85rem;
+				margin-top: 2.2em;
+				margin-bottom: 0.5em;
+				padding-top: 0.5em;
+				border-top: 1px solid rgb(var(--gray-200));
+			}
+			.article-body.prose :global(h3) {
+				font-size: 1.4rem;
+				margin-top: 1.8em;
+			}
+			.article-body.prose :global(blockquote) {
+				border-left: 3px solid var(--accent);
+				padding: 0.25em 0 0.25em 1.5em;
+				margin: 1.8em 0;
+				font-family: var(--font-serif);
+				font-size: 1.4rem;
+				font-style: italic;
+				line-height: 1.45;
+				color: rgb(var(--gray-700));
+			}
+			.article-body.prose :global(ul li),
+			.article-body.prose :global(ol li) {
+				margin-bottom: 0.4em;
+			}
+			.article-body.prose :global(table th),
+			.article-body.prose :global(table td) {
+				font-size: 0.95em;
+			}
+			.article-body.prose :global(hr) {
+				margin: 3em auto;
+				width: 60px;
+				border-top: 2px solid rgb(var(--gray-300));
+			}
+			.article-body.prose :global(img) {
+				width: 100%;
+				border-radius: var(--radius);
+				margin: 2em 0 0.5em;
+				display: block;
+			}
+			.article-body.prose :global(img + em),
+			.article-body.prose :global(p > img + em) {
+				display: block;
+				text-align: center;
+				font-size: 0.85rem;
+				color: rgb(var(--gray-500));
+				margin: 0 0 2em;
+				font-style: italic;
+			}
+			.article-body.prose :global(p:has(> img)) {
+				margin-bottom: 0;
+			}
+
+			/* Footer */
+			.article-footer {
+				max-width: 720px;
+				margin: 3em auto;
+				padding: 0 1.5em;
+			}
+			.share {
+				display: flex;
+				align-items: center;
+				gap: 0.8em;
+				padding: 1.5em 0;
+				border-top: 1px solid rgb(var(--gray-200));
+				border-bottom: 1px solid rgb(var(--gray-200));
+				margin-bottom: 3em;
+			}
+			.share-label {
+				font-family: var(--font-sans);
+				font-size: 0.85rem;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				font-weight: 600;
+				color: rgb(var(--gray-700));
+				margin-right: 0.5em;
+			}
+			.share a {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 36px; height: 36px;
+				border: 1px solid rgb(var(--gray-200));
+				border-radius: 50%;
+				color: rgb(var(--gray-700));
+				transition: all 150ms ease;
+				border-bottom: 1px solid rgb(var(--gray-200));
+			}
+			.share a:hover {
+				background: var(--accent);
+				border-color: var(--accent);
+				color: #fff;
+			}
+
+			.newsletter-inline {
+				background: rgb(var(--gray-50));
+				border: 1px solid rgb(var(--gray-200));
+				padding: 2em;
+				border-radius: var(--radius);
+				text-align: center;
+			}
+			.newsletter-inline h3 {
+				margin: 0 0 0.3em;
+				font-size: 1.4rem;
+			}
+			.newsletter-inline p {
+				margin: 0 0 1.2em;
+				color: rgb(var(--gray-700));
+				font-size: 0.95rem;
+			}
+			.newsletter-form-inline {
+				display: flex;
+				gap: 0.5em;
+				max-width: 400px;
+				margin: 0 auto;
+			}
+			.newsletter-form-inline input {
+				flex: 1;
+				padding: 0.7em 0.9em;
+				border: 1px solid rgb(var(--gray-300));
+				background: #fff;
+				border-radius: var(--radius);
+				font-size: 0.92rem;
+			}
+			.newsletter-form-inline button {
+				padding: 0.7em 1.2em;
+				background: rgb(var(--black));
+				color: #fff;
+				border: none;
+				border-radius: var(--radius);
+				font-weight: 600;
+				cursor: pointer;
+				transition: background 150ms ease;
+				font-size: 0.92rem;
+			}
+			.newsletter-form-inline button:hover { background: var(--accent); }
+
+			@media (max-width: 720px) {
+				.article-header { padding: 2em 1em 0.5em; }
+				.article-header h1 { font-size: 2rem; }
+				.lede { font-size: 1.15rem; }
+				.article-hero { aspect-ratio: 16 / 9; margin: 1.5em 1em 0; }
+				.article-hero::after { font-size: 100px; }
+				.article-body.prose :global(p:first-of-type::first-letter) { font-size: 3.2rem; }
+				.newsletter-form-inline { flex-direction: column; }
+			}
+		</style>
+	</body>
+</html>

@@ -1,0 +1,148 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Stories — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+
+		<section class="page-header">
+			<div class="page-header-inner">
+				<span class="kicker">All Stories</span>
+				<h1>Every Weird Thing We've Covered</h1>
+				<p>Browse the full archive of strange, wonderful, slightly-too-much stories from Japan.</p>
+			</div>
+		</section>
+
+		<main class="blog-list">
+			{posts.map((post) => (
+				<article class="row">
+					<a href={`/blog/${post.id}/`} class="row-link">
+						<div class="row-thumb">
+							{post.data.heroImageUrl ? (
+								<img src={post.data.heroImageUrl} alt={post.data.heroImageAlt || post.data.title} class="row-img" loading="lazy" />
+							) : (
+								<div class="row-thumb-pattern" aria-hidden="true"></div>
+							)}
+						</div>
+						<div class="row-body">
+							<span class="row-kicker">{post.data.category}</span>
+							<h2 class="row-title">{post.data.title}</h2>
+							<p class="row-desc">{post.data.description}</p>
+							<FormattedDate date={post.data.pubDate} />
+						</div>
+					</a>
+				</article>
+			))}
+		</main>
+
+		<Footer />
+
+		<style>
+			.page-header {
+				background: rgb(var(--gray-50));
+				padding: 4em 1.5em 3em;
+				text-align: center;
+				border-bottom: 1px solid rgb(var(--gray-200));
+			}
+			.page-header-inner { max-width: 720px; margin: 0 auto; }
+			.kicker {
+				font-family: var(--font-sans);
+				font-size: 0.78rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.12em;
+				color: var(--accent);
+				display: block;
+				margin-bottom: 0.8em;
+			}
+			.page-header h1 { font-size: 2.6rem; margin: 0 0 0.4em; }
+			.page-header p { color: rgb(var(--gray-700)); font-size: 1.1rem; margin: 0; }
+
+			.blog-list {
+				max-width: 880px;
+				margin: 3em auto;
+				padding: 0 1.5em;
+			}
+			.row {
+				border-bottom: 1px solid rgb(var(--gray-200));
+				padding: 2em 0;
+			}
+			.row:first-child { padding-top: 0; }
+			.row-link {
+				display: grid;
+				grid-template-columns: 200px 1fr;
+				gap: 2em;
+				color: inherit;
+				text-decoration: none;
+				border: none;
+			}
+			.row-thumb {
+				aspect-ratio: 4 / 3;
+				background: linear-gradient(135deg, #1a1a1a 0%, #404040 100%);
+				border-radius: var(--radius);
+				overflow: hidden;
+				position: relative;
+			}
+			.row-img {
+				width: 100%;
+				height: 100%;
+				object-fit: cover;
+				display: block;
+				border-radius: 0;
+			}
+			.row-thumb-pattern {
+				position: absolute;
+				inset: 0;
+				background-image:
+					radial-gradient(circle at 30% 40%, rgba(220,38,38,0.25) 0, transparent 50%),
+					radial-gradient(circle at 70% 60%, rgba(255,255,255,0.05) 0, transparent 50%);
+			}
+			.row-kicker {
+				font-size: 0.7rem;
+				font-weight: 600;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				color: var(--accent);
+				display: block;
+				margin-bottom: 0.4em;
+			}
+			.row-title {
+				font-size: 1.5rem;
+				margin: 0 0 0.4em;
+				line-height: 1.25;
+			}
+			.row-link:hover .row-title { color: var(--accent); transition: color 180ms ease; }
+			.row-desc {
+				color: rgb(var(--gray-700));
+				font-size: 0.95rem;
+				line-height: 1.55;
+				margin: 0 0 0.6em;
+			}
+			.row-body :global(time) {
+				font-size: 0.85rem;
+				color: rgb(var(--gray-500));
+			}
+
+			@media (max-width: 720px) {
+				.page-header { padding: 2.5em 1em 1.5em; }
+				.page-header h1 { font-size: 1.9rem; }
+				.row-link { grid-template-columns: 1fr; gap: 1em; }
+				.row-thumb { aspect-ratio: 16 / 9; }
+			}
+		</style>
+	</body>
+</html>

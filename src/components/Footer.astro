@@ -1,0 +1,136 @@
+---
+const today = new Date();
+---
+
+<footer class="site-footer">
+	<div class="footer-inner">
+		<div class="footer-brand">
+			<a href="/" class="footer-logo">
+				<span class="logo-mark" aria-hidden="true"></span>
+				<span>WeirdJapan<span class="footer-tld">.news</span></span>
+			</a>
+			<p class="footer-tagline">
+				The strange, the small, and the slightly-too-much in Japanese culture.
+			</p>
+		</div>
+
+		<div class="footer-columns">
+			<div class="footer-col">
+				<h4>Read</h4>
+				<a href="/blog">All Stories</a>
+				<a href="/blog">Only In Japan</a>
+				<a href="/blog">Food</a>
+				<a href="/blog">Tech</a>
+				<a href="/blog">Culture</a>
+			</div>
+			<div class="footer-col">
+				<h4>Site</h4>
+				<a href="/about">About</a>
+				<a href="/rss.xml">RSS feed</a>
+			</div>
+			<div class="footer-col">
+				<h4>Follow</h4>
+				<a href="#" aria-label="X / Twitter">X</a>
+				<a href="#" aria-label="Reddit">Reddit</a>
+				<a href="#" aria-label="Instagram">Instagram</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer-bottom">
+		<p>© {today.getFullYear()} WeirdJapan.news · Made with curiosity in Tokyo.</p>
+	</div>
+</footer>
+
+<style>
+	.site-footer {
+		background: rgb(var(--black));
+		color: rgb(var(--gray-400));
+		padding: 4em 1.5em 2em;
+		margin-top: 0;
+	}
+	.footer-inner {
+		max-width: var(--container);
+		margin: 0 auto;
+		display: grid;
+		grid-template-columns: 1.4fr 2fr;
+		gap: 3em;
+		padding-bottom: 3em;
+		border-bottom: 1px solid rgb(var(--gray-800));
+	}
+	.footer-brand { max-width: 360px; }
+	.footer-logo {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.55em;
+		color: #fff;
+		text-decoration: none;
+		border: none;
+		font-family: var(--font-serif);
+		font-weight: 800;
+		font-size: 1.6rem;
+		letter-spacing: -0.025em;
+		line-height: 1;
+	}
+	.footer-logo:hover { color: #fff; border: none; }
+	.logo-mark {
+		display: inline-block;
+		width: 0.85em;
+		height: 0.85em;
+		background: var(--accent);
+		border-radius: 50%;
+	}
+	.footer-tld { color: var(--accent); }
+	.footer-tagline {
+		margin: 0.8em 0 0;
+		color: rgb(var(--gray-500));
+		font-size: 0.92rem;
+		font-style: italic;
+	}
+
+	.footer-columns {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2em;
+	}
+	.footer-col h4 {
+		font-family: var(--font-sans);
+		font-size: 0.75rem;
+		text-transform: uppercase;
+		letter-spacing: 0.15em;
+		color: #fff;
+		margin: 0 0 1em;
+		font-weight: 600;
+	}
+	.footer-col a {
+		display: block;
+		color: rgb(var(--gray-400));
+		text-decoration: none;
+		border: none;
+		font-size: 0.92rem;
+		margin-bottom: 0.6em;
+		transition: color 150ms ease;
+	}
+	.footer-col a:hover { color: var(--accent); border: none; }
+
+	.footer-bottom {
+		max-width: var(--container);
+		margin: 0 auto;
+		padding-top: 2em;
+		text-align: center;
+	}
+	.footer-bottom p {
+		margin: 0;
+		font-size: 0.85rem;
+		color: rgb(var(--gray-500));
+	}
+
+	@media (max-width: 720px) {
+		.footer-inner {
+			grid-template-columns: 1fr;
+			gap: 2em;
+			padding-bottom: 2em;
+		}
+		.footer-columns { grid-template-columns: repeat(3, 1fr); gap: 1em; }
+	}
+</style>
