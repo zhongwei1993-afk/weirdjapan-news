@@ -10,7 +10,9 @@ const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 
-const [hero, ...rest] = posts;
+const [hero, ...allRest] = posts;
+const rest = allRest.slice(0, 12);
+const totalCount = posts.length;
 ---
 
 <!doctype html>
@@ -47,7 +49,7 @@ const [hero, ...rest] = posts;
 		<section class="latest-section">
 			<div class="section-header">
 				<h2 class="section-title">More Oddities</h2>
-				<a href="/blog" class="section-link">All stories →</a>
+				<a href="/blog" class="section-link">All {totalCount} stories →</a>
 			</div>
 
 			{rest.length === 0 ? (
