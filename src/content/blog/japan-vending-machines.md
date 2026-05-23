@@ -1,6 +1,6 @@
 ---
-title: "Why Japan Has 4 Million Vending Machines That Sell Everything from Fresh Eggs to Used Underwear"
-description: "Japan has one vending machine for every 30 people. They sell hot ramen, live crabs, fresh strawberries, neckties—and yes, even used underwear. Here's why."
+title: "Why Japan Has 4 Million Vending Machines That Sell Everything from Fresh Eggs to Live Crabs"
+description: "Japan has one vending machine for every 30 people. They sell hot ramen, live crabs, fresh strawberries, neckties, hot roast chickens—and a lot more. Here's why."
 pubDate: 2026-05-21
 category: "Only In Japan"
 heroImageUrl: "https://images.unsplash.com/photo-1552349471-57c1b1cce2d3?w=1600&q=80&fm=jpg&auto=format&fit=crop"
@@ -9,9 +9,9 @@ heroImageCredit: "Photo by Ji Seongkwang on Unsplash"
 heroImageCreditUrl: "https://unsplash.com/photos/lvu7gpzIT8k"
 ---
 
-# Why Japan Has 4 Million Vending Machines That Sell Everything from Fresh Eggs to Used Underwear
+# Why Japan Has 4 Million Vending Machines That Sell Everything from Fresh Eggs to Live Crabs
 
-In most countries, vending machines are dusty corner-store relics dispensing warm Coke and stale Doritos. In Japan, they're a **national obsession**, a tourist attraction, and—occasionally—a moral grey zone.
+In most countries, vending machines are dusty corner-store relics dispensing warm Coke and stale Doritos. In Japan, they're a **national obsession**, a tourist attraction, and—occasionally—a slightly absurd one.
 
 There are roughly **4 million vending machines** scattered across Japan, or **one for every 30 people**. They line empty rural roads. They glow in alleyways at 3am. They appear, mysteriously, in fields of rice. And what they sell can range from genuinely useful (hot coffee) to genuinely confusing (deep-fried scorpions).
 
@@ -56,15 +56,9 @@ Tokyo's wealthier suburbs host vending machines selling **single perfect strawbe
 
 Japan gets sudden, brutal rain. Train stations have **umbrella vending machines** that dispense cheap plastic umbrellas for ¥500. Genius.
 
-### Neckties, Shirts, and Underwear (New)
+### Neckties and Shirts (New)
 
 Salarymen who spilled curry on their shirt before an important meeting can buy a replacement from a station vending machine. Same goes for emergency neckties.
-
-### Used Underwear (Yes, Really)
-
-Here we enter the **moral grey zone**. In the 1990s and early 2000s, some Tokyo alleyways had vending machines selling **used schoolgirl underwear** (*burusera*, ブルセラ). This caused international outrage. Japanese authorities cracked down hard. The machines are now essentially extinct, but the legend lives on, often exaggerated.
-
-> **The truth in 2026:** You will not stumble on a used-underwear vending machine in modern Tokyo. They were specific, regional, and quickly outlawed. The "Japan sells used panties from machines" meme is *10% history, 90% click-bait.*
 
 ### Fortunes (Omikuji)
 
