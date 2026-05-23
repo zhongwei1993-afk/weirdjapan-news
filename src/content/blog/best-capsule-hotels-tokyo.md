@@ -3,10 +3,10 @@ title: "The 7 Best Capsule Hotels in Tokyo (Ranked by an Actual Sleeper)"
 description: "Tokyo has 80+ capsule hotels. We slept in 7 of them over four months and ranked the ones actually worth booking — by cleanliness, soundproofing, location, and whether the Wi-Fi survived past midnight."
 pubDate: 2026-05-22
 category: "Travel Guide"
-heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Capsule%20Hotel%20Asakusa%20Riverside%2C%20Tokyo.jpg?width=1600"
-heroImageAlt: "Interior of a Tokyo capsule hotel showing stacked sleeping pods"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/2014-09-05%20a%20room%20of%20capsule%20hotel%20in%20Tokyo.jpg?width=1600"
+heroImageAlt: "Interior of a Tokyo capsule hotel showing a single sleeping pod"
 heroImageCredit: "Image via Wikimedia Commons"
-heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Capsule_Hotel_Asakusa_Riverside,_Tokyo.jpg"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:2014-09-05_a_room_of_capsule_hotel_in_Tokyo.jpg"
 ---
 
 # The 7 Best Capsule Hotels in Tokyo (Ranked by an Actual Sleeper)

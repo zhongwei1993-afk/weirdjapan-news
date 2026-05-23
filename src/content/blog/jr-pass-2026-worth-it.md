@@ -3,10 +3,10 @@ title: "Is the JR Pass Worth It in 2026? A Day-by-Day Cost Calculator"
 description: "The JR Pass went up ~70% in October 2023. For most trips, it's no longer an automatic yes. Here's the actual math—routes, break-even points, and 5 traveler profiles."
 pubDate: 2026-05-22
 category: "Travel Guide"
-heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/JR%20Central%20Series%20N700S%20Z1%20Set.jpg?width=1600"
-heroImageAlt: "JR Central Shinkansen N700S bullet train at the station"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/N700%20Series%20Shinkansen%20on%20Tokaido%20Line%20Tokyo%20March%202015.jpg?width=1600"
+heroImageAlt: "N700 Series Shinkansen on the Tokaido Line in Tokyo"
 heroImageCredit: "Image via Wikimedia Commons"
-heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:JR_Central_Series_N700S_Z1_Set.jpg"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:N700_Series_Shinkansen_on_Tokaido_Line_Tokyo_March_2015.jpg"
 ---
 
 # Is the JR Pass Worth It in 2026? A Day-by-Day Cost Calculator

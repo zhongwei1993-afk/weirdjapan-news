@@ -3,10 +3,10 @@ title: "What to Pack for Tokyo in Winter: The 14 Things Tourists Forget"
 description: "Tokyo winter is colder than tourists expect—not because of the temperature, but because of weak indoor heating, dry wind, and 11-hour days. Here's the real packing list."
 pubDate: 2026-05-22
 category: "Travel Guide"
-heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20winter%20snow.jpg?width=1600"
-heroImageAlt: "Snow-dusted street in Tokyo in winter"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya%20seen%20from%20Roppongi%20Hills%20Mori%20Tower%20on%20a%20clear%20winter%20day.jpg?width=1600"
+heroImageAlt: "Shibuya skyline seen from Roppongi Hills Mori Tower on a clear winter day"
 heroImageCredit: "Image via Wikimedia Commons"
-heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Tokyo_winter_snow.jpg"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Shibuya_seen_from_Roppongi_Hills_Mori_Tower_on_a_clear_winter_day.jpg"
 ---
 
 # What to Pack for Tokyo in Winter: The 14 Things Tourists Forget

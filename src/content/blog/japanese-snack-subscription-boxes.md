@@ -3,10 +3,10 @@ title: "Bokksu vs Sakuraco vs TokyoTreat: Which Japanese Snack Box Is Actually W
 description: "We subscribed to all three of the big Japanese snack subscription boxes for six months. Here's what's really inside, what each costs, and which one is worth your money."
 pubDate: 2026-05-22
 category: "Food"
-heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Sweets.jpg?width=1600"
-heroImageAlt: "Assortment of Japanese sweets and snacks"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Wagashi%20samples%20by%20Noriko%20Jazayeri%202025-05-18.jpg?width=1600"
+heroImageAlt: "Assortment of Japanese wagashi sweets arranged on a plate"
 heroImageCredit: "Image via Wikimedia Commons"
-heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Japanese_Sweets.jpg"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Wagashi_samples_by_Noriko_Jazayeri_2025-05-18.jpg"
 ---
 
 # Bokksu vs Sakuraco vs TokyoTreat: Which Japanese Snack Box Is Actually Worth It?
