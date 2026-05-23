@@ -75,4 +75,4 @@ Cat islands exist because **rural Japan is dying.** When a fishing village empti
 **Related stories:**
 - [Why Japan has 4 million vending machines](/blog/japan-vending-machines/)
 - [I spent the night in a Tokyo capsule hotel](/blog/capsule-hotel-tokyo/)
-- [The lucky cat (maneki-neko) shrine where statues outnumber visitors 100 to 1](#)
+- [The Yanaka cat village: Tokyo's old-town neighborhood ruled by strays](/blog/yanaka-cat-village/)

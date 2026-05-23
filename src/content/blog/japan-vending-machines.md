@@ -118,7 +118,7 @@ In a society that values **omotenashi** (おもてなし)—the deep, almost spi
 *WeirdJapan.news covers the strange, the small, and the slightly-too-much in Japanese culture. Follow us for daily oddities most travel guides skip.*
 
 **Related articles:**
-- [The hotel staffed entirely by robots — and why it failed](#)
-- [Cat Island: where felines outnumber humans 6-to-1](#)
-- [Inside Tokyo's "nap cafés" where ¥1,000 buys you 90 minutes of sleep](#)
-- [Why Japan's elevators play classical music when they break down](#)
+- [The hotel staffed entirely by robots — and why it failed](/blog/robot-hotel-henna/)
+- [Cat Island: where felines outnumber humans](/blog/cat-islands-japan/)
+- [Inside Tokyo's "nap cafés" where ¥1,000 buys you 90 minutes of sleep](/blog/nap-cafes-tokyo/)
+- [The capsule toy mall in Akihabara with 3,000 gachapon machines](/blog/capsule-toy-mall-akihabara/)

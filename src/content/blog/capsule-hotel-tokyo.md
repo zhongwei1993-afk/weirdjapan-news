@@ -86,5 +86,5 @@ Down the hall is the **大浴場** (*daiyokujō*), the communal bath, which is a
 
 **Related stories:**
 - [Why Japan has 4 million vending machines](/blog/japan-vending-machines/)
-- [The hotel staffed entirely by robots — and why it failed](#)
-- [Inside Tokyo's "nap cafés" where ¥1,000 buys you 90 minutes of sleep](#)
+- [The hotel staffed entirely by robots — and why it failed](/blog/robot-hotel-henna/)
+- [Inside Tokyo's "nap cafés" where ¥1,000 buys you 90 minutes of sleep](/blog/nap-cafes-tokyo/)

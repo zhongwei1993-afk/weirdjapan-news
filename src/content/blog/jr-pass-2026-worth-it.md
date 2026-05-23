@@ -17,7 +17,7 @@ For two decades, every Japan travel guide recommended the same thing: buy the Ja
 
 So: is it still worth it? It depends—genuinely—on your route. Below is the math.
 
-> Note: All prices are approximate and based on 2024–2025 data. Live prices fluctuate; check Klook or the official JR Pass site before you buy.
+> Note: All prices are approximate and based on 2025–2026 data. Live prices fluctuate; check Klook or the official JR Pass site before you buy.
 
 ## 1. What Changed in October 2023
 

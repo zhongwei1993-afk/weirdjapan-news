@@ -24,7 +24,7 @@ Four criteria, no exceptions:
 - **English support.** Either an English-speaking guide, English-language confirmation and pickup, or an itinerary so simple you don't need a guide at all.
 - **No Japanese required.** You should be able to do the whole thing with a smile, a Suica card, and Google Translate as backup.
 
-Prices reflect 2024-2025 Klook listing ranges and shift with season, demand, and the yen's mood swings. Treat them as ballpark, not gospel.
+Prices reflect 2025-2026 Klook listing ranges and shift with season, demand, and the yen's mood swings. Treat them as ballpark, not gospel.
 
 ## 1. Mt. Fuji + Five Lakes Bus Day Trip — from ~¥6,000
 
@@ -74,10 +74,12 @@ Twenty-five minutes south of Tokyo by train. Yokohama is a port city with the la
 
 ## 6. Snow Monkey Park (Jigokudani) Day Trip — from ~¥7,800
 
-Yes, you can do this in a single day from Tokyo, though it's a long one. A coach leaves Shinjuku before dawn, drives through the Nagano Alps, and deposits you at **Jigokudani Monkey Park**, where wild **Japanese macaques bathe in natural hot springs** while completely ignoring you. Most tours add a sake brewery or a quick stop at **Zenkoji Temple** on the way back.
+A coach leaves Shinjuku before dawn, drives through the Nagano Alps, and deposits you at **Jigokudani Monkey Park**, where wild **Japanese macaques bathe in natural hot springs** while completely ignoring you. Most tours add a sake brewery or a quick stop at **Zenkoji Temple** on the way back.
 
-**Price range:** ¥7,500-¥7,800. Right at the cap, but unbeatable for the iconic shot.
-**Best for:** wildlife photographers, winter visitors (snow + steam + monkey = peak Japan).
+A note of honesty: this one *works* as a day trip, but it's the trip on this list we'd most encourage you to convert into an **overnight stay in Shibu Onsen** instead — you'll get the empty 9am park before the tour buses arrive, and a kaiseki dinner with snow falling outside. See our full snow-monkey guide for the case against the day-trip version.
+
+**Price range:** ¥7,500-¥7,800. Right at the cap, but unbeatable for the iconic shot if a day-trip is all your schedule allows.
+**Best for:** wildlife photographers and winter visitors with only one free day (snow + steam + monkey = peak Japan).
 
 > [Book a snow monkey day tour on Klook](https://www.klook.com/en-US/search/?query=snow+monkey+jigokudani)
 
