@@ -3,10 +3,10 @@ title: "Japanese Vending Machines Sell Snack Bags of Grasshoppers"
 description: "Inago no tsukudani — grasshoppers boiled in sweet soy sauce — has been Japanese protein since the 1800s. Now they come in vending machines."
 pubDate: 2026-05-03
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Supermarket%20insect%20snacks.jpg?width=1600"
+heroImageAlt: "Supermarket insect snacks"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ASupermarket_insect_snacks.jpg"
 ---
 
 Inago no tsukudani — grasshoppers boiled in sweet soy sauce — has been Japanese protein since the 1800s. Now they come in vending machines.

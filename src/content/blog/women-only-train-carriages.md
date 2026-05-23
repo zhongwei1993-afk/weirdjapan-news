@@ -3,10 +3,10 @@ title: "Japan Has Women-Only Train Carriages. Here's the Sad Reason."
 description: "Introduced in 2000 to combat chikan (groping) on packed trains. Run during rush hour. Effective. The fact that they're necessary is a quiet shame."
 pubDate: 2026-05-18
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20a%20train%20on%20Tokyo%20Metro%20Hanz%C5%8Dmon%20Line.jpg?width=1600"
+heroImageAlt: "Interior of a train on Tokyo Metro Hanzōmon Line"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AInterior_of_a_train_on_Tokyo_Metro_Hanz%C5%8Dmon_Line.jpg"
 ---
 
 Introduced in 2000 to combat chikan (groping) on packed trains. Run during rush hour. Effective. The fact that they're necessary is a quiet shame.

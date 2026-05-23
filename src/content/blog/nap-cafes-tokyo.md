@@ -3,10 +3,10 @@ title: "Tokyo's Nap Cafés Sell 90 Minutes of Sleep for ¥1,000"
 description: "Bed. Blackout curtains. Lavender pillow. No phone. No talking. Tokyo's nap cafés are the productivity hack the West refuses to copy."
 pubDate: 2026-04-17
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1539606420556-14c457c45507?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Stacked capsule hotel beds with white mattresses."
-heroImageCredit: "Photo by Alec Favale on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/RDIa_qFpWHc"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Crown%20logo.png?width=1600"
+heroImageAlt: "The Crown logo"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AThe_Crown_logo.png"
 ---
 
 Bed. Blackout curtains. Lavender pillow. No phone. No talking. Tokyo's nap cafés are the productivity hack the West refuses to copy.

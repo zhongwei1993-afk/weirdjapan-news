@@ -3,10 +3,10 @@ title: "The 4-Hour Japanese Tea Ceremony — What Actually Happens"
 description: "Wear silent shoes. Kneel for 3 hours. Eat soft sweets. Drink one bowl of green foam. There are 1,500 rules. We took the class."
 pubDate: 2026-05-10
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Tea%20Ceremony%20Serving%20Tea.jpg?width=1600"
+heroImageAlt: "Japanese Tea Ceremony Serving Tea"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJapanese_Tea_Ceremony_Serving_Tea.jpg"
 ---
 
 Wear silent shoes. Kneel for 3 hours. Eat soft sweets. Drink one bowl of green foam. There are 1,500 rules. We took the class.

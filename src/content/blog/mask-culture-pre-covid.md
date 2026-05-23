@@ -3,10 +3,10 @@ title: "Japanese Wore Surgical Masks Daily Long Before COVID"
 description: "Pollen allergies. Politeness when sick. Shyness. Skincare. Cold protection. Tokyo's mask culture predates COVID by decades — and it's never going away."
 pubDate: 2026-05-17
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%208%20%28edited%29.jpg?width=1600"
+heroImageAlt: "วัดพระศรีรัตนศาสดาราม 8 (edited)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_8_%28edited%29.jpg"
 ---
 
 Pollen allergies. Politeness when sick. Shyness. Skincare. Cold protection. Tokyo's mask culture predates COVID by decades — and it's never going away.

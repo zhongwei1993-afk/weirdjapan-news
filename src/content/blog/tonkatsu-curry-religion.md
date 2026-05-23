@@ -3,10 +3,10 @@ title: "Tonkatsu Curry: Japan's Brown Comfort Food Religion"
 description: "Breaded pork cutlet. Brown curry sauce. White rice. Eaten weekly by 30 million Japanese. There are tonkatsu academies. We're not joking."
 pubDate: 2026-05-07
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Curry%20rice%20with%20Tonkatsu%20%2855121775%29.jpg?width=1600"
+heroImageAlt: "Curry rice with Tonkatsu (55121775)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ACurry_rice_with_Tonkatsu_%2855121775%29.jpg"
 ---
 
 Breaded pork cutlet. Brown curry sauce. White rice. Eaten weekly by 30 million Japanese. There are tonkatsu academies. We're not joking.

@@ -3,10 +3,10 @@ title: "Japanese Candy Sculptors Make Animals From Hot Sugar in 3 Minutes"
 description: "Amezaiku artists pull boiling sugar with bare hands, shape it with scissors, and paint it. The animals are edible. The artists are dying out."
 pubDate: 2026-05-14
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Illustration%20of%20The%20Siberian%20War%2C%20No.%2016.%20The%20Japanese%20Army%20Occupied%20Vragaeschensk.jpg?width=1600"
+heroImageAlt: "The Illustration of The Siberian War, No. 16. The Japanese Army Occupied Vragaeschensk"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AThe_Illustration_of_The_Siberian_War%2C_No._16._The_Japanese_Army_Occupied_Vragaeschensk.jpg"
 ---
 
 Amezaiku artists pull boiling sugar with bare hands, shape it with scissors, and paint it. The animals are edible. The artists are dying out.

@@ -3,10 +3,10 @@ title: "Tokyo's Public Bathhouses Are Vanishing. Here's How to Use One Properly.
 description: "Sentos require a wash before you enter the bath. Tattoos are usually banned. Towels stay out of the water. We've made all the mistakes so you don't."
 pubDate: 2026-05-13
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Tatami%20room%20in%20Dogo%20Onsen%20%2822408557315%29.jpg?width=1600"
+heroImageAlt: "Tatami room in Dogo Onsen (22408557315)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ATatami_room_in_Dogo_Onsen_%2822408557315%29.jpg"
 ---
 
 Sentos require a wash before you enter the bath. Tattoos are usually banned. Towels stay out of the water. We've made all the mistakes so you don't.

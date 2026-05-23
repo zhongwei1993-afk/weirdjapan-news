@@ -3,10 +3,10 @@ title: "Japan's Hospitals Use Robots to Replace Bedridden Office Workers"
 description: "The OriHime robot is operated remotely by ALS patients and bedridden workers. It serves coffee in cafés. Customers know. It's beautiful."
 pubDate: 2026-04-30
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Autumn%20Siegel%20with%20small%205%20finger%20robot%20arm.jpg?width=1600"
+heroImageAlt: "Autumn Siegel with small 5 finger robot arm"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AAutumn_Siegel_with_small_5_finger_robot_arm.jpg"
 ---
 
 The OriHime robot is operated remotely by ALS patients and bedridden workers. It serves coffee in cafés. Customers know. It's beautiful.

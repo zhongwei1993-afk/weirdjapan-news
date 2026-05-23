@@ -3,10 +3,10 @@ title: "The Vending Machine That Tests Your Urine for Cancer"
 description: "A Tokyo startup placed urine-analysis vending machines in office buildings. ¥500 per test. Results in 60 seconds. Adoption is mixed."
 pubDate: 2026-04-24
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1552349471-57c1b1cce2d3?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Row of brightly colored Japanese vending machines."
-heroImageCredit: "Photo by Ji Seongkwang on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/lvu7gpzIT8k"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Laboratory%20Test%20Tubes%3B%20from%20a%20medical%20laboratory%20in%20Abuja%2C%20Nigeria.jpg?width=1600"
+heroImageAlt: "Laboratory Test Tubes; from a medical laboratory in Abuja, Nigeria"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ALaboratory_Test_Tubes%3B_from_a_medical_laboratory_in_Abuja%2C_Nigeria.jpg"
 ---
 
 A Tokyo startup placed urine-analysis vending machines in office buildings. ¥500 per test. Results in 60 seconds. Adoption is mixed.

@@ -3,10 +3,10 @@ title: "Japan's Starbucks Sells Sakura Lattes the Rest of the World Can't Buy"
 description: "The Japanese Starbucks menu is its own universe: sakura, hojicha, matcha, mochi, wagashi-shaped pastries. Starbucks Japan operates almost independently."
 pubDate: 2026-05-09
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Starbucks%20Grande%20Iced%20Pumpkin%20Spice%20Latte.jpg?width=1600"
+heroImageAlt: "Starbucks Grande Iced Pumpkin Spice Latte"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AStarbucks_Grande_Iced_Pumpkin_Spice_Latte.jpg"
 ---
 
 The Japanese Starbucks menu is its own universe: sakura, hojicha, matcha, mochi, wagashi-shaped pastries. Starbucks Japan operates almost independently.

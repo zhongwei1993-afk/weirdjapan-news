@@ -3,10 +3,10 @@ title: "Japan Has Origami Olympics. The World Champion is 9 Years Old."
 description: "Competitive origami requires inventing your own designs. The top folders work in their sleep, sometimes literally. Categories range from cranes to dragons with 1,000 scales."
 pubDate: 2026-05-11
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Cranes%20made%20by%20Origami%20paper.jpg?width=1600"
+heroImageAlt: "Cranes made by Origami paper"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ACranes_made_by_Origami_paper.jpg"
 ---
 
 Competitive origami requires inventing your own designs. The top folders work in their sleep, sometimes literally. Categories range from cranes to dragons with 1,000 scales.

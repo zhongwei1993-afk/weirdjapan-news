@@ -3,10 +3,10 @@ title: "Why a Generation of Japanese Men Stopped Dating"
 description: "Soshoku-danshi ('herbivore men') reject traditional masculinity, romance, and sex. They prefer hobbies. The trend is reshaping Japanese demographics."
 pubDate: 2026-05-15
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Young%20Man%20with%20Skateboard%20-%20Heiwa%20Street%20-%20Asahikawa%20-%20Hokkaido%20-%20Japan%20%2848018079791%29.jpg?width=1600"
+heroImageAlt: "Young Man with Skateboard   Heiwa Street   Asahikawa   Hokkaido   Japan (48018079791)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AYoung_Man_with_Skateboard_-_Heiwa_Street_-_Asahikawa_-_Hokkaido_-_Japan_%2848018079791%29.jpg"
 ---
 
 Soshoku-danshi ('herbivore men') reject traditional masculinity, romance, and sex. They prefer hobbies. The trend is reshaping Japanese demographics.

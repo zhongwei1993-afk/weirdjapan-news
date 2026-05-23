@@ -3,10 +3,10 @@ title: "Tokyo's Drinking Game Played on a Real Train Line"
 description: "The Yamanote loops 29 stations. The game: every stop, name something from a category. Miss, you drink. It's slowly turning Tokyo expats into alcoholics."
 pubDate: 2026-04-22
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Yamanote%20Line%20205%20series%20set%2033%20AD%20Train%20Tokyo%20Station%2020030202.JPG?width=1600"
+heroImageAlt: "Yamanote Line 205 series set 33 AD Train Tokyo Station 20030202"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AYamanote_Line_205_series_set_33_AD_Train_Tokyo_Station_20030202.JPG"
 ---
 
 The Yamanote loops 29 stations. The game: every stop, name something from a category. Miss, you drink. It's slowly turning Tokyo expats into alcoholics.

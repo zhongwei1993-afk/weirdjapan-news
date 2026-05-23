@@ -3,10 +3,10 @@ title: "Why a Japanese Train Apologized for Leaving 20 Seconds Early"
 description: "In 2017, the Tsukuba Express issued a public apology for a 20-second-early departure. The story went global. It's not even unusual in Japan."
 pubDate: 2026-04-27
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Line%20scan%20photo%20of%20Shinkansen%20N700A%20Series%20Set%20G13%20in%202017%2C%20car%2016.png?width=1600"
+heroImageAlt: "Line scan photo of Shinkansen N700A Series Set G13 in 2017, car 16"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ALine_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_16.png"
 ---
 
 In 2017, the Tsukuba Express issued a public apology for a 20-second-early departure. The story went global. It's not even unusual in Japan.

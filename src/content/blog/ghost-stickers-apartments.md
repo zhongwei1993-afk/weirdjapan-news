@@ -3,10 +3,10 @@ title: "Japan Sells Anti-Ghost Stickers for Apartments. They Work, Apparently."
 description: "Stick this on your wall to ward off resident yūrei. ¥300 each. Endorsed by Shinto priests. Available at Don Quijote."
 pubDate: 2026-04-20
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Tbs%20Chochinobake.png?width=1600"
+heroImageAlt: "Tbs Chochinobake"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ATbs_Chochinobake.png"
 ---
 
 Stick this on your wall to ward off resident yūrei. ¥300 each. Endorsed by Shinto priests. Available at Don Quijote.

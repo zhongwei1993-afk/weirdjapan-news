@@ -3,10 +3,10 @@ title: "Kyoto's Anti-Ninja Floors Chirp When Someone Walks On Them"
 description: "Nijo Castle has 'nightingale floors' engineered to squeak when stepped on — an alarm system to detect intruding ninjas in the 17th century."
 pubDate: 2026-05-12
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Himeji%20Castle%20No09%20124.jpg?width=1600"
+heroImageAlt: "Himeji Castle No09 124"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHimeji_Castle_No09_124.jpg"
 ---
 
 Nijo Castle has 'nightingale floors' engineered to squeak when stepped on — an alarm system to detect intruding ninjas in the 17th century.

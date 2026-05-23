@@ -3,10 +3,10 @@ title: "Drink Blood Cocktails at Tokyo's Vampire Café — Open Since 2000"
 description: "Ginza hides a vampire-themed restaurant that's been operating for 25 years. The coffin tables are real. The blood-red cocktails are virgin."
 pubDate: 2026-04-17
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Headbangers.jpg?width=1600"
+heroImageAlt: "Headbangers"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHeadbangers.jpg"
 ---
 
 Ginza hides a vampire-themed restaurant that's been operating for 25 years. The coffin tables are real. The blood-red cocktails are virgin.

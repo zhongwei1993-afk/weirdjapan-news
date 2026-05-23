@@ -3,10 +3,10 @@ title: "Sleeping in Meetings is a Status Symbol in Japan"
 description: "Inemuri ('sleeping while present') signals you worked so hard you collapsed mid-task. Bosses respect it. Subordinates can't do it. There are rules."
 pubDate: 2026-05-16
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1539606420556-14c457c45507?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Stacked capsule hotel beds with white mattresses."
-heroImageCredit: "Photo by Alec Favale on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/RDIa_qFpWHc"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/He%20IS%20SLEEPING%20his%20worktime%21%21%21%20%286890836804%29.jpg?width=1600"
+heroImageAlt: "He IS SLEEPING his worktime!!! (6890836804)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHe_IS_SLEEPING_his_worktime%21%21%21_%286890836804%29.jpg"
 ---
 
 Inemuri ('sleeping while present') signals you worked so hard you collapsed mid-task. Bosses respect it. Subordinates can't do it. There are rules.

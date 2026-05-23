@@ -3,10 +3,10 @@ title: "I Paid ¥6,000 to Sleep Next to a Stranger at a Tokyo 'Cuddle Café'"
 description: "No touching below the shoulder. No conversation about your real life. Just 60 minutes of platonic proximity. Welcome to Japan's strangest service."
 pubDate: 2026-04-15
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1701338462908-6022ef7cb466?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Akihabara at night, glowing with dense neon."
-heroImageCredit: "Photo by Darwin Vegher on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/CPAajYWQeR4"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Lesbian%20Couple%20togetherness%20in%20bed%2002.jpg?width=1600"
+heroImageAlt: "Lesbian Couple togetherness in bed 02"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ALesbian_Couple_togetherness_in_bed_02.jpg"
 ---
 
 No touching below the shoulder. No conversation about your real life. Just 60 minutes of platonic proximity. Welcome to Japan's strangest service.

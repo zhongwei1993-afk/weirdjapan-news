@@ -3,10 +3,10 @@ title: "The Tokyo Vending Machine That Sells Live Crabs"
 description: "Yes, live ones. They're in plastic boxes. You grab one with a claw-arm. They're alive. They're angry. Customers reportedly cook and eat them."
 pubDate: 2026-04-25
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1552349471-57c1b1cce2d3?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Row of brightly colored Japanese vending machines."
-heroImageCredit: "Photo by Ji Seongkwang on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/lvu7gpzIT8k"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Live%20crabs%20on%20sale%20in%20outdoor%20market%20in%20Grenada.jpg?width=1600"
+heroImageAlt: "Live crabs on sale in outdoor market in Grenada"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ALive_crabs_on_sale_in_outdoor_market_in_Grenada.jpg"
 ---
 
 Yes, live ones. They're in plastic boxes. You grab one with a claw-arm. They're alive. They're angry. Customers reportedly cook and eat them.

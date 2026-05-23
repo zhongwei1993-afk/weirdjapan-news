@@ -3,10 +3,10 @@ title: "Japan Has a National Cherry Blossom Forecast on the News"
 description: "The Sakura-zensen (cherry blossom front) is tracked daily by 6 organizations. Maps show when each city will bloom. Hanami party planners depend on it."
 pubDate: 2026-05-10
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1598957232485-fab51e0ed7e8?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Pathway between blooming cherry blossom trees."
-heroImageCredit: "Photo by Crystal Kay on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/7viWpO0fNss"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Rail%20tracks%20and%20cherry%20trees%20in%20Ashino%20Park.jpg?width=1600"
+heroImageAlt: "Rail tracks and cherry trees in Ashino Park"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ARail_tracks_and_cherry_trees_in_Ashino_Park.jpg"
 ---
 
 The Sakura-zensen (cherry blossom front) is tracked daily by 6 organizations. Maps show when each city will bloom. Hanami party planners depend on it.

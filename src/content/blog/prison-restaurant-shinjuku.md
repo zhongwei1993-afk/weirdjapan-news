@@ -3,10 +3,10 @@ title: "Tokyo's Prison Restaurant Locks You in for Dinner"
 description: "Kagaya in Shinjuku puts diners in a 'cell' where the waiter pretends to be a corrupt prison guard. The food is excellent. The experience is disorienting."
 pubDate: 2026-04-17
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Prison%20Bars%20Jail%20Cell.jpg?width=1600"
+heroImageAlt: "Prison Bars Jail Cell"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3APrison_Bars_Jail_Cell.jpg"
 ---
 
 Kagaya in Shinjuku puts diners in a 'cell' where the waiter pretends to be a corrupt prison guard. The food is excellent. The experience is disorienting.

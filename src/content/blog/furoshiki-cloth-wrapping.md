@@ -3,10 +3,10 @@ title: "Japan's Cloth-Wrapping Art Replaces Plastic Bags. It's Brilliant."
 description: "Furoshiki is the art of wrapping any object in one square of cloth. Folded right, it's a bag, a backpack, gift wrap, or a wine carrier. Reusable forever."
 pubDate: 2026-05-14
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Wrapping%20Cloth%20%28furoshiki%29%20%28Japan%29%2C%2019th%20century%20%28CH%2018399509%29.jpg?width=1600"
+heroImageAlt: "Wrapping Cloth (furoshiki) (Japan), 19th century (CH 18399509)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWrapping_Cloth_%28furoshiki%29_%28Japan%29%2C_19th_century_%28CH_18399509%29.jpg"
 ---
 
 Furoshiki is the art of wrapping any object in one square of cloth. Folded right, it's a bag, a backpack, gift wrap, or a wine carrier. Reusable forever.

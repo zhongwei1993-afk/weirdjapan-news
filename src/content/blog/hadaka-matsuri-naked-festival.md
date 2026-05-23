@@ -3,10 +3,10 @@ title: "9,000 Men Run Naked Through Okayama. It's a Religion."
 description: "Once a year, men in loincloths fight to grab a sacred wooden stick at Saidaiji Temple. The winner gets a year of good luck. And bruises."
 pubDate: 2026-04-21
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1757944075647-2498be56bb62?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Glowing Japanese lanterns at a night festival."
-heroImageCredit: "Photo by ayumi kubo on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/guEJrCgWtGs"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Hadaka%20Matsuri%20small.JPG?width=1600"
+heroImageAlt: "Hadaka Matsuri small"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHadaka_Matsuri_small.JPG"
 ---
 
 Once a year, men in loincloths fight to grab a sacred wooden stick at Saidaiji Temple. The winner gets a year of good luck. And bruises.

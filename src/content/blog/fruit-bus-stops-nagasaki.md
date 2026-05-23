@@ -3,10 +3,10 @@ title: "Japan Built Bus Stops Shaped Like Giant Strawberries"
 description: "In Konagai, Nagasaki, the bus stops are shaped like watermelons, strawberries, melons, and tomatoes. There's no good explanation."
 pubDate: 2026-04-29
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Fruit%20Shaped%20Bus%20Stops%20in%20Konagai%2004.jpg?width=1600"
+heroImageAlt: "Fruit Shaped Bus Stops in Konagai 04"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AFruit_Shaped_Bus_Stops_in_Konagai_04.jpg"
 ---
 
 In Konagai, Nagasaki, the bus stops are shaped like watermelons, strawberries, melons, and tomatoes. There's no good explanation.

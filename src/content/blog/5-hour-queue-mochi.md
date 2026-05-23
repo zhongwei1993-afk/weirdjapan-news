@@ -3,10 +3,10 @@ title: "Tokyo's 5-Hour Queues for Limited-Edition Mochi"
 description: "When a Tokyo bakery announces a seasonal limited mochi, queues form at dawn. Some bring camping chairs. Some hire substitutes. The mochi sells out in 90 minutes."
 pubDate: 2026-05-17
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/People%20waiting%20in%20line%20%40%20Harajuku%20%289439699385%29.jpg?width=1600"
+heroImageAlt: "People waiting in line @ Harajuku (9439699385)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3APeople_waiting_in_line_%40_Harajuku_%289439699385%29.jpg"
 ---
 
 When a Tokyo bakery announces a seasonal limited mochi, queues form at dawn. Some bring camping chairs. Some hire substitutes. The mochi sells out in 90 minutes.

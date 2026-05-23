@@ -3,10 +3,10 @@ title: "13 Million Japanese Visit a Shrine on January 1st. Together."
 description: "Hatsumōde is the year's first shrine visit. Meiji Shrine alone hosts 3 million people in 3 days. The queues are mythological."
 pubDate: 2026-04-24
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A vermilion torii gate at a Japanese shrine."
-heroImageCredit: "Photo by Tianshu Liu on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/SBK40fdKbAg"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Crowds%20at%20Atsuta%20Shrine%2C%20New%20Year%E2%80%99s%20Day%20%2880254988%29.jpg?width=1600"
+heroImageAlt: "Crowds at Atsuta Shrine, New Year’s Day (80254988)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ACrowds_at_Atsuta_Shrine%2C_New_Year%E2%80%99s_Day_%2880254988%29.jpg"
 ---
 
 Hatsumōde is the year's first shrine visit. Meiji Shrine alone hosts 3 million people in 3 days. The queues are mythological.

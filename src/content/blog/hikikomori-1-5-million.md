@@ -3,10 +3,10 @@ title: "Japan Has 1.5 Million 'Hikikomori' — Adults Who Don't Leave Their Room
 description: "Hikikomori withdraw from society for six months to decades. Government estimates put their number at 1.5 million. The oldest are now in their 60s."
 pubDate: 2026-05-15
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1539606420556-14c457c45507?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Stacked capsule hotel beds with white mattresses."
-heroImageCredit: "Photo by Alec Favale on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/RDIa_qFpWHc"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Empty%20bedroom%20%284103505582%29.jpg?width=1600"
+heroImageAlt: "Empty bedroom (4103505582)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AEmpty_bedroom_%284103505582%29.jpg"
 ---
 
 Hikikomori withdraw from society for six months to decades. Government estimates put their number at 1.5 million. The oldest are now in their 60s.

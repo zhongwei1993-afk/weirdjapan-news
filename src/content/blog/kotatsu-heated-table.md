@@ -3,10 +3,10 @@ title: "Japanese Homes Have Heated Tables You Crawl Inside"
 description: "The kotatsu is a low table with a heater underneath and a blanket draped over. Japanese winter survival happens almost entirely inside one."
 pubDate: 2026-04-30
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Painting%2C%20handscroll%2C%20shunga%20%28BM%202015%2C3044.1%29.jpg?width=1600"
+heroImageAlt: "Painting, handscroll, shunga (BM 2015,3044.1)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3APainting%2C_handscroll%2C_shunga_%28BM_2015%2C3044.1%29.jpg"
 ---
 
 The kotatsu is a low table with a heater underneath and a blanket draped over. Japanese winter survival happens almost entirely inside one.

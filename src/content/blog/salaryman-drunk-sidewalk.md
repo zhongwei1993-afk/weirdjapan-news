@@ -3,10 +3,10 @@ title: "Why It's Legally OK to Be Passed Out Drunk on Tokyo Sidewalks"
 description: "Drunken sleep on the pavement is common, harmless, and culturally tolerated. The crime rate is too low for anyone to bother you. Wallets are usually intact."
 pubDate: 2026-05-16
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Salaryman%20asleep%20on%20the%20Tokyo%20Subway.jpg?width=1600"
+heroImageAlt: "Salaryman asleep on the Tokyo Subway"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ASalaryman_asleep_on_the_Tokyo_Subway.jpg"
 ---
 
 Drunken sleep on the pavement is common, harmless, and culturally tolerated. The crime rate is too low for anyone to bother you. Wallets are usually intact.

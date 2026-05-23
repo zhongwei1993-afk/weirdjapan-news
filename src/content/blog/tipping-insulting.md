@@ -3,10 +3,10 @@ title: "Why Tipping in Japan Will Insult the Server"
 description: "Service is included in the price. Hospitality is a cultural duty, not a transaction. Try to tip and the staff will chase you down the street to return the money."
 pubDate: 2026-05-17
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Waiter%20with%20Botekara%20garlic%20Karaage%20%E5%94%90%E6%8F%9A%E3%81%92%20Tempura%20%E5%A4%A9%E3%81%B7%E3%82%89%20Tentsuyu%20%E3%81%A6%E3%82%93%E3%81%A4%E3%82%86-%E5%A4%A9%E6%B1%81%20%E3%82%81%E3%82%93%E3%81%A4%E3%82%86%20Tem-tsuyu6.jpg?width=1600"
+heroImageAlt: "Waiter with Botekara garlic Karaage 唐揚げ Tempura 天ぷら Tentsuyu てんつゆ 天汁 めんつゆ Tem tsuyu6"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWaiter_with_Botekara_garlic_Karaage_%E5%94%90%E6%8F%9A%E3%81%92_Tempura_%E5%A4%A9%E3%81%B7%E3%82%89_Tentsuyu_%E3%81%A6%E3%82%93%E3%81%A4%E3%82%86-%E5%A4%A9%E6%B1%81_%E3%82%81%E3%82%93%E3%81%A4%E3%82%86_Tem-tsuyu6.jpg"
 ---
 
 Service is included in the price. Hospitality is a cultural duty, not a transaction. Try to tip and the staff will chase you down the street to return the money.

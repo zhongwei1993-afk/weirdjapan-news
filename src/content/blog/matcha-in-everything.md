@@ -3,10 +3,10 @@ title: "Why Matcha is in Literally Everything in Japan, Including KFC"
 description: "Matcha Frappuccinos. Matcha Kit Kats. Matcha pizza. Matcha KFC. It's not just trendy — matcha is a 1,000-year-old Japanese industry quietly conquering the world."
 pubDate: 2026-05-09
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Matcha%20tea%20latte%20with%20rosetta%20latte%20art.jpg?width=1600"
+heroImageAlt: "Matcha tea latte with rosetta latte art"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AMatcha_tea_latte_with_rosetta_latte_art.jpg"
 ---
 
 Matcha Frappuccinos. Matcha Kit Kats. Matcha pizza. Matcha KFC. It's not just trendy — matcha is a 1,000-year-old Japanese industry quietly conquering the world.

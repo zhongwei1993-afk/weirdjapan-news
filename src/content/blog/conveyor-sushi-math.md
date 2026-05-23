@@ -3,10 +3,10 @@ title: "How Conveyor-Belt Sushi Math Feeds Tokyo's Hungriest Office Workers"
 description: "A plate every 8 seconds. ¥120-500 each. Color-coded for price. Tablet ordering, AI inventory. Sushiro is essentially a logistics company."
 pubDate: 2026-05-07
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/010%20Sushi%20master%20in%20Kyoto%2C%20Japan%20-%20sushi%20chef%20%E5%AF%BF%E5%8F%B8%E8%81%B7%E4%BA%BA.jpg?width=1600"
+heroImageAlt: "010 Sushi master in Kyoto, Japan   sushi chef 寿司職人"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3A010_Sushi_master_in_Kyoto%2C_Japan_-_sushi_chef_%E5%AF%BF%E5%8F%B8%E8%81%B7%E4%BA%BA.jpg"
 ---
 
 A plate every 8 seconds. ¥120-500 each. Color-coded for price. Tablet ordering, AI inventory. Sushiro is essentially a logistics company.

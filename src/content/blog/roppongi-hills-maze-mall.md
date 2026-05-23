@@ -3,10 +3,10 @@ title: "Roppongi Hills Mall Is Famous for Getting Tourists Lost"
 description: "Six levels. Spiral layouts. Identical signage. Even Tokyo locals get disoriented. Internet message boards have escape guides."
 pubDate: 2026-05-20
 category: "Tokyo"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/DiverCity%20Tokyo%20Plaza%202.jpg?width=1600"
+heroImageAlt: "DiverCity Tokyo Plaza 2"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ADiverCity_Tokyo_Plaza_2.jpg"
 ---
 
 Six levels. Spiral layouts. Identical signage. Even Tokyo locals get disoriented. Internet message boards have escape guides.

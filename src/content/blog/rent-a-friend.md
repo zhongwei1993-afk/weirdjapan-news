@@ -3,10 +3,10 @@ title: "Tokyo's 'Rent a Friend' Industry is Worth Millions"
 description: "Lonely? Need a wedding date? Need a fake parent for parent-teacher day? Japan's actor-friend rental industry will discreetly provide."
 pubDate: 2026-04-18
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/As%20Friends%20Rust%20at%20Shinjuku%20Nine%20Spices%202014-2.jpg?width=1600"
+heroImageAlt: "As Friends Rust at Shinjuku Nine Spices 2014 2"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AAs_Friends_Rust_at_Shinjuku_Nine_Spices_2014-2.jpg"
 ---
 
 Lonely? Need a wedding date? Need a fake parent for parent-teacher day? Japan's actor-friend rental industry will discreetly provide.

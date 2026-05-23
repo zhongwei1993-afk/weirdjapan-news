@@ -3,10 +3,10 @@ title: "Some Japanese Bonsai Trees Are 300 Years Old. They're Inherited."
 description: "A bonsai is not a houseplant. Some are family heirlooms passed through 8 generations. The oldest known bonsai in Japan dates to 1610."
 pubDate: 2026-05-11
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Bonsai%2C%20Kenshin%20Toge.jpg?width=1600"
+heroImageAlt: "Bonsai, Kenshin Toge"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ABonsai%2C_Kenshin_Toge.jpg"
 ---
 
 A bonsai is not a houseplant. Some are family heirlooms passed through 8 generations. The oldest known bonsai in Japan dates to 1610.

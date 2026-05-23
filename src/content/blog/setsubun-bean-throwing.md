@@ -3,10 +3,10 @@ title: "Japanese Throw Beans at Family Members Once a Year to Banish Demons"
 description: "On February 3rd, Japanese families shout 'Demons out, fortune in!' while pelting each other (and a parent in a demon mask) with soybeans."
 pubDate: 2026-04-24
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1757944075647-2498be56bb62?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Glowing Japanese lanterns at a night festival."
-heroImageCredit: "Photo by ayumi kubo on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/guEJrCgWtGs"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20demon%20mask%20small.jpg?width=1600"
+heroImageAlt: "Japanese demon mask small"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJapanese_demon_mask_small.jpg"
 ---
 
 On February 3rd, Japanese families shout 'Demons out, fortune in!' while pelting each other (and a parent in a demon mask) with soybeans.

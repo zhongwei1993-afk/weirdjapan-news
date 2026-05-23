@@ -3,10 +3,10 @@ title: "The Hot Spring Where Snow Monkeys Outnumber Tourists"
 description: "Jigokudani Monkey Park in Nagano is the only place in the world where wild macaques bathe in hot springs. They've been doing it since 1963."
 pubDate: 2026-04-18
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Kopfstudie%20eines%20Japanmakaken%20%28Macaca%20fuscata%29%20im%20Jigokudani%20Yaen%20K%C5%8Den%2C%20Japan.jpg?width=1600"
+heroImageAlt: "Kopfstudie eines Japanmakaken (Macaca fuscata) im Jigokudani Yaen Kōen, Japan"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AKopfstudie_eines_Japanmakaken_%28Macaca_fuscata%29_im_Jigokudani_Yaen_K%C5%8Den%2C_Japan.jpg"
 ---
 
 Jigokudani Monkey Park in Nagano is the only place in the world where wild macaques bathe in hot springs. They've been doing it since 1963.

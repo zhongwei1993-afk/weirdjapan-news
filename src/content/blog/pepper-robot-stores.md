@@ -3,10 +3,10 @@ title: "Japan Has a Robot That Cries When You Don't Buy Anything"
 description: "Pepper appears in SoftBank stores, banks, and hotels. It reads emotions — and yes, looks dejected when you walk away without buying."
 pubDate: 2026-04-28
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20102-13018%2C%20Maschinenmensch%20%22Robot%22.jpg?width=1600"
+heroImageAlt: "Bundesarchiv Bild 102 13018, Maschinenmensch Robot"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_102-13018%2C_Maschinenmensch_%22Robot%22.jpg"
 ---
 
 Pepper appears in SoftBank stores, banks, and hotels. It reads emotions — and yes, looks dejected when you walk away without buying.

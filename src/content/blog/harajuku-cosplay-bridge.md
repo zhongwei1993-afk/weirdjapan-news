@@ -3,10 +3,10 @@ title: "The Harajuku Bridge Where Tokyo's Cosplayers Used to Live"
 description: "Jingu-bashi was the cosplay capital of the world from the 1990s to 2010. Then social media killed the scene. Here's what happened."
 pubDate: 2026-04-22
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1701338462908-6022ef7cb466?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Akihabara at night, glowing with dense neon."
-heroImageCredit: "Photo by Darwin Vegher on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/CPAajYWQeR4"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Harajuku%20fashion%202005.jpg?width=1600"
+heroImageAlt: "Harajuku fashion 2005"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHarajuku_fashion_2005.jpg"
 ---
 
 Jingu-bashi was the cosplay capital of the world from the 1990s to 2010. Then social media killed the scene. Here's what happened.

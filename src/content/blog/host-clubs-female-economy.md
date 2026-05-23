@@ -3,10 +3,10 @@ title: "Inside Tokyo's Host Clubs — The Female-Run Other Side of the Industry"
 description: "Hosts pour drinks, listen, charm, and earn $100,000+ a month from female clients. Most clients are sex workers reinvesting their own earnings."
 pubDate: 2026-05-18
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Host%20and%20hostess%20clubs%20in%20Ginza.JPG?width=1600"
+heroImageAlt: "Host and hostess clubs in Ginza"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHost_and_hostess_clubs_in_Ginza.JPG"
 ---
 
 Hosts pour drinks, listen, charm, and earn $100,000+ a month from female clients. Most clients are sex workers reinvesting their own earnings.

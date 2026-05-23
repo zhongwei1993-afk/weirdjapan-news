@@ -3,10 +3,10 @@ title: "Japan's 'Crying Clubs' Where Men Pay ¥7,000 to Sob in Public"
 description: "Rui-katsu (tear-seeking) is a wellness trend where Japanese salarymen pay to watch sad films and cry in a group. It works."
 pubDate: 2026-04-16
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/SOB%20RABe%20526%20Wassen.jpg?width=1600"
+heroImageAlt: "SOB RABe 526 Wassen"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ASOB_RABe_526_Wassen.jpg"
 ---
 
 Rui-katsu (tear-seeking) is a wellness trend where Japanese salarymen pay to watch sad films and cry in a group. It works.

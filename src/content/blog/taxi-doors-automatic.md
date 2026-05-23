@@ -3,10 +3,10 @@ title: "Japanese Taxi Doors Open Automatically. Touch Them and You're Fired."
 description: "The rear passenger door opens via lever from the driver's seat. Touching it disrespects the driver's craft. Tourists do it constantly. Drivers seethe quietly."
 pubDate: 2026-04-26
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Green%20and%20yellow%20taxi%20at%20night%20in%20Yasukuni-dori%20Avenue%2C%20Shinjuku%2C%20Tokyo.jpg?width=1600"
+heroImageAlt: "Green and yellow taxi at night in Yasukuni dori Avenue, Shinjuku, Tokyo"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AGreen_and_yellow_taxi_at_night_in_Yasukuni-dori_Avenue%2C_Shinjuku%2C_Tokyo.jpg"
 ---
 
 The rear passenger door opens via lever from the driver's seat. Touching it disrespects the driver's craft. Tourists do it constantly. Drivers seethe quietly.

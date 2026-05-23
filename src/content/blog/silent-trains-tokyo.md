@@ -3,10 +3,10 @@ title: "Why Tokyo's Trains Are Almost Completely Silent"
 description: "Phone calls are banned. Talking is hushed. Music leaks earn glares. Cultural pressure, not law, keeps Tokyo's 8.7 million daily commuters quiet."
 pubDate: 2026-05-18
 category: "Lifestyle"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo-Metro%20Series16000-16001.jpg?width=1600"
+heroImageAlt: "Tokyo Metro Series16000 16001"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ATokyo-Metro_Series16000-16001.jpg"
 ---
 
 Phone calls are banned. Talking is hushed. Music leaks earn glares. Cultural pressure, not law, keeps Tokyo's 8.7 million daily commuters quiet.

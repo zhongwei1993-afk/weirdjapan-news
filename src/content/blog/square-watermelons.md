@@ -3,10 +3,10 @@ title: "Japan Grows Square Watermelons. They Cost ¥10,000 Each."
 description: "Farmers in Kagawa grow watermelons inside acrylic boxes. The result: cube-shaped fruit that fits perfectly in a fridge — but is too unripe to eat."
 pubDate: 2026-04-20
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Watermelon%20yellow%202024%20G1.jpg?width=1600"
+heroImageAlt: "Watermelon yellow 2024 G1"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWatermelon_yellow_2024_G1.jpg"
 ---
 
 Farmers in Kagawa grow watermelons inside acrylic boxes. The result: cube-shaped fruit that fits perfectly in a fridge — but is too unripe to eat.

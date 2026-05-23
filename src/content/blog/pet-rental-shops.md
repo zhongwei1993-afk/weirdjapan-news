@@ -3,10 +3,10 @@ title: "Tokyo's Pet Rental Shops Let You Borrow a Dog for ¥3,000"
 description: "Can't own a pet in your tiny Tokyo apartment? Rent one for the weekend. The industry is regulated, ethical, and surprisingly heartwarming."
 pubDate: 2026-04-15
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1701338462908-6022ef7cb466?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Akihabara at night, glowing with dense neon."
-heroImageCredit: "Photo by Darwin Vegher on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/CPAajYWQeR4"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Door%20knocker%20in%20the%20shape%20of%20a%20small%20dog%20or%20puppy%20MET%20DP-14547-003.jpg?width=1600"
+heroImageAlt: "Door knocker in the shape of a small dog or puppy MET DP 14547 003"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ADoor_knocker_in_the_shape_of_a_small_dog_or_puppy_MET_DP-14547-003.jpg"
 ---
 
 Can't own a pet in your tiny Tokyo apartment? Rent one for the weekend. The industry is regulated, ethical, and surprisingly heartwarming.

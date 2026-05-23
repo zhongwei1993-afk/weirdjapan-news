@@ -3,10 +3,10 @@ title: "The Pounding of Mochi is Japan's Most Dangerous Cooking Method"
 description: "Two people, one giant wooden mallet, one stone bowl. They alternate strikes. One person flips the dough between hits. Hospital records exist."
 pubDate: 2026-05-05
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Mochi%20002.jpg?width=1600"
+heroImageAlt: "Mochi 002"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AMochi_002.jpg"
 ---
 
 Two people, one giant wooden mallet, one stone bowl. They alternate strikes. One person flips the dough between hits. Hospital records exist.

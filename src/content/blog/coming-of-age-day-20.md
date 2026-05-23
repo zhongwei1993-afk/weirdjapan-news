@@ -3,10 +3,10 @@ title: "Japan Celebrates 20-Year-Olds With a Day of Drunk Speeches"
 description: "Seijin no Hi (Coming-of-Age Day) is the second Monday of January. New adults wear kimono and listen to mayors. Then they drink alcohol legally for the first time."
 pubDate: 2026-05-14
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1757944075647-2498be56bb62?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Glowing Japanese lanterns at a night festival."
-heroImageCredit: "Photo by ayumi kubo on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/guEJrCgWtGs"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Kimono-clad%20woman%20with%20flowers%20in%20hair%20%28Unsplash%29.jpg?width=1600"
+heroImageAlt: "Kimono clad woman with flowers in hair (Unsplash)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AKimono-clad_woman_with_flowers_in_hair_%28Unsplash%29.jpg"
 ---
 
 Seijin no Hi (Coming-of-Age Day) is the second Monday of January. New adults wear kimono and listen to mayors. Then they drink alcohol legally for the first time.

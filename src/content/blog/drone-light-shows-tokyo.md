@@ -3,10 +3,10 @@ title: "Tokyo's Drone Light Shows Replaced Fireworks. Some Hate It."
 description: "Tokyo Bay's new year display uses 2,000 drones instead of fireworks. It's silent, eco-friendly, and the older generation thinks it's soulless."
 pubDate: 2026-05-02
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Riyadh%20Seasons%202021%20Drone%20Show%20performed%20by%20Geoscan%20Group.jpg?width=1600"
+heroImageAlt: "Riyadh Seasons 2021 Drone Show performed by Geoscan Group"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ARiyadh_Seasons_2021_Drone_Show_performed_by_Geoscan_Group.jpg"
 ---
 
 Tokyo Bay's new year display uses 2,000 drones instead of fireworks. It's silent, eco-friendly, and the older generation thinks it's soulless.

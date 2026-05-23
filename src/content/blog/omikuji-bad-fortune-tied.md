@@ -3,10 +3,10 @@ title: "Japanese Shrines Sell Paper Fortunes. Bad Ones Are Tied to Trees."
 description: "Draw an omikuji at any shrine. If it's bad luck, tie it to the nearest tree — leaving the misfortune behind. The trees look like ghostly white snowstorms."
 pubDate: 2026-05-12
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Osaka%20Tenmangu%20Hatsumoude%202025-3.jpg?width=1600"
+heroImageAlt: "Osaka Tenmangu Hatsumoude 2025 3"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AOsaka_Tenmangu_Hatsumoude_2025-3.jpg"
 ---
 
 Draw an omikuji at any shrine. If it's bad luck, tie it to the nearest tree — leaving the misfortune behind. The trees look like ghostly white snowstorms.

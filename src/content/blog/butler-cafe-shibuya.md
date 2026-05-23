@@ -3,10 +3,10 @@ title: "Tokyo Has Butler Cafés Where Female Guests Are Called 'Princess'"
 description: "The female counterpart to maid cafés. Tuxedoed waiters bow, kiss your hand, and discuss your day. ¥3,000 covers tea and 45 minutes."
 pubDate: 2026-04-25
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Jennifer%20Butler%20%28composer%29.jpg?width=1600"
+heroImageAlt: "Jennifer Butler (composer)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJennifer_Butler_%28composer%29.jpg"
 ---
 
 The female counterpart to maid cafés. Tuxedoed waiters bow, kiss your hand, and discuss your day. ¥3,000 covers tea and 45 minutes.

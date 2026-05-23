@@ -3,10 +3,10 @@ title: "Yanaka: Tokyo's Cat Village Where the Felines Run the Alleys"
 description: "This old neighborhood near Ueno is home to dozens of stray cats and the only Tokyo bakery where the muffins are cat-shaped."
 pubDate: 2026-04-20
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1722310604155-26f38d176e05?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A cat walks along a quiet street in a Japanese village."
-heroImageCredit: "Photo by Caspar Wai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/2DtIC_ApTTY"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Harajuku%20-%20alley%20off%20Cat%20Street%2001%20%2815716229316%29.jpg?width=1600"
+heroImageAlt: "Harajuku   alley off Cat Street 01 (15716229316)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHarajuku_-_alley_off_Cat_Street_01_%2815716229316%29.jpg"
 ---
 
 This old neighborhood near Ueno is home to dozens of stray cats and the only Tokyo bakery where the muffins are cat-shaped.

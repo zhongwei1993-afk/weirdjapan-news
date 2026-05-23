@@ -3,10 +3,10 @@ title: "Why Tokyo Has Two Iconic Towers — And the Quiet Rivalry Between Them"
 description: "Tokyo Tower (1958, 333m, Eiffel inspired). Tokyo Skytree (2012, 634m, world's tallest tower). Locals are loyal to one. The two camps don't talk."
 pubDate: 2026-05-20
 category: "Tokyo"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Tower%2C%20Minato%20City.jpg?width=1600"
+heroImageAlt: "Tokyo Tower, Minato City"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ATokyo_Tower%2C_Minato_City.jpg"
 ---
 
 Tokyo Tower (1958, 333m, Eiffel inspired). Tokyo Skytree (2012, 634m, world's tallest tower). Locals are loyal to one. The two camps don't talk.

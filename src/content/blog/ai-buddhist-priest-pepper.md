@@ -3,10 +3,10 @@ title: "Japan's Buddhist Robot Priest Performs Funerals for ¥50,000"
 description: "Pepper, the humanoid robot, chants sutras at funerals when human priests cost too much. A Kyoto company sells the service. Reactions are mixed."
 pubDate: 2026-04-28
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Interior%20view%20of%20Beomeosa%20temple%20with%20two%20Buddhist%20monks%20in%20Busan%20South%20Korea.jpg?width=1600"
+heroImageAlt: "Interior view of Beomeosa temple with two Buddhist monks in Busan South Korea"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AInterior_view_of_Beomeosa_temple_with_two_Buddhist_monks_in_Busan_South_Korea.jpg"
 ---
 
 Pepper, the humanoid robot, chants sutras at funerals when human priests cost too much. A Kyoto company sells the service. Reactions are mixed.

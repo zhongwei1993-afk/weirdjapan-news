@@ -3,10 +3,10 @@ title: "Japanese Dress 3-, 5-, and 7-Year-Olds in Kimono Once a Year"
 description: "Shichi-Go-San (7-5-3) celebrates children of those ages. Parents pay ¥30,000 for kimono rentals. Photo studios have month-long bookings."
 pubDate: 2026-05-13
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1757944075647-2498be56bb62?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Glowing Japanese lanterns at a night festival."
-heroImageCredit: "Photo by ayumi kubo on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/guEJrCgWtGs"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20mother%20with%20her%20child.%20Before%201902.jpg?width=1600"
+heroImageAlt: "Japanese mother with her child. Before 1902"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJapanese_mother_with_her_child._Before_1902.jpg"
 ---
 
 Shichi-Go-San (7-5-3) celebrates children of those ages. Parents pay ¥30,000 for kimono rentals. Photo studios have month-long bookings.

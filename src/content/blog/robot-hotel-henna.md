@@ -3,10 +3,10 @@ title: "Inside Japan's Robot Hotel — Where the Receptionist is a Velociraptor"
 description: "The Henn na Hotel was the first hotel staffed entirely by robots. Then they fired half of them. Here's why."
 pubDate: 2026-04-15
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Kaspar%20%28android%29.jpg?width=1600"
+heroImageAlt: "Kaspar (android)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AKaspar_%28android%29.jpg"
 ---
 
 The Henn na Hotel was the first hotel staffed entirely by robots. Then they fired half of them. Here's why.

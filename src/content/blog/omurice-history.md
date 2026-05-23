@@ -3,10 +3,10 @@ title: "Omurice — The Western Dish Japan Invented and Perfected"
 description: "An omelet over rice with ketchup. Invented in Tokyo in 1925. Foreigners think it's bizarre. Japanese think it's the world's greatest comfort food."
 pubDate: 2026-05-05
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Omurice%20by%20Taimeiken.jpg?width=1600"
+heroImageAlt: "Omurice by Taimeiken"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AOmurice_by_Taimeiken.jpg"
 ---
 
 An omelet over rice with ketchup. Invented in Tokyo in 1925. Foreigners think it's bizarre. Japanese think it's the world's greatest comfort food.

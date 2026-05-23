@@ -3,10 +3,10 @@ title: "Anime Fans Are Saving Rural Japan by Visiting Their Favorite Town"
 description: "When an anime is set in a real town, fans travel there to recreate scenes. Some dying villages have been economically rescued by a single show."
 pubDate: 2026-04-25
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1598957232485-fab51e0ed7e8?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Pathway between blooming cherry blossom trees."
-heroImageCredit: "Photo by Crystal Kay on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/7viWpO0fNss"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/A%20street%20of%20Maple%20Town%20in%20Taku.jpg?width=1600"
+heroImageAlt: "A street of Maple Town in Taku"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AA_street_of_Maple_Town_in_Taku.jpg"
 ---
 
 When an anime is set in a real town, fans travel there to recreate scenes. Some dying villages have been economically rescued by a single show.

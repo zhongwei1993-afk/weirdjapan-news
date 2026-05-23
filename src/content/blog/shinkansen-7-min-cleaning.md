@@ -3,10 +3,10 @@ title: "Japan's Bullet Trains Are Cleaned in 7 Minutes by 22 People"
 description: "The Tessei cleaning crew is its own attraction. They bow before boarding, sweep, restock, rotate seats — all in under 7 minutes. The world studies them."
 pubDate: 2026-04-27
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Shinkansen%20platform%20at%20Tokyo%20Station%2022.jpg?width=1600"
+heroImageAlt: "Shinkansen platform at Tokyo Station 22"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AShinkansen_platform_at_Tokyo_Station_22.jpg"
 ---
 
 The Tessei cleaning crew is its own attraction. They bow before boarding, sweep, restock, rotate seats — all in under 7 minutes. The world studies them.

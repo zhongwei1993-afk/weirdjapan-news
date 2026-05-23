@@ -3,10 +3,10 @@ title: "Hakone's Black Eggs Are Boiled in Sulfur Springs. They Add 7 Years to Yo
 description: "At Owakudani, eggs boiled in the volcanic hot springs turn black. Legend says eating one extends your life by 7 years. Tourists buy them by the dozen."
 pubDate: 2026-05-04
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Hot%20spring%2C%20Reykjadalur%20Valley%2C%20Iceland%2C%2020230502%201415%204243.jpg?width=1600"
+heroImageAlt: "Hot spring, Reykjadalur Valley, Iceland, 20230502 1415 4243"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHot_spring%2C_Reykjadalur_Valley%2C_Iceland%2C_20230502_1415_4243.jpg"
 ---
 
 At Owakudani, eggs boiled in the volcanic hot springs turn black. Legend says eating one extends your life by 7 years. Tourists buy them by the dozen.

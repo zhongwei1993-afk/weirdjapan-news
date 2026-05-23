@@ -3,10 +3,10 @@ title: "Japan Has Cigarette-Shaped Incense for Smoking After You've Quit"
 description: "You light the filtered end. It smells like vanilla, sandalwood, or strawberry — not tobacco. Ex-smokers swear it kills cravings."
 pubDate: 2026-04-26
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Incense%20stick.JPG?width=1600"
+heroImageAlt: "Incense stick"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AIncense_stick.JPG"
 ---
 
 You light the filtered end. It smells like vanilla, sandalwood, or strawberry — not tobacco. Ex-smokers swear it kills cravings.

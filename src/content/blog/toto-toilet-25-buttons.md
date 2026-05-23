@@ -3,10 +3,10 @@ title: "Japan's Toilet Has 25 Buttons. Here's What Each One Does."
 description: "Heated seat. Bidet front. Bidet rear. Adjustable nozzle position. Adjustable water pressure. Dryer. Deodorizer. Music. Yes, all in one toilet."
 pubDate: 2026-04-29
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Washlet%20buttons.jpg?width=1600"
+heroImageAlt: "Washlet buttons"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWashlet_buttons.jpg"
 ---
 
 Heated seat. Bidet front. Bidet rear. Adjustable nozzle position. Adjustable water pressure. Dryer. Deodorizer. Music. Yes, all in one toilet.

@@ -3,10 +3,10 @@ title: "Tokyo's Mall of 3,000 Capsule Toy Machines — One Block of Pure Chaos"
 description: "Akihabara's Gachapon Hall packs three thousand machines into one room. The toys cost ¥200-500. Adults outnumber children 4 to 1."
 pubDate: 2026-04-22
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1539606420556-14c457c45507?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Stacked capsule hotel beds with white mattresses."
-heroImageCredit: "Photo by Alec Favale on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/RDIa_qFpWHc"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Gachapon.jpg?width=1600"
+heroImageAlt: "Gachapon"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AGachapon.jpg"
 ---
 
 Akihabara's Gachapon Hall packs three thousand machines into one room. The toys cost ¥200-500. Adults outnumber children 4 to 1.

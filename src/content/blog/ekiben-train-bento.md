@@ -3,10 +3,10 @@ title: "Japan's Ekiben Bento Boxes Made Train Stations Into Restaurants"
 description: "Every major Japanese train station sells regional bento boxes designed to be eaten on the train. There are over 4,000 varieties."
 pubDate: 2026-04-21
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Bento%20at%20Hanabishi%2C%20Koyasan.jpg?width=1600"
+heroImageAlt: "Bento at Hanabishi, Koyasan"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ABento_at_Hanabishi%2C_Koyasan.jpg"
 ---
 
 Every major Japanese train station sells regional bento boxes designed to be eaten on the train. There are over 4,000 varieties.

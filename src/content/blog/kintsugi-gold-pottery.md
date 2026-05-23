@@ -3,10 +3,10 @@ title: "Japanese Repair Broken Pottery With Gold. It's a Philosophy."
 description: "Kintsugi turns broken bowls into objects more valuable than the originals. The cracks are filled with lacquered gold. The damage becomes the design."
 pubDate: 2026-05-10
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Kintsugi%20on%20broken%20Ky%C5%ABsu%20lid-bottom%20oblique%20PNr%C2%B01260.jpg?width=1600"
+heroImageAlt: "Kintsugi on broken Kyūsu lid bottom oblique PNr°1260"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AKintsugi_on_broken_Ky%C5%ABsu_lid-bottom_oblique_PNr%C2%B01260.jpg"
 ---
 
 Kintsugi turns broken bowls into objects more valuable than the originals. The cracks are filled with lacquered gold. The damage becomes the design.

@@ -3,10 +3,10 @@ title: "Kanazawa Sells Coffee Topped With Edible Gold Leaf for ¥2,500"
 description: "Kanazawa produces 99% of Japan's gold leaf. They put it on ice cream, sake, sushi, ramen, and — yes — your latte."
 pubDate: 2026-04-26
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Gold%20leaf%20soft%20serve.jpg?width=1600"
+heroImageAlt: "Gold leaf soft serve"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AGold_leaf_soft_serve.jpg"
 ---
 
 Kanazawa produces 99% of Japan's gold leaf. They put it on ice cream, sake, sushi, ramen, and — yes — your latte.

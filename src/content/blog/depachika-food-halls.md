@@ -3,10 +3,10 @@ title: "Tokyo's Department Store Basements Are Foodie Paradises"
 description: "Depachika are the food halls under Mitsukoshi, Isetan, and Takashimaya. Wagyu, sashimi, ¥3,000 strawberries, French pâtisserie. Lunch is theater."
 pubDate: 2026-05-06
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/JP%20%E6%97%A5%E6%9C%AC%20Japan%20%E6%B2%96%E7%B9%A9%20OKINAWA%20Route%20253%20%E6%B5%A6%E8%A5%BF%20Chome%20AEON%20Style%20Department%20Store%20Supermarket%20bakery%20February%202026%20N13P%2003.jpg?width=1600"
+heroImageAlt: "JP 日本 Japan 沖繩 OKINAWA Route 253 浦西 Chome AEON Style Department Store Supermarket bakery February 2026 N13P 03"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Route_253_%E6%B5%A6%E8%A5%BF_Chome_AEON_Style_Department_Store_Supermarket_bakery_February_2026_N13P_03.jpg"
 ---
 
 Depachika are the food halls under Mitsukoshi, Isetan, and Takashimaya. Wagyu, sashimi, ¥3,000 strawberries, French pâtisserie. Lunch is theater.

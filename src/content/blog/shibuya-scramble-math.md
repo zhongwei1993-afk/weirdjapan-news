@@ -3,10 +3,10 @@ title: "The Math Behind Tokyo's Shibuya Scramble Crossing"
 description: "3,000 people cross every 2 minutes. 2.4 million people per day. The traffic light is calibrated to within 0.3 seconds. The physics is gorgeous."
 pubDate: 2026-05-19
 category: "Tokyo"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20Shibuya%20Scramble%20Crossing%202021-04-27.jpg?width=1600"
+heroImageAlt: "Tokyo Shibuya Scramble Crossing 2021 04 27"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ATokyo_Shibuya_Scramble_Crossing_2021-04-27.jpg"
 ---
 
 3,000 people cross every 2 minutes. 2.4 million people per day. The traffic light is calibrated to within 0.3 seconds. The physics is gorgeous.

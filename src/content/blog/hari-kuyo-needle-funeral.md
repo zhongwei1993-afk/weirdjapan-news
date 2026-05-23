@@ -3,10 +3,10 @@ title: "Tokyo Holds an Annual Funeral for Broken Sewing Needles"
 description: "Hari-Kuyō honors broken or worn-out needles. Seamstresses bring them to a temple. Each needle gets pressed into soft tofu. Then a prayer."
 pubDate: 2026-04-30
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Woman%20sewing%20a%20face%20mask%20with%20a%20Singer%20machine%2009.jpg?width=1600"
+heroImageAlt: "Woman sewing a face mask with a Singer machine 09"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWoman_sewing_a_face_mask_with_a_Singer_machine_09.jpg"
 ---
 
 Hari-Kuyō honors broken or worn-out needles. Seamstresses bring them to a temple. Each needle gets pressed into soft tofu. Then a prayer.

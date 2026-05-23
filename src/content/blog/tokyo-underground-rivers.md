@@ -3,10 +3,10 @@ title: "Tokyo Has 50+ Underground Rivers. Most Are Sealed."
 description: "Tokyo paved over its rivers during the 1964 Olympics. Some still flow beneath the city. Urban explorers map them illegally. The water is surprisingly clean."
 pubDate: 2026-05-19
 category: "Tokyo"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Zempukuji%20River%20Water%20Intake%20Facility%202025-02-24.jpg?width=1600"
+heroImageAlt: "Zempukuji River Water Intake Facility 2025 02 24"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AZempukuji_River_Water_Intake_Facility_2025-02-24.jpg"
 ---
 
 Tokyo paved over its rivers during the 1964 Olympics. Some still flow beneath the city. Urban explorers map them illegally. The water is surprisingly clean.

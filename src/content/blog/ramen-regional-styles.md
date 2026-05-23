@@ -3,10 +3,10 @@ title: "Japan Has 100+ Regional Ramen Styles. Here Are 10 of the Strangest."
 description: "Black ramen from Toyama. Curry ramen from Hokkaido. Stamina ramen with raw garlic. Cold ramen. Sweet ramen. Tomato cheese ramen. We rank them all."
 pubDate: 2026-05-06
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Fusion%20of%20Japanese%20and%20Meitei%20cuisines%20-%20Mixed%20bowl%20of%20octopus%20ramen%20noodles%20and%20traditional%20Meetei%20vegetables%20-%20Imphal%2C%20Kangleipak%20%28Manipur%29%2001.jpg?width=1600"
+heroImageAlt: "Fusion of Japanese and Meitei cuisines   Mixed bowl of octopus ramen noodles and traditional Meetei vegetables   Imphal, Kangleipak (Manipur) 01"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AFusion_of_Japanese_and_Meitei_cuisines_-_Mixed_bowl_of_octopus_ramen_noodles_and_traditional_Meetei_vegetables_-_Imphal%2C_Kangleipak_%28Manipur%29_01.jpg"
 ---
 
 Black ramen from Toyama. Curry ramen from Hokkaido. Stamina ramen with raw garlic. Cold ramen. Sweet ramen. Tomato cheese ramen. We rank them all.

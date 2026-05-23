@@ -3,10 +3,10 @@ title: "Why Ghibli Museum Tickets Sell Out in 30 Seconds"
 description: "200,000 tickets a month. Released on the 10th. Sold out within minutes. The museum caps daily visitors at 2,400 to protect the experience."
 pubDate: 2026-05-19
 category: "Tokyo"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Ghibli%20Studio.jpg?width=1600"
+heroImageAlt: "Ghibli Studio"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AGhibli_Studio.jpg"
 ---
 
 200,000 tickets a month. Released on the 10th. Sold out within minutes. The museum caps daily visitors at 2,400 to protect the experience.

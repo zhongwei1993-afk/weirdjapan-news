@@ -3,10 +3,10 @@ title: "Geisha Still Exist in Kyoto. Here's How the Profession Survives in 2026.
 description: "Roughly 270 geisha and 80 maiko (apprentices) work in Kyoto today. Tea house dinners cost ¥80,000-200,000 per person. The training takes 5 years."
 pubDate: 2026-05-15
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Geisha-kyoto-2004-11-21.jpg?width=1600"
+heroImageAlt: "Geisha kyoto 2004 11 21"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AGeisha-kyoto-2004-11-21.jpg"
 ---
 
 Roughly 270 geisha and 80 maiko (apprentices) work in Kyoto today. Tea house dinners cost ¥80,000-200,000 per person. The training takes 5 years.

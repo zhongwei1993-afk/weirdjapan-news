@@ -3,10 +3,10 @@ title: "Why Wagyu Beef Costs ¥10,000 Per Slice"
 description: "True A5 wagyu is graded for marbling, color, and texture. The cattle eat better than most humans. One steak can cost ¥30,000."
 pubDate: 2026-05-03
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Wagyu%20rump%20steak%20and%20eggs%20-%20Jones%20the%20Grocer%2C%20Chadstone.jpg?width=1600"
+heroImageAlt: "Wagyu rump steak and eggs   Jones the Grocer, Chadstone"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWagyu_rump_steak_and_eggs_-_Jones_the_Grocer%2C_Chadstone.jpg"
 ---
 
 True A5 wagyu is graded for marbling, color, and texture. The cattle eat better than most humans. One steak can cost ¥30,000.

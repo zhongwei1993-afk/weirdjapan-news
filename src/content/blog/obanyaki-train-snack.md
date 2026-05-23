@@ -3,10 +3,10 @@ title: "Obanyaki — The ¥150 Snack Sold From Tokyo Train Station Stalls"
 description: "Hot pancake-shaped buns filled with sweet bean paste, custard, or curry. Eaten while walking. The smell of these stalls defines Japanese stations."
 pubDate: 2026-05-08
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Street%20stall%20in%20Japan%2011.jpg?width=1600"
+heroImageAlt: "Street stall in Japan 11"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AStreet_stall_in_Japan_11.jpg"
 ---
 
 Hot pancake-shaped buns filled with sweet bean paste, custard, or curry. Eaten while walking. The smell of these stalls defines Japanese stations.

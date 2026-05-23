@@ -3,10 +3,10 @@ title: "Kyoto's Smallest Temple Is the Size of a Telephone Booth"
 description: "Mihoshi Temple in Kyoto fits one priest and three offerings. It's still active. The donation box accepts ¥10 coins."
 pubDate: 2026-05-12
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A vermilion torii gate at a Japanese shrine."
-heroImageCredit: "Photo by Tianshu Liu on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/SBK40fdKbAg"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/%28Wooden%20bridge%20to%20Kiyomizu-dera%20Temple%20in%20Kyoto%2C%20Japan%29%20-%20DPLA%20-%201768bead118448d2549cf8787a7161b2.jpg?width=1600"
+heroImageAlt: "(Wooden bridge to Kiyomizu dera Temple in Kyoto, Japan)   DPLA   1768bead118448d2549cf8787a7161b2"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3A%28Wooden_bridge_to_Kiyomizu-dera_Temple_in_Kyoto%2C_Japan%29_-_DPLA_-_1768bead118448d2549cf8787a7161b2.jpg"
 ---
 
 Mihoshi Temple in Kyoto fits one priest and three offerings. It's still active. The donation box accepts ¥10 coins.

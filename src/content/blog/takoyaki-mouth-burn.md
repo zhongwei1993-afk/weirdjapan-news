@@ -3,10 +3,10 @@ title: "Why Japanese Kids Voluntarily Burn Their Mouths on Takoyaki"
 description: "Takoyaki — octopus dough balls — comes off the grill at 200°C. The molten interior burns. Kids eat them anyway. It's an Osaka rite of passage."
 pubDate: 2026-05-04
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Honkeohtako%27s%20takoyaki%2C%20Osaka%3B%20December%202013%20%2807%29.jpg?width=1600"
+heroImageAlt: "Honkeohtakos takoyaki, Osaka; December 2013 (07)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AHonkeohtako%27s_takoyaki%2C_Osaka%3B_December_2013_%2807%29.jpg"
 ---
 
 Takoyaki — octopus dough balls — comes off the grill at 200°C. The molten interior burns. Kids eat them anyway. It's an Osaka rite of passage.

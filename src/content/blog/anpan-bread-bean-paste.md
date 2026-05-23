@@ -3,10 +3,10 @@ title: "Japan's Most Beloved Bread Has Sweet Bean Paste Inside"
 description: "Anpan was invented in 1874 by a samurai-turned-baker. The Meiji Emperor approved. Today, anpan is sold at every bakery and convenience store in Japan."
 pubDate: 2026-05-08
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Red%20Bean%20Bread%20%28Taiwan%29.jpg?width=1600"
+heroImageAlt: "Red Bean Bread (Taiwan)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ARed_Bean_Bread_%28Taiwan%29.jpg"
 ---
 
 Anpan was invented in 1874 by a samurai-turned-baker. The Meiji Emperor approved. Today, anpan is sold at every bakery and convenience store in Japan.

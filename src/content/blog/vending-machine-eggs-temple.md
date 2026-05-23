@@ -3,10 +3,10 @@ title: "Tokyo Temple Sells Fresh Eggs From a Vending Machine. The Priest Restock
 description: "A small shrine in Setagaya runs a vending machine selling eggs from its own chickens. The priest checks it every morning. ¥200 a pack."
 pubDate: 2026-05-02
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A vermilion torii gate at a Japanese shrine."
-heroImageCredit: "Photo by Tianshu Liu on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/SBK40fdKbAg"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/A%20basket%20of%20fresh%20eggs%20%289339949261%29.jpg?width=1600"
+heroImageAlt: "A basket of fresh eggs (9339949261)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AA_basket_of_fresh_eggs_%289339949261%29.jpg"
 ---
 
 A small shrine in Setagaya runs a vending machine selling eggs from its own chickens. The priest checks it every morning. ¥200 a pack.

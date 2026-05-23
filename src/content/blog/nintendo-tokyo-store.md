@@ -3,10 +3,10 @@ title: "Inside Tokyo's Nintendo Store — A Pilgrimage Site for Gamers"
 description: "The Shibuya Nintendo Store has lines on opening day. The Mario merch. The Zelda figurines. The exclusives you can't get anywhere else."
 pubDate: 2026-05-01
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1701338462908-6022ef7cb466?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Akihabara at night, glowing with dense neon."
-heroImageCredit: "Photo by Darwin Vegher on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/CPAajYWQeR4"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Nintendo%20Tokyo%20%28PXL%2020231220%20022538554%29.jpg?width=1600"
+heroImageAlt: "Nintendo Tokyo (PXL 20231220 022538554)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ANintendo_Tokyo_%28PXL_20231220_022538554%29.jpg"
 ---
 
 The Shibuya Nintendo Store has lines on opening day. The Mario merch. The Zelda figurines. The exclusives you can't get anywhere else.

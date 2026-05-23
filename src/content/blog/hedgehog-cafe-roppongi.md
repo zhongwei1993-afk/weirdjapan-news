@@ -3,10 +3,10 @@ title: "Hedgehogs Sip Lattes With You at This Roppongi Café"
 description: "Tokyo's hedgehog cafés charge ¥1,500 for 30 minutes with a spiky companion. Here's what happens inside."
 pubDate: 2026-04-16
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Erinaceus%20europaeus%20%28Linnaeus%2C%201758%29.jpg?width=1600"
+heroImageAlt: "Erinaceus europaeus (Linnaeus, 1758)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AErinaceus_europaeus_%28Linnaeus%2C_1758%29.jpg"
 ---
 
 Tokyo's hedgehog cafés charge ¥1,500 for 30 minutes with a spiky companion. Here's what happens inside.

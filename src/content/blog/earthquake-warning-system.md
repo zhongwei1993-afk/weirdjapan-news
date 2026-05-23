@@ -3,10 +3,10 @@ title: "Every Phone in Japan Screams 15 Seconds Before an Earthquake"
 description: "Japan's J-Alert system detects P-waves and pushes a warning to every device within range. 15 seconds is enough to drop, cover, and hold."
 pubDate: 2026-05-01
 category: "Tech"
-heroImageUrl: "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street at night, glowing with dense neon and headlights."
-heroImageCredit: "Photo by Denys Nevozhai on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/D68ADLeMh5Q"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Earthquake%20Aftermath%20in%20Misawa%20and%20Hachinohe%2C%20Japan%20Image%201%20of%207.jpg?width=1600"
+heroImageAlt: "Earthquake Aftermath in Misawa and Hachinohe, Japan Image 1 of 7"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AEarthquake_Aftermath_in_Misawa_and_Hachinohe%2C_Japan_Image_1_of_7.jpg"
 ---
 
 Japan's J-Alert system detects P-waves and pushes a warning to every device within range. 15 seconds is enough to drop, cover, and hold.

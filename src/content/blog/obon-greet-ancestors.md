@@ -3,10 +3,10 @@ title: "The Festival Where Japanese Greet Their Dead Ancestors"
 description: "Mid-August, families gather to host their dead. Lanterns guide spirits home. Bon-odori dances entertain them. A week later, lanterns are floated downriver to send them back."
 pubDate: 2026-05-13
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1757944075647-2498be56bb62?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Glowing Japanese lanterns at a night festival."
-heroImageCredit: "Photo by ayumi kubo on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/guEJrCgWtGs"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Matsue%20colorful%20obon%20lanterns%20Japan.jpg?width=1600"
+heroImageAlt: "Matsue colorful obon lanterns Japan"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AMatsue_colorful_obon_lanterns_Japan.jpg"
 ---
 
 Mid-August, families gather to host their dead. Lanterns guide spirits home. Bon-odori dances entertain them. A week later, lanterns are floated downriver to send them back.

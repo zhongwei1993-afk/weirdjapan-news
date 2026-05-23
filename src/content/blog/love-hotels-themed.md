@@ -3,10 +3,10 @@ title: "Inside Tokyo's Love Hotels — Where Each Room is a Different World"
 description: "Spaceship rooms. Jungle rooms. Hello Kitty rooms. Love hotels charge by the hour and sell privacy. The taxi-style entry system is genius."
 pubDate: 2026-04-23
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1681057593365-81c8e6f1348f?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Tokyo street filled with neon signs at night."
-heroImageCredit: "Photo by BREAKIFY on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/IEWUo6LgI3c"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Big%20Pink%20and%20the%20Butte%20Hotel.jpg?width=1600"
+heroImageAlt: "Big Pink and the Butte Hotel"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ABig_Pink_and_the_Butte_Hotel.jpg"
 ---
 
 Spaceship rooms. Jungle rooms. Hello Kitty rooms. Love hotels charge by the hour and sell privacy. The taxi-style entry system is genius.

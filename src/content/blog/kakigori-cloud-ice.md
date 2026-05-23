@@ -3,10 +3,10 @@ title: "Japanese Shaved Ice Is Engineered to Look Like a Cloud"
 description: "Kakigori shavings are so thin they melt instantly on your tongue. Top kakigori parlors in Tokyo have 2-hour queues in summer."
 pubDate: 2026-05-08
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Round white bowl with ramen and a soft-boiled egg."
-heroImageCredit: "Photo by Michele Blackwell on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/rAyCBQTH7ws"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Bing%20guan%20cau%20mei.jpg?width=1600"
+heroImageAlt: "Bing guan cau mei"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ABing_guan_cau_mei.jpg"
 ---
 
 Kakigori shavings are so thin they melt instantly on your tongue. Top kakigori parlors in Tokyo have 2-hour queues in summer.

@@ -3,10 +3,10 @@ title: "Tokyo's Manga Cafés Are Doubling as Apartments. By Choice."
 description: "For ¥2,000 a night, you get a chair, free drinks, a shower, and 30,000 manga. Some Tokyo workers live there full-time."
 pubDate: 2026-04-19
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Big%20Bad%20Wolf%20Books%20Jakarta%202017%20Manga%20and%20Comic%20section.jpg?width=1600"
+heroImageAlt: "Big Bad Wolf Books Jakarta 2017 Manga and Comic section"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ABig_Bad_Wolf_Books_Jakarta_2017_Manga_and_Comic_section.jpg"
 ---
 
 For ¥2,000 a night, you get a chair, free drinks, a shower, and 30,000 manga. Some Tokyo workers live there full-time.

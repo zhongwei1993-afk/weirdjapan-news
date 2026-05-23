@@ -3,10 +3,10 @@ title: "Inside Tokyo's Owl Cafés — Cute, Quiet, and Quietly Controversial"
 description: "You pay ¥2,000 to sip coffee while owls perch on your shoulder. Animal welfare groups disagree about whether anyone should."
 pubDate: 2026-04-16
 category: "Only In Japan"
-heroImageUrl: "https://images.unsplash.com/photo-1701338462908-6022ef7cb466?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Akihabara at night, glowing with dense neon."
-heroImageCredit: "Photo by Darwin Vegher on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/CPAajYWQeR4"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Screech%20Owl%20Close-up%20%2851833260697%29.jpg?width=1600"
+heroImageAlt: "Screech Owl Close up (51833260697)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AScreech_Owl_Close-up_%2851833260697%29.jpg"
 ---
 
 You pay ¥2,000 to sip coffee while owls perch on your shoulder. Animal welfare groups disagree about whether anyone should.

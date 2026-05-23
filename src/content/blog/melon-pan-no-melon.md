@@ -3,10 +3,10 @@ title: "Japan's Melon Pan Bread Tastes Nothing Like Melon"
 description: "It looks like a melon (the surface pattern). It doesn't taste like one. It's a sweet cookie-topped bun. Japan refuses to fix the name."
 pubDate: 2026-05-06
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Melon%20bread%20and%20green%20tea%20melon%20bread.jpg?width=1600"
+heroImageAlt: "Melon bread and green tea melon bread"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AMelon_bread_and_green_tea_melon_bread.jpg"
 ---
 
 It looks like a melon (the surface pattern). It doesn't taste like one. It's a sweet cookie-topped bun. Japan refuses to fix the name.

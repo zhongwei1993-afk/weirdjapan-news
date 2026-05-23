@@ -3,10 +3,10 @@ title: "Japan Still Eats Whale Meat. Here's the Complicated Reason."
 description: "Whaling was a food staple in postwar Japan. Today, consumption is tiny — but politically symbolic. The annual catch quota still exists."
 pubDate: 2026-05-04
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Orcinus%20orca%20-%20Loro%20Parque%2001.jpg?width=1600"
+heroImageAlt: "Orcinus orca   Loro Parque 01"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AOrcinus_orca_-_Loro_Parque_01.jpg"
 ---
 
 Whaling was a food staple in postwar Japan. Today, consumption is tiny — but politically symbolic. The annual catch quota still exists.

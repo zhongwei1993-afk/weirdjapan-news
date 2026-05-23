@@ -3,10 +3,10 @@ title: "Japan Has 400+ Kit Kat Flavors. Including Wasabi."
 description: "Sake. Matcha. Wasabi. Purple sweet potato. Strawberry cheesecake. Hot-baked apple. Kit Kats in Japan are seasonal gifts, not snacks."
 pubDate: 2026-05-05
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20kit%20Kat%20varieties.jpg?width=1600"
+heroImageAlt: "Japanese kit Kat varieties"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJapanese_kit_Kat_varieties.jpg"
 ---
 
 Sake. Matcha. Wasabi. Purple sweet potato. Strawberry cheesecake. Hot-baked apple. Kit Kats in Japan are seasonal gifts, not snacks.

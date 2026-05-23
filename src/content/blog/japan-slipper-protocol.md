@@ -3,10 +3,10 @@ title: "Japanese Homes Require 3 Different Pairs of Slippers"
 description: "Indoor slippers. Toilet slippers (used only in the bathroom). Tatami room slippers (none — you go barefoot). Get this wrong and you've offended your host."
 pubDate: 2026-05-01
 category: "Culture"
-heroImageUrl: "https://images.unsplash.com/photo-1555359191-93e970dfa588?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "A solitary lit vending machine glowing on a dark Tokyo street."
-heroImageCredit: "Photo by Darren Halstead on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/vuL_H4N4fW0"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/What%20are%20these%20moving%20slippers%3F%20%289477129788%29.jpg?width=1600"
+heroImageAlt: "What are these moving slippers? (9477129788)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWhat_are_these_moving_slippers%3F_%289477129788%29.jpg"
 ---
 
 Indoor slippers. Toilet slippers (used only in the bathroom). Tatami room slippers (none — you go barefoot). Get this wrong and you've offended your host.

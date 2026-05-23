@@ -3,10 +3,10 @@ title: "Japan's Most Dangerous Dish Has Killed 4 People in 5 Years"
 description: "Fugu (blowfish) contains tetrodotoxin — 1,200 times deadlier than cyanide. Only licensed chefs can serve it. They train for 3 years."
 pubDate: 2026-05-03
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Dogface%20puffer%20%28colored%29.jpg?width=1600"
+heroImageAlt: "Dogface puffer (colored)"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ADogface_puffer_%28colored%29.jpg"
 ---
 
 Fugu (blowfish) contains tetrodotoxin — 1,200 times deadlier than cyanide. Only licensed chefs can serve it. They train for 3 years.

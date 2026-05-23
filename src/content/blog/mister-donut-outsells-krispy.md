@@ -3,10 +3,10 @@ title: "Japan's Mister Donut Outsells Krispy Kreme 10 to 1"
 description: "MisDo has 940 stores in Japan vs Krispy Kreme's 50. The pon-de-ring (chewy mochi donut) is the secret weapon Krispy Kreme can't match."
 pubDate: 2026-05-09
 category: "Food"
-heroImageUrl: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=1600&q=80&fm=jpg&auto=format&fit=crop"
-heroImageAlt: "Sushi on a white ceramic plate."
-heroImageCredit: "Photo by Derek Duran on Unsplash"
-heroImageCreditUrl: "https://unsplash.com/photos/Jz4QMhLvGgw"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/JP%20%E6%B2%96%E7%B9%A9%20Okinawa%20%E9%82%A3%E9%9C%B8%E5%B8%82%20Naha%20City%20mall%20shop%20Mister%20Donut%20baked%20food%20products%20in%20February%202026%20N13P%2008.jpg?width=1600"
+heroImageAlt: "JP 沖繩 Okinawa 那霸市 Naha City mall shop Mister Donut baked food products in February 2026 N13P 08"
+heroImageCredit: "Image via Wikimedia Commons"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJP_%E6%B2%96%E7%B9%A9_Okinawa_%E9%82%A3%E9%9C%B8%E5%B8%82_Naha_City_mall_shop_Mister_Donut_baked_food_products_in_February_2026_N13P_08.jpg"
 ---
 
 MisDo has 940 stores in Japan vs Krispy Kreme's 50. The pon-de-ring (chewy mochi donut) is the secret weapon Krispy Kreme can't match.
