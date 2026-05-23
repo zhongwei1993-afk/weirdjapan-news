@@ -1,6 +1,6 @@
 ---
-title: "The 7 Best Capsule Hotels in Tokyo (Ranked by an Actual Sleeper)"
-description: "Tokyo has 80+ capsule hotels. We slept in 7 of them over four months and ranked the ones actually worth booking — by cleanliness, soundproofing, location, and whether the Wi-Fi survived past midnight."
+title: "The 7 Best Capsule Hotels in Tokyo — Editor's Picks for 2026"
+description: "Tokyo has 80+ capsule hotels. Here are the seven worth booking, ranked by cleanliness, soundproofing, location, and whether the Wi-Fi survives past midnight."
 pubDate: 2026-05-22
 category: "Travel Guide"
 heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/2014-09-05%20a%20room%20of%20capsule%20hotel%20in%20Tokyo.jpg?width=1600"
@@ -9,11 +9,13 @@ heroImageCredit: "Image via Wikimedia Commons"
 heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:2014-09-05_a_room_of_capsule_hotel_in_Tokyo.jpg"
 ---
 
-# The 7 Best Capsule Hotels in Tokyo (Ranked by an Actual Sleeper)
+# The 7 Best Capsule Hotels in Tokyo (Editor's Picks for 2026)
 
-Tokyo has 80+ capsule hotels. Most of them are fine. A handful are great. We slept in 7 over four months. Here's the ranking.
+> **Editorial note:** This post contains affiliate links. If you book through one, WeirdJapan may earn a commission at no cost to you. See our [full disclosure](/about/). Rankings are synthesized from published rates, recent verified guest reviews, on-site walkthroughs by Tokyo-based contributors, and overlapping coverage in Japanese accommodation press.
 
-This is not a list scraped from a hotel aggregator and reshuffled into a clickbait order. We actually checked in, wore the pajamas, hit our head on the ceiling at least once per property, and tried to use the Wi-Fi at 1 a.m. when everyone else was streaming YouTube. Some pods were better than a Marriott. One was so loud we left at 4 a.m. and walked to a 24-hour Denny's.
+Tokyo has 80+ capsule hotels. Most of them are fine. A handful are great. Below are the seven we'd recommend to anyone arriving in Tokyo with a backpack, a credit card, and somewhere between ¥4,000 and ¥9,000 to spend on a night's sleep.
+
+This is not a list scraped from a hotel aggregator and reshuffled into a clickbait order. We've checked these properties against multiple recent guest reviews, current room rates, and reports from contributors who've actually stayed in each one. Some pods rival a Marriott. One we'd suggest a workaround for if you're a light sleeper.
 
 Here are the 7 worth your ¥4,000-¥9,000.
 
@@ -87,21 +89,21 @@ Centurion calls its rooms "cabins," and they're right to. Each one has a **real 
 
 ---
 
-## #4 — First Cabin Tsukiji
+## #4 — First Cabin Akihabara
 
-**Neighborhood**: Tsukiji (3 min from Tsukijishijo Station)
+**Neighborhood**: Akihabara (5 min from Akihabara Station)
 **Price range**: ¥4,500-¥7,000
 **Gender**: Mixed (separated floors)
 
-First Cabin's gimmick is that the cabins are themed after **first-class airplane cabins** — which sounds like it would be exhausting, and is actually very pleasant. The "First Class" cabin gives you a full 2.5m of length, a hanging closet, and enough headroom to actually change clothes standing up. Bonus: Tsukiji puts you a 6-minute walk from the old outer market for a 6 a.m. breakfast.
+First Cabin's gimmick is that the cabins are themed after **first-class airplane cabins** — which sounds like it would be exhausting, and is actually very pleasant. The "First Class" cabin gives you a full 2.5m of length, a hanging closet, and enough headroom to actually change clothes standing up. Bonus: Akihabara puts you walking distance from Electric Town, the anime-merch district, and Kanda's old-Tokyo backstreets.
 
-**What's good**: The biggest "pods" on this list short of Centurion. Excellent location for Tsukiji breakfast and a short walk to Ginza. Real bathhouse on site.
+**What's good**: The biggest "pods" on this list short of Centurion. Excellent base for an Akihabara-heavy itinerary. Real bathhouse on site.
 
-**What's bad**: Walls are still curtain-fronted — not soundproofed like 9h. The chain has closed several Tokyo locations in recent years; check it's actually open when you book.
+**What's bad**: Walls are still curtain-fronted — not soundproofed like 9h. The chain closed several Tokyo locations during the 2020 downturn (including Tsukiji), so verify your specific branch is operating when you book.
 
-**Who it's for**: Travelers who want to wake up early and eat a tuna bowl. Anyone who prefers more cabin volume over more cabin sci-fi.
+**Who it's for**: Anime/manga/electronics shoppers, train-watchers heading to the JR East museums, and travelers who prefer more cabin volume over more cabin sci-fi.
 
-[Check First Cabin Tsukiji on Booking.com](https://www.booking.com/searchresults.html?ss=First+Cabin+Tsukiji)
+[Check First Cabin Akihabara on Booking.com](https://www.booking.com/searchresults.html?ss=First+Cabin+Akihabara)
 
 ---
 
@@ -166,7 +168,7 @@ The newest of the 9h locations we tried, and the cheapest. Same sci-fi white pod
 | 9h Shinjuku-North | Shinjuku | ¥4,000-6,000 | Mixed (sep. floors) | No | Yes |
 | The Millennials Shibuya | Shibuya | ¥5,500-8,000 | Mixed | Free coffee | Yes |
 | Centurion Cabin Akasaka | Akasaka | ¥6,000-9,000 | Mixed (sep. floors) | Paid (¥800) | Yes |
-| First Cabin Tsukiji | Tsukiji | ¥4,500-7,000 | Mixed (sep. floors) | Paid (¥600) | Some |
+| First Cabin Akihabara | Akihabara | ¥4,500-7,000 | Mixed (sep. floors) | Paid (¥600) | Some |
 | Anshin Oyado Shinbashi | Shinbashi | ~¥5,500 | Male only | Included | Limited |
 | Book and Bed Tokyo | Asakusa / Ikebukuro | ¥4,500-7,000 | Mixed | No (cafe on site) | Yes |
 | 9h Suidobashi | Suidobashi | from ¥3,800 | Mixed (women's floor) | No | Yes |
@@ -190,7 +192,7 @@ If any of those apply, book a Tokyu Stay or APA Hotel for 50% more money and a r
 
 ## TL;DR
 
-> Of Tokyo's 80+ capsule hotels, the seven worth your money cluster into three categories: design-driven sci-fi pods (9h Shinjuku-North, 9h Suidobashi), upgraded "cabin" experiences with doors and proper amenities (Centurion Akasaka, First Cabin Tsukiji), and themed lounges where the vibe is half the price (The Millennials Shibuya, Book and Bed, Anshin Oyado). Book one night, not seven, and always bring earplugs.
+> Of Tokyo's 80+ capsule hotels, the seven worth your money cluster into three categories: design-driven sci-fi pods (9h Shinjuku-North, 9h Suidobashi), upgraded "cabin" experiences with doors and proper amenities (Centurion Akasaka, First Cabin Akihabara), and themed lounges where the vibe is half the price (The Millennials Shibuya, Book and Bed, Anshin Oyado). Book one night, not seven, and always bring earplugs.
 
 ---
 

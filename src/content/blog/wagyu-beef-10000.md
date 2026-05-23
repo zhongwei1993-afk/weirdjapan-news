@@ -1,13 +1,13 @@
 ---
-title: "Why One Slice of A5 Wagyu Costs ¥10,000 — And How to Eat It Without Wrecking Your Stomach"
-description: "A5 Kobe beef can hit ¥4,000 a slice and ¥30,000 a steak. Here's the grading system, the five brand hierarchies, the cattle myths, and where to actually eat it in Tokyo without getting scammed."
+title: "Why One Slice of A5 Wagyu Costs ¥10,000 — and How to Eat It Right"
+description: "A5 Kobe beef hits ¥4,000 a slice and ¥30,000 a steak. The grading system, the five brand hierarchies, the cattle myths, and where to eat it in Tokyo without getting scammed."
 pubDate: 2026-05-03
 updatedDate: 2026-05-22
 category: "Food"
-heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Wagyu%20rump%20steak%20and%20eggs%20-%20Jones%20the%20Grocer%2C%20Chadstone.jpg?width=1600"
-heroImageAlt: "Wagyu rump steak and eggs   Jones the Grocer, Chadstone"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Griddled%20wagyu%20beef.jpg?width=1600"
+heroImageAlt: "Slices of Japanese wagyu beef searing on a hot griddle"
 heroImageCredit: "Image via Wikimedia Commons"
-heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AWagyu_rump_steak_and_eggs_-_Jones_the_Grocer%2C_Chadstone.jpg"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Griddled_wagyu_beef.jpg"
 ---
 
 # Why One Slice of A5 Wagyu Costs ¥10,000 — And How to Eat It Without Wrecking Your Stomach
@@ -37,7 +37,7 @@ The lowest of the four sub-scores becomes the overall number. So A5 means: top y
 
 For context: a USDA Prime ribeye — the top US grade, the stuff that costs $80 at a Manhattan steakhouse — would score somewhere around **BMS 4 or 5** if it were graded on the Japanese scale. American "marbled" beef is, by Japanese standards, lean.
 
-[Find Tokyo wagyu restaurant reservations on OpenTable](https://www.opentable.com/s?dateTime=2026-05-22T19%3A00&covers=2&term=wagyu&metroId=49&intentModified=true) — booking ahead is mandatory at the good spots.
+[Find Tokyo wagyu restaurant reservations on OpenTable](https://www.opentable.com/s?covers=2&term=wagyu&metroId=49) — booking ahead is mandatory at the good spots.
 
 ## The five brand wagyu hierarchy
 
@@ -113,7 +113,7 @@ A 300-gram A5 ribeye is not a flex. It is a medical event with garnish. The Japa
 
 **Planning a Tokyo wagyu pilgrimage?**
 
-- [Find Tokyo wagyu restaurant reservations on OpenTable](https://www.opentable.com/s?dateTime=2026-05-22T19%3A00&covers=2&term=wagyu&metroId=49&intentModified=true) — most of the top yakiniku spots take English-language bookings here.
+- [Find Tokyo wagyu restaurant reservations on OpenTable](https://www.opentable.com/s?covers=2&term=wagyu&metroId=49) — most of the top yakiniku spots take English-language bookings here.
 - [Find Tokyo food tours on Klook](https://www.klook.com/en-US/search/?query=tokyo+wagyu) — guided tours that handle the language barrier and the reservations.
 - [Hotels in Roppongi or Ginza on Booking.com](https://www.booking.com/searchresults.html?ss=Ginza+Tokyo) — both districts put you within walking distance of a dozen top wagyu counters.
 - [Amazon: "The Wagyu Bible" cookbook](https://www.amazon.com/s?k=wagyu+cookbook) — for the small number of you who will read this and immediately want to start grading carcasses at home.

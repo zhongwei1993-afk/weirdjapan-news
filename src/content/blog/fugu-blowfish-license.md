@@ -1,13 +1,13 @@
 ---
-title: "Fugu: The Fish That Can Kill You in 6 Hours, and Why Tokyo Eats It Anyway"
-description: "Fugu contains tetrodotoxin — 1,200 times deadlier than cyanide, with no antidote. Japanese chefs train 3 years for the license. Here's how the system actually works, what it costs in Tokyo, and where to try it."
+title: "Fugu: The Fish That Can Kill You — and Why Tokyo Eats It Anyway"
+description: "Fugu's tetrodotoxin is 1,200× deadlier than cyanide, with no antidote. Chefs train 3 years for the license. How the system works, what it costs in Tokyo, and where to try it."
 pubDate: 2026-05-03
 updatedDate: 2026-05-22
 category: "Food"
-heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Dogface%20puffer%20%28colored%29.jpg?width=1600"
-heroImageAlt: "Dogface puffer (colored)"
+heroImageUrl: "https://commons.wikimedia.org/wiki/Special:FilePath/Thin%20sliced%20fugu%20sashimi%20plate.jpg?width=1600"
+heroImageAlt: "Thin-sliced tora-fugu sashimi arranged as a chrysanthemum on a round plate"
 heroImageCredit: "Image via Wikimedia Commons"
-heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3ADogface_puffer_%28colored%29.jpg"
+heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Thin_sliced_fugu_sashimi_plate.jpg"
 ---
 
 # Fugu: The Fish That Can Kill You in 6 Hours, and Why Tokyo Eats It Anyway

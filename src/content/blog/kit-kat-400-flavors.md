@@ -1,6 +1,6 @@
 ---
-title: "Japan Has Released 400+ Kit Kat Flavors — Including Sake, Wasabi, and Hot-Baked Potato"
-description: "Nestlé Japan launches around 50 limited-edition Kit Kats every year. The catalogue now tops 400 flavors — from sake and wasabi to purple sweet potato and hojicha. Here's the full story, the tier list, and where to buy them without flying to Tokyo."
+title: "Japan Has 400+ Kit Kat Flavors — Sake, Wasabi, Baked Potato"
+description: "Nestlé Japan launches 30–50 limited Kit Kats a year. The catalogue tops 400 — sake, wasabi, sweet potato, hojicha. The story, the tier list, and where to buy them."
 pubDate: 2026-05-05
 updatedDate: 2026-05-22
 category: "Food"
@@ -14,7 +14,7 @@ heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AJapanese_kit_Kat_
 
 In most countries, Kit Kat is a chocolate bar you grab at a gas station while paying for fuel. In Japan, it is a **seasonal gift, a regional souvenir, a good-luck charm for high-school exams**, and an entire wing of the confectionery industry.
 
-Nestlé Japan releases roughly **50 limited-edition flavors every year**. The historical catalogue now sits at **more than 400** distinct varieties since the program properly began in 2003. Some are gorgeous. Some are deranged. One of them tastes, accurately and on purpose, like wasabi.
+Nestlé Japan releases roughly **30–50 limited-edition flavors every year**. The historical catalogue now sits at **more than 400** distinct varieties — counting from the first regional limited-edition (strawberry, 2000) and accelerating sharply once the formal seasonal program began around 2003. Some are gorgeous. Some are deranged. One of them tastes, accurately and on purpose, like wasabi.
 
 Here is the full, slightly unhinged map of why Japan turned a British chocolate biscuit into a national obsession — and how you can taste it without booking a flight to Narita.
 
@@ -137,7 +137,7 @@ You do not have to be in Tokyo to taste this. The export market for Japanese Kit
 
 ## TL;DR
 
-> Japan has released more than 400 Kit Kat flavors since 2000 — roughly 50 new ones every year — because a Japanese pun on "you will surely win" turned a British chocolate bar into a high-school exam gift, then a regional souvenir, then a Michelin-chef-designed luxury object. The wasabi one is real. The cough-drop one was a mistake.
+> Japan has released more than 400 Kit Kat flavors since 2000 — roughly 30–50 new ones every year — because a Japanese pun on "you will surely win" turned a British chocolate bar into a high-school exam gift, then a regional souvenir, then a Michelin-chef-designed luxury object. The wasabi one is real. The cough-drop one was a mistake.
 
 ---
 

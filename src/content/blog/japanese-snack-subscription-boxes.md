@@ -11,13 +11,13 @@ heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File:Wagashi_samples_by_
 
 # Bokksu vs Sakuraco vs TokyoTreat: Which Japanese Snack Box Is Actually Worth It?
 
-Three subscription boxes ship Japanese snacks to your door each month. We've eaten all three for six months. Here's what's actually in them, what each costs, and which one to actually subscribe to.
+> **Editorial note:** This post contains affiliate links. If you subscribe through one, WeirdJapan may earn a commission at no cost to you. See our [full disclosure](/about/). Rankings are based on the published catalogues, reviewer reports, and public unboxings — not personal subscriptions.
+
+Three subscription boxes ship Japanese snacks to your door each month. Here's what's actually in them, what each costs, and which one is worth your subscription.
 
 If you've spent any time on YouTube or TikTok looking up "Japanese snacks," your algorithm has almost certainly served you a glossy unboxing video for Bokksu, Sakuraco, or TokyoTreat. All three promise "a piece of Japan delivered to your door." All three send tea. All three include a booklet. And all three cost roughly the price of a nice dinner out.
 
-But they are *not* the same box. Not even close. After six months of carefully (read: greedily) eating every single item from all three services, here is the honest, no-affiliate-fluff breakdown.
-
-(Okay, there are some affiliate links. We are not monks. But the opinions are real.)
+But they are *not* the same box. Not even close.
 
 ## The 3 Contenders at a Glance
 

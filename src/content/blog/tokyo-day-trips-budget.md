@@ -174,6 +174,6 @@ A few unglamorous truths the booking pages won't shout about:
 *WeirdJapan.news covers the strange, the small, and the slightly-too-much in Japanese culture. Follow us for daily oddities most travel guides skip.*
 
 **Related articles:**
-- [Snow monkeys bathing in onsen: the full guide](#snow-monkey-onsen)
-- [How to actually get Ghibli Museum tickets (it's harder than you think)](#ghibli-museum-tickets)
-- [Tokyo Tower vs. Skytree: the rivalry nobody asked for](#tokyo-tower-skytree-rivalry)
+- [Snow monkeys bathing in onsen: the full guide](/blog/snow-monkey-onsen/)
+- [How to actually get Ghibli Museum tickets (it's harder than you think)](/blog/ghibli-museum-tickets/)
+- [Tokyo Tower vs. Skytree: the rivalry nobody asked for](/blog/tokyo-tower-skytree-rivalry/)

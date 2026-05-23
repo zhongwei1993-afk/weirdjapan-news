@@ -101,7 +101,7 @@ The shots you've seen on Instagram require, at minimum, a **70-200mm telephoto**
 
 - **No flash.** Ever. It startles the troop and the rangers will eject you.
 - **No touching.** The park rule is technically **50cm** in practice, but treat it as **a no-touch rule, full stop** — these are wild adult primates and a stressed macaque bite means a rabies workup.
-- **No selfies with monkeys.** They will steal your phone. This is not a joke; it has its own [park signage](#).
+- **No selfies with monkeys.** They will steal your phone. This is not a joke; the park has its own posted signage warning against it.
 - **Tripods**: tolerated in winter when the deck isn't crowded, banned-by-glare from other visitors on busy days. Bring a monopod instead.
 - For tight close-ups of faces and steam droplets, a **private photography tour** with early access gets you better angles than the general crowd. Worth it once.
 

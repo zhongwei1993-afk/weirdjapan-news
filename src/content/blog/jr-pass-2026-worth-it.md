@@ -99,11 +99,11 @@ The full nationwide JR Pass is no longer the only sensible option. Some regional
 - **JR East Pass (Tohoku)** — ~¥30,000 for 5 flexible days. Covers Tokyo north to Aomori. Great for Sendai, Nikko, snow monkeys, Hokkaido-bound travelers.
 - **JR East Pass (Nagano/Niigata)** — ~¥27,000 for 5 flexible days. Tokyo, Hakuba, snow country.
 - **JR Hokkaido Rail Pass** — ~¥20,000 for 5 days. Sapporo, Hakodate, Furano lavender fields.
-- **Kansai Wide Pass** — ~¥12,000 for 5 days. Covers Kyoto, Osaka, Nara, Himeji, Kinosaki Onsen. Astonishingly good value.
+- **Kansai Wide Pass** — ~¥17,000 for 5 days (post-2023 increase from ¥12,000). Covers Kyoto, Osaka, Nara, Himeji, Kinosaki Onsen. Still a strong deal if your trip is concentrated in Kansai.
 - **JR Kyushu Pass** — ~¥18,000 for 5 days. Fukuoka, Beppu, Kumamoto, Kagoshima.
 - **IC card pay-as-you-go (Suica/Pasmo/Welcome Suica)** — No upfront cost. You tap and ride. Best for short trips, in-city travel, and anyone whose itinerary is mostly metro/local lines.
 
-For a Kyoto–Osaka–Nara trip, the **Kansai Wide Pass at ~¥12,000 beats the national pass by ¥38,000.** That's not a typo. Regional passes are now where the real value lives.
+For a Kyoto–Osaka–Nara trip, the **Kansai Wide Pass at ~¥17,000 still beats the national pass by ¥33,000.** Regional passes are now where the real value lives — even after the 2023 price hikes.
 
 ## 6. Where to Actually Buy It
 
