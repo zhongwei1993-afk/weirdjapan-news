@@ -12,7 +12,15 @@ const { title, description, pubDate, updatedDate, heroImageUrl, heroImageAlt, he
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead
+			title={title}
+			description={description}
+			image={heroImageUrl}
+			type="article"
+			publishedTime={pubDate}
+			modifiedTime={updatedDate}
+			tags={[category]}
+		/>
 	</head>
 
 	<body>
