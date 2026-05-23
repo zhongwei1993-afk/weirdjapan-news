@@ -9,21 +9,38 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+const sealForCategory: Record<string, string> = {
+	'Only In Japan': '奇',
+	'Tech': '機',
+	'Tech & Culture': '機',
+	'Food': '食',
+	'Culture': '禮',
+	'Lifestyle': '生',
+	'Tokyo': '都',
+	'Travel Guide': '旅',
+	'About': '報',
+};
+function seal(category: string): string {
+	return sealForCategory[category] || '記';
+}
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`Stories — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<BaseHead title={`The Archive — ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
 
 		<section class="page-header">
 			<div class="page-header-inner">
-				<span class="kicker">All Stories</span>
-				<h1>Every Weird Thing We've Covered</h1>
-				<p>Browse the full archive of strange, wonderful, slightly-too-much stories from Japan.</p>
+				<span class="seal page-seal" aria-hidden="true">記</span>
+				<span class="page-kicker">奇妙日本通信 &middot; the archive</span>
+				<h1>Every Dispatch, In One Place</h1>
+				<p>{posts.length} strange, small, slightly-too-much stories from Japan. Browse the full back catalogue of the gazette.</p>
+				<div class="edo-rule"></div>
 			</div>
 		</section>
 
@@ -33,16 +50,21 @@ const posts = (await getCollection('blog')).sort(
 					<a href={`/blog/${post.id}/`} class="row-link">
 						<div class="row-thumb">
 							{post.data.heroImageUrl ? (
-								<img src={post.data.heroImageUrl} alt={post.data.heroImageAlt || post.data.title} class="row-img" loading="lazy" />
+								<img src={post.data.heroImageUrl} alt={post.data.heroImageAlt || post.data.title} class="row-img" loading="lazy" width="320" height="240" />
 							) : (
 								<div class="row-thumb-pattern" aria-hidden="true"></div>
 							)}
 						</div>
 						<div class="row-body">
-							<span class="row-kicker">{post.data.category}</span>
+							<div class="row-meta">
+								<span class="seal row-seal" aria-hidden="true">{seal(post.data.category)}</span>
+								<span class="row-kicker">{post.data.category}</span>
+								<span class="row-sep">·</span>
+								<FormattedDate date={post.data.pubDate} />
+							</div>
 							<h2 class="row-title">{post.data.title}</h2>
 							<p class="row-desc">{post.data.description}</p>
-							<FormattedDate date={post.data.pubDate} />
+							<span class="row-cta">Read dispatch →</span>
 						</div>
 					</a>
 				</article>
@@ -53,95 +75,156 @@ const posts = (await getCollection('blog')).sort(
 
 		<style>
 			.page-header {
-				background: rgb(var(--gray-50));
-				padding: 4em 1.5em 3em;
+				max-width: var(--container);
+				margin: 2em auto 1.5em;
+				padding: 0 1.5em;
 				text-align: center;
-				border-bottom: 1px solid rgb(var(--gray-200));
 			}
-			.page-header-inner { max-width: 720px; margin: 0 auto; }
-			.kicker {
-				font-family: var(--font-sans);
+			.page-header-inner {
+				max-width: 720px;
+				margin: 0 auto;
+			}
+			.page-seal {
+				transform: rotate(-4deg);
+				font-size: 1.2em;
+				margin-bottom: 0.6em;
+			}
+			.page-kicker {
+				display: block;
+				font-family: var(--font-mincho);
 				font-size: 0.78rem;
 				font-weight: 600;
 				text-transform: uppercase;
-				letter-spacing: 0.12em;
-				color: var(--accent);
-				display: block;
-				margin-bottom: 0.8em;
+				letter-spacing: 0.18em;
+				color: rgb(var(--vermilion));
+				margin: 0.4em 0 0.6em;
 			}
-			.page-header h1 { font-size: 2.6rem; margin: 0 0 0.4em; }
-			.page-header p { color: rgb(var(--gray-700)); font-size: 1.1rem; margin: 0; }
+			.page-header h1 {
+				font-family: var(--font-display);
+				font-size: clamp(2.4rem, 5vw, 3.4rem);
+				margin: 0 0 0.4em;
+				letter-spacing: -0.022em;
+				line-height: 1.1;
+			}
+			.page-header p {
+				color: rgb(var(--ink-soft));
+				font-family: var(--font-display);
+				font-style: italic;
+				font-size: 1.15rem;
+				margin: 0 0 1.8em;
+			}
+			.page-header .edo-rule {
+				margin: 0 auto;
+			}
 
 			.blog-list {
 				max-width: 880px;
-				margin: 3em auto;
+				margin: 2em auto;
 				padding: 0 1.5em;
 			}
 			.row {
-				border-bottom: 1px solid rgb(var(--gray-200));
-				padding: 2em 0;
+				border-bottom: 1px solid rgb(var(--rule));
+				padding: 1.8em 0;
 			}
-			.row:first-child { padding-top: 0; }
+			.row:first-child {
+				padding-top: 0.6em;
+			}
+			.row:last-child {
+				border-bottom: none;
+			}
 			.row-link {
 				display: grid;
 				grid-template-columns: 200px 1fr;
-				gap: 2em;
+				gap: 1.8em;
 				color: inherit;
 				text-decoration: none;
 				border: none;
 			}
 			.row-thumb {
 				aspect-ratio: 4 / 3;
-				background: linear-gradient(135deg, #1a1a1a 0%, #404040 100%);
-				border-radius: var(--radius);
+				background: rgb(var(--washi-deep));
 				overflow: hidden;
 				position: relative;
+				border: 1px solid rgba(26, 26, 26, 0.15);
 			}
 			.row-img {
 				width: 100%;
 				height: 100%;
 				object-fit: cover;
 				display: block;
-				border-radius: 0;
+				filter: contrast(0.92) saturate(0.85) sepia(0.06);
+				transition: filter 280ms ease, transform 320ms ease;
+			}
+			.row-link:hover .row-img {
+				filter: contrast(0.98) saturate(0.95);
+				transform: scale(1.02);
 			}
 			.row-thumb-pattern {
 				position: absolute;
 				inset: 0;
 				background-image:
-					radial-gradient(circle at 30% 40%, rgba(220,38,38,0.25) 0, transparent 50%),
-					radial-gradient(circle at 70% 60%, rgba(255,255,255,0.05) 0, transparent 50%);
+					repeating-linear-gradient(0deg, transparent 0, transparent 8px, rgba(26, 26, 26, 0.04) 8px, rgba(26, 26, 26, 0.04) 9px);
+			}
+			.row-meta {
+				display: flex;
+				align-items: center;
+				gap: 0.5em;
+				margin-bottom: 0.5em;
+				font-family: var(--font-mincho);
+				font-size: 0.74rem;
+				color: rgb(var(--ink-faint));
+			}
+			.row-seal {
+				font-size: 0.5em;
+				transform: rotate(-3deg);
 			}
 			.row-kicker {
-				font-size: 0.7rem;
 				font-weight: 600;
 				text-transform: uppercase;
-				letter-spacing: 0.1em;
-				color: var(--accent);
-				display: block;
-				margin-bottom: 0.4em;
+				letter-spacing: 0.14em;
+				color: rgb(var(--vermilion));
+			}
+			.row-sep { color: rgb(var(--rule)); }
+			.row-meta :global(time) {
+				font-family: var(--font-accent);
+				font-size: 0.72rem;
+				letter-spacing: 0.04em;
 			}
 			.row-title {
-				font-size: 1.5rem;
+				font-family: var(--font-display);
+				font-size: 1.55rem;
 				margin: 0 0 0.4em;
-				line-height: 1.25;
+				line-height: 1.2;
+				color: rgb(var(--ink));
+				transition: color 180ms ease;
 			}
-			.row-link:hover .row-title { color: var(--accent); transition: color 180ms ease; }
+			.row-link:hover .row-title { color: rgb(var(--vermilion-deep)); }
 			.row-desc {
-				color: rgb(var(--gray-700));
-				font-size: 0.95rem;
+				font-family: var(--font-body);
+				color: rgb(var(--ink-soft));
+				font-size: 0.98rem;
 				line-height: 1.55;
-				margin: 0 0 0.6em;
+				margin: 0 0 0.7em;
+				display: -webkit-box;
+				-webkit-line-clamp: 3;
+				-webkit-box-orient: vertical;
+				overflow: hidden;
 			}
-			.row-body :global(time) {
-				font-size: 0.85rem;
-				color: rgb(var(--gray-500));
+			.row-cta {
+				font-family: var(--font-mincho);
+				font-size: 0.78rem;
+				color: rgb(var(--vermilion));
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+				font-weight: 600;
 			}
 
 			@media (max-width: 720px) {
-				.page-header { padding: 2.5em 1em 1.5em; }
 				.page-header h1 { font-size: 1.9rem; }
+				.page-header p { font-size: 1rem; }
 				.row-link { grid-template-columns: 1fr; gap: 1em; }
 				.row-thumb { aspect-ratio: 16 / 9; }
+				.row-title { font-size: 1.3rem; }
 			}
 		</style>
 	</body>

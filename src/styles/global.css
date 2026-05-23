@@ -1,51 +1,85 @@
-/* WeirdJapan.news — Editorial design system */
+/* WeirdJapan.news — Edo Newspaper edition
+ * Inspired by Edo-period kawaraban (瓦版) broadsheets,
+ * Tokyo Asahi Shimbun letterpress era (1880s–1920s),
+ * and modern editorial design (Atlas Obscura, The Reckless).
+ */
 
 :root {
-	/* Brand colors — crimson accent inspired by hinomaru */
-	--accent: #DC2626;
-	--accent-dark: #991B1B;
-	--accent-soft: #FEF2F2;
-
-	/* Neutrals */
-	--black: 17, 17, 17;
-	--gray-900: 23, 23, 23;
-	--gray-800: 38, 38, 38;
-	--gray-700: 64, 64, 64;
-	--gray-500: 115, 115, 115;
-	--gray-400: 163, 163, 163;
-	--gray-300: 212, 212, 212;
-	--gray-200: 229, 229, 229;
-	--gray-100: 245, 245, 245;
-	--gray-50: 250, 250, 250;
+	/* Ink + Washi palette */
+	--ink: 26, 26, 26;          /* 墨 — sumi black */
+	--ink-soft: 64, 60, 56;     /* faded ink */
+	--ink-faint: 120, 110, 100;
+	--washi: 245, 239, 224;     /* 和紙 — pale paper */
+	--washi-deep: 238, 230, 213;
+	--washi-soft: 250, 246, 235;
+	--vermilion: 194, 57, 43;   /* 朱 — seal red */
+	--vermilion-deep: 153, 27, 27;
+	--bamboo: 139, 115, 85;     /* 渋茶 */
+	--rule: 200, 190, 170;      /* faint paper rule */
 
 	/* Typography stack */
-	--font-serif: 'Fraunces', 'Playfair Display', Georgia, 'Times New Roman', serif;
-	--font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
-	--font-mono: 'JetBrains Mono', SFMono-Regular, Menlo, Consolas, monospace;
+	--font-mincho: 'Shippori Mincho B1', 'Noto Serif JP', 'Yu Mincho', '游明朝', 'YuMincho', 'Hiragino Mincho ProN', 'ヒラギノ明朝 ProN', serif;
+	--font-display: 'DM Serif Display', 'Shippori Mincho B1', Georgia, serif;
+	--font-body: 'Source Serif 4', 'Source Serif Pro', 'Noto Serif JP', 'Georgia', 'Times New Roman', serif;
+	--font-accent: 'JetBrains Mono', 'SFMono-Regular', Menlo, monospace;
 
-	/* Spacing & layout */
-	--container: 1200px;
+	/* Layout */
+	--container: 1180px;
 	--container-narrow: 720px;
-	--radius: 4px;
-	--shadow-soft: 0 1px 3px rgba(0, 0, 0, 0.05), 0 4px 12px rgba(0, 0, 0, 0.04);
-	--shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.08), 0 12px 24px rgba(0, 0, 0, 0.06);
+	--rule-thin: 1px;
+	--rule-thick: 3px;
+	--rule-double: 4px;
 }
 
 * {
 	box-sizing: border-box;
 }
 
+html {
+	background: rgb(var(--washi));
+}
+
 body {
-	font-family: var(--font-sans);
+	font-family: var(--font-body);
 	margin: 0;
 	padding: 0;
-	background: #fff;
-	color: rgb(var(--gray-900));
+	background: rgb(var(--washi));
+	color: rgb(var(--ink));
 	font-size: 18px;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	font-feature-settings: 'kern' 1, 'liga' 1;
+	font-feature-settings: 'kern' 1, 'liga' 1, 'pnum' 1, 'onum' 1;
+
+	/* Paper texture: very subtle multi-layered noise */
+	background-image:
+		radial-gradient(circle at 12% 18%, rgba(139, 115, 85, 0.04) 0, transparent 40%),
+		radial-gradient(circle at 88% 72%, rgba(139, 115, 85, 0.035) 0, transparent 40%),
+		repeating-linear-gradient(
+			0deg,
+			transparent 0,
+			transparent 2px,
+			rgba(26, 26, 26, 0.012) 2px,
+			rgba(26, 26, 26, 0.012) 3px
+		);
+	background-attachment: fixed;
+}
+
+/* Soft paper fiber overlay via pseudo-element on body's first ancestor */
+body::before {
+	content: '';
+	position: fixed;
+	inset: 0;
+	pointer-events: none;
+	z-index: 1;
+	background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.15  0 0 0 0 0.12  0 0 0 0 0.10  0 0 0 0.06 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+	opacity: 0.55;
+	mix-blend-mode: multiply;
+}
+
+body > * {
+	position: relative;
+	z-index: 2;
 }
 
 main {
@@ -55,79 +89,111 @@ main {
 	padding: 3em 1em;
 }
 
-/* Typography — serif for editorial headings */
+/* Typography */
 h1, h2, h3, h4, h5, h6 {
-	font-family: var(--font-serif);
-	font-weight: 700;
-	color: rgb(var(--black));
-	letter-spacing: -0.022em;
+	font-family: var(--font-display);
+	font-weight: 400;
+	color: rgb(var(--ink));
+	letter-spacing: -0.012em;
 	margin: 0 0 0.6rem 0;
 	line-height: 1.15;
+	font-feature-settings: 'lnum' 1;
 }
 
-h1 { font-size: 2.75rem; }
-h2 { font-size: 2rem; margin-top: 2.5rem; }
-h3 { font-size: 1.5rem; margin-top: 2rem; }
+h1 { font-size: 3rem; letter-spacing: -0.024em; }
+h2 { font-size: 2.1rem; margin-top: 2.4em; letter-spacing: -0.018em; }
+h3 { font-size: 1.55rem; margin-top: 2em; }
 h4 { font-size: 1.25rem; }
-h5 { font-size: 1.1rem; }
-h6 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; color: rgb(var(--gray-500)); }
+h5 { font-size: 1.05rem; }
+h6 {
+	font-size: 0.78rem;
+	font-family: var(--font-accent);
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.18em;
+	color: rgb(var(--vermilion));
+}
 
 p {
-	margin: 0 0 1.2em 0;
+	margin: 0 0 1.15em 0;
 }
 
-strong, b { font-weight: 700; }
+strong, b {
+	font-weight: 600;
+	color: rgb(var(--ink));
+}
+
+em, i {
+	font-style: italic;
+}
 
 a {
-	color: var(--accent);
+	color: rgb(var(--vermilion));
 	text-decoration: none;
-	border-bottom: 1px solid rgba(220, 38, 38, 0.25);
-	transition: border-color 120ms ease, color 120ms ease;
+	border-bottom: 1px solid rgba(194, 57, 43, 0.3);
+	transition: border-color 150ms ease, color 150ms ease;
 }
 a:hover {
-	color: var(--accent-dark);
-	border-bottom-color: var(--accent-dark);
+	color: rgb(var(--vermilion-deep));
+	border-bottom-color: rgb(var(--vermilion-deep));
 }
 
 img {
 	max-width: 100%;
 	height: auto;
-	border-radius: var(--radius);
 	display: block;
+	border-radius: 0;
+	filter: contrast(0.96) saturate(0.92);
+	/* Subtle vignette like old printed photos */
+	box-shadow: inset 0 0 30px rgba(26, 26, 26, 0.15);
 }
 
 code {
-	font-family: var(--font-mono);
-	font-size: 0.9em;
-	padding: 2px 6px;
-	background-color: rgb(var(--gray-100));
-	color: rgb(var(--gray-900));
-	border-radius: 3px;
+	font-family: var(--font-accent);
+	font-size: 0.88em;
+	padding: 1px 6px;
+	background-color: rgba(139, 115, 85, 0.12);
+	color: rgb(var(--ink));
+	border: 1px solid rgba(139, 115, 85, 0.2);
+	border-radius: 1px;
 }
 
 pre {
-	padding: 1.5em;
-	background-color: rgb(var(--gray-900));
-	color: rgb(var(--gray-100));
-	border-radius: var(--radius);
+	padding: 1.4em 1.6em;
+	background-color: rgb(var(--ink));
+	color: rgb(var(--washi));
+	border-radius: 0;
 	overflow-x: auto;
 	margin: 1.5em 0;
+	border-left: 3px solid rgb(var(--vermilion));
 }
 pre > code {
 	all: unset;
-	font-family: var(--font-mono);
-	font-size: 0.95em;
+	font-family: var(--font-accent);
+	font-size: 0.92em;
 }
 
 blockquote {
-	border-left: 3px solid var(--accent);
-	padding: 0.25em 0 0.25em 1.5em;
-	margin: 1.5em 0;
-	font-family: var(--font-serif);
+	border: none;
+	border-top: 1px solid rgb(var(--ink));
+	border-bottom: 1px solid rgb(var(--ink));
+	padding: 1em 0;
+	margin: 2em 0;
+	font-family: var(--font-display);
 	font-style: italic;
-	font-size: 1.25em;
-	line-height: 1.5;
-	color: rgb(var(--gray-700));
+	font-size: 1.4em;
+	line-height: 1.45;
+	color: rgb(var(--ink-soft));
+	text-align: center;
+	position: relative;
+}
+blockquote::before {
+	content: '◉';
+	display: block;
+	color: rgb(var(--vermilion));
+	font-size: 0.5em;
+	margin-bottom: 0.5em;
+	font-style: normal;
 }
 blockquote p:last-child {
 	margin-bottom: 0;
@@ -135,25 +201,54 @@ blockquote p:last-child {
 
 hr {
 	border: none;
-	border-top: 1px solid rgb(var(--gray-200));
-	margin: 2.5em 0;
+	height: 4px;
+	margin: 3em auto;
+	background-image: linear-gradient(
+		to right,
+		rgb(var(--ink)) 0%, rgb(var(--ink)) 45%,
+		transparent 45%, transparent 55%,
+		rgb(var(--ink)) 55%, rgb(var(--ink)) 100%
+	);
+	background-size: 100% 1px;
+	background-repeat: no-repeat;
+	background-position: 0 0, 0 3px;
+	position: relative;
+}
+hr::after {
+	content: '◆';
+	position: absolute;
+	top: -10px;
+	left: 50%;
+	transform: translateX(-50%);
+	background: rgb(var(--washi));
+	padding: 0 0.6em;
+	color: rgb(var(--vermilion));
+	font-size: 0.9em;
 }
 
 table {
 	width: 100%;
 	border-collapse: collapse;
-	margin: 1.5em 0;
+	margin: 1.8em 0;
 	font-size: 0.95em;
+	border-top: 2px solid rgb(var(--ink));
+	border-bottom: 2px solid rgb(var(--ink));
 }
 table th, table td {
 	padding: 0.75em 1em;
-	border-bottom: 1px solid rgb(var(--gray-200));
+	border-bottom: 1px solid rgba(26, 26, 26, 0.15);
 	text-align: left;
+	vertical-align: top;
 }
 table th {
-	background-color: rgb(var(--gray-50));
-	font-weight: 600;
-	color: rgb(var(--gray-800));
+	background-color: rgba(139, 115, 85, 0.08);
+	font-family: var(--font-display);
+	font-weight: 400;
+	color: rgb(var(--ink));
+	text-transform: uppercase;
+	font-size: 0.78em;
+	letter-spacing: 0.1em;
+	border-bottom: 2px solid rgb(var(--ink));
 }
 
 ul, ol {
@@ -161,16 +256,26 @@ ul, ol {
 	margin: 1em 0;
 }
 li {
-	margin-bottom: 0.5em;
+	margin-bottom: 0.45em;
+}
+ul li::marker {
+	color: rgb(var(--vermilion));
+	font-size: 0.85em;
+}
+ol li::marker {
+	font-family: var(--font-display);
+	color: rgb(var(--vermilion));
+	font-weight: 400;
 }
 
 ::selection {
-	background-color: var(--accent);
-	color: #fff;
+	background-color: rgb(var(--vermilion));
+	color: rgb(var(--washi));
 }
 
 input, textarea, button {
 	font: inherit;
+	color: inherit;
 }
 
 @media (max-width: 720px) {
@@ -182,6 +287,15 @@ input, textarea, button {
 	}
 	h1 { font-size: 2.1rem; }
 	h2 { font-size: 1.6rem; }
+	blockquote { font-size: 1.2em; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*, *::before, *::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
 }
 
 .sr-only {
@@ -196,4 +310,40 @@ input, textarea, button {
 	clip: rect(1px, 1px, 1px, 1px);
 	clip-path: inset(50%);
 	white-space: nowrap;
+}
+
+/* Edo seal — used as a brand element across the site */
+.seal {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 2.4em;
+	height: 2.4em;
+	background: rgb(var(--vermilion));
+	color: rgb(var(--washi));
+	border-radius: 0.2em;
+	font-family: var(--font-mincho);
+	font-weight: 900;
+	font-size: 0.6em;
+	letter-spacing: 0.05em;
+	line-height: 1;
+	box-shadow:
+		2px 2px 0 rgba(26, 26, 26, 0.08),
+		inset 0 0 0 2px rgba(255, 240, 220, 0.18);
+	transform: rotate(-3deg);
+	flex-shrink: 0;
+}
+
+/* Decorative rule (double-line, used as section divider) */
+.edo-rule {
+	display: block;
+	height: 5px;
+	background-image:
+		linear-gradient(to right, rgb(var(--ink)), rgb(var(--ink))),
+		linear-gradient(to right, rgb(var(--ink)), rgb(var(--ink)));
+	background-size: 100% 2px, 100% 1px;
+	background-position: 0 0, 0 100%;
+	background-repeat: no-repeat;
+	border: none;
+	margin: 1em 0;
 }

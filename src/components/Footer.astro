@@ -3,89 +3,124 @@ const today = new Date();
 ---
 
 <footer class="site-footer">
+	<div class="footer-rule edo-rule"></div>
+
 	<div class="footer-inner">
 		<div class="footer-brand">
 			<a href="/" class="footer-logo">
-				<span class="logo-mark" aria-hidden="true"></span>
-				<span>WeirdJapan<span class="footer-tld">.news</span></span>
+				<span class="seal" aria-hidden="true">奇</span>
+				<span class="footer-name">
+					<span>WeirdJapan</span><span class="footer-dot">・</span><span class="footer-tld">news</span>
+				</span>
 			</a>
 			<p class="footer-tagline">
-				The strange, the small, and the slightly-too-much in Japanese culture.
+				<span class="jp">奇妙日本通信</span>
+				<span>The strange, the small, and the slightly-too-much in Japanese culture. Daily oddities the travel guides skip.</span>
 			</p>
 		</div>
 
 		<div class="footer-columns">
 			<div class="footer-col">
-				<h4>Read</h4>
+				<h4>Sections</h4>
 				<a href="/blog">All Stories</a>
 				<a href="/blog">Only In Japan</a>
 				<a href="/blog">Food</a>
-				<a href="/blog">Tech</a>
+				<a href="/blog">Tech &amp; Quirks</a>
 				<a href="/blog">Culture</a>
+				<a href="/blog">Travel Guide</a>
 			</div>
 			<div class="footer-col">
-				<h4>Site</h4>
+				<h4>Newsroom</h4>
 				<a href="/about">About</a>
 				<a href="/rss.xml">RSS feed</a>
+				<a href="mailto:hi@weirdjapan.news">Tips &amp; corrections</a>
 			</div>
 			<div class="footer-col">
 				<h4>Follow</h4>
-				<a href="#" aria-label="X / Twitter">X</a>
+				<a href="#" aria-label="X / Twitter">X / Twitter</a>
 				<a href="#" aria-label="Reddit">Reddit</a>
 				<a href="#" aria-label="Instagram">Instagram</a>
 			</div>
 		</div>
 	</div>
 
+	<div class="footer-rule edo-rule" style="margin-top: 2em;"></div>
+
 	<div class="footer-bottom">
-		<p>© {today.getFullYear()} WeirdJapan.news · Made with curiosity in Tokyo.</p>
+		<p>
+			<span class="colophon-jp">奥付</span>
+			&copy; {today.getFullYear()} WeirdJapan.news &middot; Set in Shippori Mincho and DM Serif Display &middot;
+			Printed (in pixels) in Tokyo &middot; Curiosity over completeness
+		</p>
 	</div>
 </footer>
 
 <style>
 	.site-footer {
-		background: rgb(var(--black));
-		color: rgb(var(--gray-400));
-		padding: 4em 1.5em 2em;
-		margin-top: 0;
+		background: rgb(var(--washi));
+		color: rgb(var(--ink-soft));
+		padding: 3em 1.5em 2em;
+		position: relative;
 	}
+	.footer-rule {
+		max-width: var(--container);
+		margin: 0 auto;
+		height: 4px;
+	}
+
 	.footer-inner {
 		max-width: var(--container);
 		margin: 0 auto;
 		display: grid;
 		grid-template-columns: 1.4fr 2fr;
 		gap: 3em;
-		padding-bottom: 3em;
-		border-bottom: 1px solid rgb(var(--gray-800));
+		padding: 2.5em 0;
 	}
+
 	.footer-brand { max-width: 360px; }
+
 	.footer-logo {
 		display: inline-flex;
 		align-items: center;
 		gap: 0.55em;
-		color: #fff;
+		color: rgb(var(--ink));
 		text-decoration: none;
 		border: none;
-		font-family: var(--font-serif);
-		font-weight: 800;
-		font-size: 1.6rem;
-		letter-spacing: -0.025em;
+		font-family: var(--font-display);
+		font-weight: 400;
+		font-size: 1.7rem;
+		letter-spacing: -0.018em;
 		line-height: 1;
 	}
-	.footer-logo:hover { color: #fff; border: none; }
-	.logo-mark {
-		display: inline-block;
-		width: 0.85em;
-		height: 0.85em;
-		background: var(--accent);
-		border-radius: 50%;
+	.footer-logo:hover { color: rgb(var(--ink)); border: none; }
+	.footer-name { display: inline-flex; align-items: baseline; }
+	.footer-dot {
+		color: rgb(var(--vermilion));
+		font-size: 0.65em;
+		font-family: var(--font-mincho);
+		margin: 0 0.06em;
 	}
-	.footer-tld { color: var(--accent); }
-	.footer-tagline {
-		margin: 0.8em 0 0;
-		color: rgb(var(--gray-500));
-		font-size: 0.92rem;
+	.footer-tld {
+		color: rgb(var(--ink-soft));
 		font-style: italic;
+	}
+
+	.footer-tagline {
+		margin: 0.9em 0 0;
+		font-family: var(--font-display);
+		font-style: italic;
+		font-size: 0.95rem;
+		color: rgb(var(--ink-soft));
+		display: flex;
+		flex-direction: column;
+		gap: 0.3em;
+	}
+	.footer-tagline .jp {
+		font-family: var(--font-mincho);
+		font-style: normal;
+		color: rgb(var(--vermilion));
+		font-size: 0.85rem;
+		letter-spacing: 0.18em;
 	}
 
 	.footer-columns {
@@ -94,43 +129,61 @@ const today = new Date();
 		gap: 2em;
 	}
 	.footer-col h4 {
-		font-family: var(--font-sans);
-		font-size: 0.75rem;
+		font-family: var(--font-mincho);
+		font-size: 0.72rem;
 		text-transform: uppercase;
-		letter-spacing: 0.15em;
-		color: #fff;
+		letter-spacing: 0.18em;
+		color: rgb(var(--vermilion));
 		margin: 0 0 1em;
 		font-weight: 600;
 	}
 	.footer-col a {
 		display: block;
-		color: rgb(var(--gray-400));
+		color: rgb(var(--ink-soft));
 		text-decoration: none;
 		border: none;
-		font-size: 0.92rem;
-		margin-bottom: 0.6em;
+		font-family: var(--font-body);
+		font-size: 0.94rem;
+		margin-bottom: 0.55em;
 		transition: color 150ms ease;
 	}
-	.footer-col a:hover { color: var(--accent); border: none; }
+	.footer-col a:hover {
+		color: rgb(var(--vermilion));
+		border: none;
+	}
 
 	.footer-bottom {
 		max-width: var(--container);
 		margin: 0 auto;
-		padding-top: 2em;
+		padding-top: 1.5em;
 		text-align: center;
 	}
 	.footer-bottom p {
 		margin: 0;
-		font-size: 0.85rem;
-		color: rgb(var(--gray-500));
+		font-family: var(--font-display);
+		font-style: italic;
+		font-size: 0.82rem;
+		color: rgb(var(--ink-faint));
+	}
+	.colophon-jp {
+		font-family: var(--font-mincho);
+		font-style: normal;
+		color: rgb(var(--vermilion));
+		letter-spacing: 0.15em;
+		margin-right: 0.5em;
 	}
 
 	@media (max-width: 720px) {
 		.footer-inner {
 			grid-template-columns: 1fr;
 			gap: 2em;
-			padding-bottom: 2em;
+			padding: 2em 0;
 		}
-		.footer-columns { grid-template-columns: repeat(3, 1fr); gap: 1em; }
+		.footer-columns {
+			grid-template-columns: repeat(3, 1fr);
+			gap: 1em;
+		}
+		.footer-col a { font-size: 0.85rem; }
+		.footer-bottom p { font-size: 0.75rem; }
 	}
 </style>

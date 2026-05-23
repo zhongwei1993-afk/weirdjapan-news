@@ -1,130 +1,237 @@
 ---
 import { SITE_TITLE } from '../consts';
+
+const today = new Date();
+const dateLine = today.toLocaleDateString('en-US', {
+	weekday: 'long',
+	month: 'long',
+	day: 'numeric',
+	year: 'numeric',
+});
+const issueNumber = String(
+	Math.floor((today.getTime() - new Date('2026-04-15').getTime()) / 86400000),
+).padStart(4, '0');
 ---
 
 <header class="site-header">
+	<!-- Top kicker line: date + issue number, like a real broadsheet -->
+	<div class="masthead-kicker">
+		<span class="kicker-l">第{issueNumber}號 &middot; ISSUE No. {issueNumber}</span>
+		<span class="kicker-c">「奇妙日本通信」&mdash; WEIRD JAPAN GAZETTE</span>
+		<span class="kicker-r">{dateLine}</span>
+	</div>
+
+	<div class="edo-rule"></div>
+
 	<div class="masthead">
 		<a href="/" class="logo" aria-label={SITE_TITLE}>
-			<span class="logo-mark" aria-hidden="true"></span>
-			<span class="logo-text">WeirdJapan<span class="logo-tld">.news</span></span>
+			<span class="seal" aria-hidden="true">奇</span>
+			<span class="logo-text">
+				<span class="logo-en">WeirdJapan</span><span class="logo-dot">・</span><span class="logo-tld">news</span>
+			</span>
 		</a>
-		<p class="tagline">Daily oddities from Japan. The stories travel guides skip.</p>
+		<p class="tagline">
+			<span class="tagline-jp">日本の奇妙な噂、毎日</span>
+			<span class="tagline-en">— daily oddities from Japan, the stories travel guides skip —</span>
+		</p>
 	</div>
+
+	<div class="edo-rule"></div>
+
 	<nav class="primary-nav" aria-label="Primary">
 		<a href="/blog">All Stories</a>
+		<span class="nav-sep" aria-hidden="true">|</span>
 		<a href="/blog">Only In Japan</a>
+		<span class="nav-sep" aria-hidden="true">|</span>
 		<a href="/blog">Food</a>
+		<span class="nav-sep" aria-hidden="true">|</span>
 		<a href="/blog">Tech</a>
+		<span class="nav-sep" aria-hidden="true">|</span>
 		<a href="/blog">Culture</a>
+		<span class="nav-sep" aria-hidden="true">|</span>
+		<a href="/blog">Travel Guide</a>
+		<span class="nav-sep" aria-hidden="true">|</span>
 		<a href="/about">About</a>
 	</nav>
 </header>
 
 <style>
 	.site-header {
-		background: #fff;
-		border-bottom: 1px solid rgb(var(--gray-200));
+		background: transparent;
+		padding-bottom: 0;
 	}
+
+	.masthead-kicker {
+		max-width: var(--container);
+		margin: 0 auto;
+		padding: 0.6em 1.5em 0.3em;
+		display: grid;
+		grid-template-columns: 1fr auto 1fr;
+		gap: 1em;
+		font-family: var(--font-mincho);
+		font-size: 0.72rem;
+		font-weight: 500;
+		text-transform: uppercase;
+		letter-spacing: 0.14em;
+		color: rgb(var(--ink-soft));
+	}
+	.kicker-l { text-align: left; }
+	.kicker-c {
+		text-align: center;
+		font-style: italic;
+		color: rgb(var(--vermilion));
+		letter-spacing: 0.1em;
+	}
+	.kicker-r { text-align: right; }
 
 	.masthead {
 		max-width: var(--container);
 		margin: 0 auto;
-		padding: 2.5em 1.5em 1.5em;
+		padding: 1.1em 1.5em 0.6em;
 		text-align: center;
 	}
 
 	.logo {
 		display: inline-flex;
 		align-items: center;
-		gap: 0.55em;
-		color: rgb(var(--black));
+		gap: 0.7em;
+		color: rgb(var(--ink));
 		text-decoration: none;
-		border-bottom: none;
-		font-family: var(--font-serif);
-		font-weight: 800;
-		font-size: 2.4rem;
-		letter-spacing: -0.03em;
+		border: none;
+		font-family: var(--font-display);
+		font-weight: 400;
+		font-size: 3.6rem;
+		letter-spacing: -0.02em;
 		line-height: 1;
 	}
-	.logo:hover { color: rgb(var(--black)); border-bottom: none; }
-
-	.logo-mark {
-		display: inline-block;
-		width: 0.85em;
-		height: 0.85em;
-		background: var(--accent);
-		border-radius: 50%;
-		flex-shrink: 0;
+	.logo:hover {
+		color: rgb(var(--ink));
+		border: none;
+	}
+	.logo:hover .seal {
+		transform: rotate(2deg) scale(1.05);
 	}
 
+	.seal {
+		transition: transform 240ms cubic-bezier(0.4, 0.0, 0.2, 1);
+		font-size: 1.6em; /* readjust within logo */
+	}
+
+	.logo-text {
+		display: inline-flex;
+		align-items: baseline;
+	}
+	.logo-en {
+		color: rgb(var(--ink));
+	}
+	.logo-dot {
+		color: rgb(var(--vermilion));
+		font-size: 0.7em;
+		font-family: var(--font-mincho);
+		margin: 0 0.08em;
+	}
 	.logo-tld {
-		color: var(--accent);
-		font-weight: 700;
+		color: rgb(var(--ink-soft));
+		font-style: italic;
 	}
 
 	.tagline {
 		margin: 0.6em 0 0;
-		color: rgb(var(--gray-500));
-		font-size: 0.95rem;
+		font-family: var(--font-display);
 		font-style: italic;
+		font-size: 1rem;
+		color: rgb(var(--ink-soft));
 		letter-spacing: 0.01em;
+		display: flex;
+		flex-direction: column;
+		gap: 0.15em;
+		align-items: center;
+	}
+	.tagline-jp {
+		font-family: var(--font-mincho);
+		font-style: normal;
+		color: rgb(var(--vermilion));
+		font-size: 0.85rem;
+		letter-spacing: 0.18em;
+	}
+	.tagline-en {
+		font-size: 0.95rem;
+		color: rgb(var(--ink-soft));
+	}
+
+	.edo-rule {
+		max-width: var(--container);
+		margin: 0 auto;
+		height: 4px;
+		background-image:
+			linear-gradient(to right, rgb(var(--ink)), rgb(var(--ink))),
+			linear-gradient(to right, rgb(var(--ink)), rgb(var(--ink)));
+		background-size: calc(100% - 3em) 2px, calc(100% - 3em) 1px;
+		background-position: 1.5em 0, 1.5em 100%;
+		background-repeat: no-repeat;
 	}
 
 	.primary-nav {
 		max-width: var(--container);
 		margin: 0 auto;
-		padding: 0.6em 1.5em;
+		padding: 0.7em 1.5em;
 		display: flex;
 		justify-content: center;
-		gap: 1.8em;
+		align-items: center;
+		gap: 0.7em;
 		flex-wrap: wrap;
-		border-top: 1px solid rgb(var(--gray-200));
 	}
 	.primary-nav a {
-		color: rgb(var(--gray-800));
+		color: rgb(var(--ink));
 		text-decoration: none;
-		border-bottom: none;
-		font-size: 0.92rem;
+		border: none;
+		font-family: var(--font-mincho);
+		font-size: 0.85rem;
 		font-weight: 500;
-		letter-spacing: 0.02em;
+		letter-spacing: 0.12em;
 		text-transform: uppercase;
-		padding: 0.6em 0;
+		padding: 0.3em 0.1em;
 		position: relative;
 		transition: color 120ms ease;
 	}
-	.primary-nav a::after {
-		content: '';
+	.primary-nav a:hover {
+		color: rgb(var(--vermilion));
+	}
+	.primary-nav a:hover::after {
+		content: '◉';
 		position: absolute;
-		left: 0;
-		bottom: 0;
-		width: 100%;
-		height: 2px;
-		background: var(--accent);
-		transform: scaleX(0);
-		transform-origin: left;
-		transition: transform 180ms ease;
+		top: -0.6em;
+		left: 50%;
+		transform: translateX(-50%);
+		color: rgb(var(--vermilion));
+		font-size: 0.4em;
 	}
-	.primary-nav a:hover,
-	.primary-nav a.active {
-		color: var(--accent);
-	}
-	.primary-nav a:hover::after,
-	.primary-nav a.active::after {
-		transform: scaleX(1);
+	.nav-sep {
+		color: rgb(var(--rule));
+		font-size: 0.8em;
+		line-height: 1;
 	}
 
 	@media (max-width: 720px) {
-		.masthead { padding: 1.8em 1em 1.2em; }
-		.logo { font-size: 1.8rem; }
+		.masthead-kicker {
+			grid-template-columns: 1fr;
+			gap: 0.2em;
+			text-align: center;
+			font-size: 0.65rem;
+		}
+		.kicker-l, .kicker-c, .kicker-r { text-align: center; }
+		.masthead { padding: 0.8em 1em 0.4em; }
+		.logo { font-size: 2.2rem; gap: 0.4em; }
 		.tagline { font-size: 0.85rem; }
+		.tagline-jp { font-size: 0.75rem; letter-spacing: 0.12em; }
+		.tagline-en { font-size: 0.82rem; }
 		.primary-nav {
-			gap: 1em;
-			padding: 0.4em 1em;
-			font-size: 0.85rem;
+			gap: 0.4em;
+			padding: 0.4em 0.5em;
 		}
 		.primary-nav a {
-			font-size: 0.8rem;
-			padding: 0.5em 0;
+			font-size: 0.72rem;
+			padding: 0.2em 0.1em;
 		}
 	}
 </style>
