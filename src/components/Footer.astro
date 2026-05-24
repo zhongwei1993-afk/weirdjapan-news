@@ -32,6 +32,7 @@ const today = new Date();
 			<div class="footer-col">
 				<h4>Newsroom</h4>
 				<a href="/about">About</a>
+				<a href="/disclosure">Affiliate disclosure</a>
 				<a href="/rss.xml">RSS feed</a>
 				<a href="mailto:hi@weirdjapan.news">Tips &amp; corrections</a>
 			</div>
@@ -47,6 +48,10 @@ const today = new Date();
 	<div class="footer-rule edo-rule" style="margin-top: 2em;"></div>
 
 	<div class="footer-bottom">
+		<p class="footer-disclosure">
+			As an Amazon Associate, WeirdJapan.news earns from qualifying purchases.
+			See our <a href="/disclosure">affiliate disclosure</a> for full details.
+		</p>
 		<p>
 			<span class="colophon-jp">奥付</span>
 			&copy; {today.getFullYear()} WeirdJapan.news &middot; Set in Shippori Mincho and DM Serif Display &middot;
@@ -159,12 +164,23 @@ const today = new Date();
 		text-align: center;
 	}
 	.footer-bottom p {
-		margin: 0;
+		margin: 0 0 0.6em;
 		font-family: var(--font-display);
 		font-style: italic;
 		font-size: 0.82rem;
 		color: rgb(var(--ink-faint));
 	}
+	.footer-bottom p:last-child { margin-bottom: 0; }
+	.footer-disclosure {
+		font-style: normal !important;
+		color: rgb(var(--ink-soft)) !important;
+		font-size: 0.78rem !important;
+	}
+	.footer-disclosure a {
+		color: rgb(var(--vermilion));
+		border-bottom: 1px solid rgba(var(--vermilion), 0.3);
+	}
+	.footer-disclosure a:hover { border-bottom-color: rgb(var(--vermilion)); }
 	.colophon-jp {
 		font-family: var(--font-mincho);
 		font-style: normal;
