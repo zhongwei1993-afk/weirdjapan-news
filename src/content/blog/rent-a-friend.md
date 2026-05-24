@@ -9,51 +9,88 @@ heroImageCredit: "Image via Wikimedia Commons"
 heroImageCreditUrl: "https://commons.wikimedia.org/wiki/File%3AAs_Friends_Rust_at_Shinjuku_Nine_Spices_2014-2.jpg"
 ---
 
-Lonely? Need a wedding date? Need a fake parent for parent-teacher day? Japan's actor-friend rental industry will discreetly provide.
+# Tokyo's 'Rent a Friend' Industry is Worth Millions
 
-This is one of those things Japan does quietly — without fanfare, without irony, and without any apparent awareness that the rest of the world finds it remarkable.
+A woman in Setagaya hires a man for the afternoon. He arrives in a clean suit, meets her parents, calls her by a pet name, and answers polite questions about his fictional job at a fictional trading company. After three hours he goes home. Nobody touches anybody. Nobody lies in bed. An invoice arrives by email.
 
-## The Quick Facts
+This is not an escort service. It is not romance. It is a professional companionship industry — a quiet, decades-old Japanese sector built around renting human presence by the hour. Friends, fathers, mothers, husbands, wives, grandchildren, mourners, PTA stand-ins. The categories keep expanding because the loneliness keeps expanding.
 
-- This story is part of Japan's strangest cultural inventory
-- Most travelers walk past without realizing it exists
-- It has been quietly normal in Japan for decades
-- The locals don't think it's weird at all
+## What "Rent-a-Friend" Actually Means in Japan
 
-## What's Actually Going On
+The Japanese rental-relationship industry covers three overlapping services. **Rent-a-friend** supplies a companion for a meal, a movie, a museum, a walk in Yoyogi Park — somebody to occupy the empty chair. **Rent-a-family** supplies a spouse, a parent, a sibling, or a child for a specific social performance. **Rent-a-relative** is the wedding-and-funeral specialization: a fake father to give away the bride, a fake uncle to fill out the groom's side, a fake cousin at the cremation.
 
-Lonely? Need a wedding date? Need a fake parent for parent-teacher day? Japan's actor-friend rental industry will discreetly provide. What seems random is usually the product of a very specific combination of circumstances: limited urban space, an aging but disciplined population, a deep cultural tolerance for ritualized service, and a national appetite for slightly excessive specialization.
+None of it involves sex. None of it involves romance in the dating sense. Operators are explicit, and contracts are explicit, that the transaction is performance — an actor playing a part agreed in advance, for a defined number of hours, with no physical intimacy and no ongoing relationship implied. This is the line that separates the industry from the country's adult sector, and operators guard it carefully because crossing it would collapse the entire business model.
 
-In most countries, this kind of thing would be a tourist curiosity. In Japan, it's infrastructure. It's normal. People use it on Tuesday mornings without thinking about it.
+## Family Romance: The Pioneer
 
-And that — the unselfconscious normalcy — is what makes it so disorienting to visitors.
+The best-known firm is **Family Romance**, founded in Tokyo in 2009 by **Ishii Yuichi**. Ishii started with a small roster of part-time actors and a single idea — that the demand for fake relatives, long served informally by a handful of theater-trained freelancers, could be turned into a real company with quality control, training, and repeat clients.
 
-## Why This Exists in Japan
+By the mid-2010s Family Romance was reportedly fielding over a thousand actors and handling tens of thousands of jobs. Ishii became the public face of the industry, giving long interviews in which he described, without judgment, women who had hired him to play their husband for years, children who believed he was their biological father, and elderly clients who had paid him to stand in for sons who had cut contact.
 
-Japan has a unique cultural appetite for **micro-specialization, ritualized service, and quiet eccentricity**. What looks bizarre to outsiders is usually the polished result of decades of refinement — a small idea taken seriously, then perfected, then commercialized.
+His own position on the ethics is consistent and somewhat unsettling: the service exists because the alternative — admitting the absence — is, for many clients, worse than the deception. He is not a therapist. He is, in his framing, a logistics provider for a feeling.
 
-Tokyo's 'Rent a Friend' Industry is Worth Millions is exactly that pattern. Imported attention, domestic obsession, and a willingness to keep going long after other countries would have given up.
+## What It Costs
 
-## How to Experience It
+Published rate cards vary by agency, but the range is consistent across the industry:
 
-- **Where**: Major cities, especially Tokyo and Osaka — though regional variations exist
-- **Cost**: Usually under ¥3,000 for a first taste
-- **Best time**: Weekday afternoons (smaller crowds)
-- **Insider tip**: Bring cash. Japan still runs on coins more than cards.
+- **¥8,000–¥20,000** for a standard two-hour outing with a rental friend or companion.
+- **¥20,000–¥50,000** for a half-day family member at a school event, hospital visit, or apartment viewing.
+- **¥150,000 and up** for a fake father at a wedding, including suit, speech, photographs, and a full backstory rehearsed in advance.
+- **Extra fees** for overnight scenarios, multi-actor packages (a full fake family of four is its own line item), and ongoing roles that stretch across months or years.
 
-## The Weird Part
+Clients pay in advance. Cancellations within twenty-four hours typically forfeit the deposit. Actors do not accept tips, gifts, or follow-up contact from clients outside the booked scenario — partly to maintain the illusion, partly to keep the relationship cleanly transactional.
 
-> The strange thing isn't that this exists. It's that it's *normal* here.
+## The Use Cases
 
-That gap — between how Japan treats this as ordinary and how the rest of the world reacts when they discover it — is the entire reason WeirdJapan.news exists.
+The catalog of jobs is the most revealing part of the industry. A partial list, drawn from agency websites and Ishii's published interviews:
+
+- A single mother hires a "father" to attend her daughter's sports day so the child is not the only one without a dad in the stands.
+- A salaryman hires "parents" to attend his wedding because his real parents are estranged, dead, or — most commonly — unwilling to be seen next to his bride's higher-status family.
+- An unmarried woman in her thirties hires a "fiance" to bring home for New Year, ending — at least for one holiday — the relentless parental nagging about grandchildren.
+- A middle-aged man, recently divorced, hires a PTA stand-in to attend a school parent meeting he cannot face alone.
+- A bereaved family hires professional mourners to swell the funeral, on the theory that a sparsely attended ceremony shames the deceased.
+- A retiree hires a "grandchild" for weekly visits because his actual grandchildren live in Fukuoka and never call.
+
+The mourners-for-hire branch deserves its own footnote. Agencies offer tiered packages — silent mourners, weeping mourners, mourners who deliver a short prepared eulogy — and the industry overlaps with the formally trained **rui-katsu** crying-therapy scene, though the use cases are inverted: rui-katsu is about producing tears in yourself; rental mourners are about producing tears in your guest list. (See our piece on [rui-katsu crying clubs](/blog/rui-katsu-crying-clubs).)
+
+## Why This Exists Here
+
+The social context is not subtle. Japan has the world's most documented loneliness problem. The Cabinet Office's regular surveys on social isolation report that roughly **15% of single-person households** say they have no close friends, and the figure rises sharply among men over fifty. The country has somewhere between [one and 1.5 million hikikomori](/blog/hikikomori-1-5-million) — people who have withdrawn from social contact, often for years. A generation of [herbivore men](/blog/herbivore-men-soshoku) has opted out of dating. Multi-generational households, once the norm, have collapsed into one-person apartments stacked in commuter towers.
+
+In a society where the family unit was, for centuries, the primary unit of social legibility — where you were introduced and judged through your parents, your spouse, your children — losing that unit creates a specific kind of administrative loneliness. You cannot show up to your daughter's wedding alone. You cannot attend a colleague's funeral without a plus-one. You cannot, easily, tell your eighty-year-old mother that you will never give her a grandchild.
+
+The rental industry exists to plug those specific holes. It is, in a strange way, a deeply conservative service: it lets people perform the traditional family structure without actually having one.
+
+## The Ethical Argument
+
+The criticism is obvious. Hiring a fake husband to soothe an aging parent means lying to that parent, sometimes for the rest of their life. Ishii has discussed cases where the deception ran for over a decade and where the client could never come clean without inflicting more damage than the original lie. Children raised believing a rental actor was their father present a harder version of the same problem.
+
+Industry defenders argue that the alternative is worse — that the deception is, in practice, a form of care, and that the clients are adults making informed choices about their own social discomfort. Critics counter that the third parties (the grandparents, the children, the funeral guests) never consented to being lied to.
+
+There is no Japanese law against the practice. Agencies impose their own rules: no romance, no sex, no financial entanglement, no impersonation in any context with legal weight — no signing of contracts, no court appearances, no medical decisions. Some firms require identity disclosure if a client appears to be using the service to commit fraud. Most operate in a grey zone that the legal system has, so far, chosen not to enter.
+
+In **2019**, German filmmaker Werner Herzog made a feature-length docu-fiction about Family Romance, simply titled **"Family Romance, LLC,"** with Ishii playing himself. Herzog's framing was characteristically detached — no judgment, just long takes of a man pretending to be a stranger's father while the stranger paid him to do it. The film brought the industry international attention but did not seem to change anything inside Japan, where it remains, as ever, quietly normal.
+
+## The Wider Companionship Economy
+
+Friend rental is the headline service but not the only one. **Ossan Rental** ("uncle rental"), launched in 2012, lets you hire a middle-aged man for **around ¥1,000 per hour** to give advice, listen to your problems, share a coffee, or simply walk around with you. It is the industry's cheapest and most informal tier — closer to paid friendship than performed family — and its founder, Takanobu Nishimoto, has talked openly about it as a self-employment vehicle for retired men with too much free time and not enough purpose.
+
+There are agencies for rental boyfriends and girlfriends that exist purely for photo ops and parental visits. There are firms that supply elderly companions to younger clients who want a stand-in grandmother. There is even a small market for [rental pets](/blog/pet-rental-shops) for people who cannot keep one full-time. The throughline is the same: a market response to a society where intimacy has become difficult to manufacture privately and easier to procure professionally.
+
+## TL;DR
+
+Japan has a multi-million-yen industry that rents out friends, family members, spouses, mourners, and grandparents by the hour. Family Romance, founded 2009 in Tokyo by Ishii Yuichi, is the pioneer. Rates run from ¥8,000 for a two-hour outing to ¥150,000+ for a fake father at a wedding. The driver is real and measurable: a Cabinet Office figure that around 15% of single-person households report no close friends, plus over a million hikikomori and a generation that has stepped away from marriage. The industry maintains strict no-sex, no-romance rules, which is what separates it from the country's adult sector. Werner Herzog made a 2019 film about it. Nobody in Japan finds it especially strange.
 
 ---
 
-**Want to explore Japan in person?**
+## Related articles
 
-- 🏨 [Search hotels on Booking.com](https://www.booking.com/)
-- 🎫 [Find Japan tours and experiences on Klook](https://www.klook.com/)
-- 📚 [Amazon: Lonely Planet Japan guide](https://www.amazon.com/)
+- [Hikikomori: Japan's 1.5 Million Modern Hermits](/blog/hikikomori-1-5-million)
+- [Herbivore Men: The Generation That Opted Out](/blog/herbivore-men-soshoku)
+- [Rui-Katsu: Japan's Crying Therapy Clubs](/blog/rui-katsu-crying-clubs)
+- [Inemuri: The Art of Sleeping in Meetings](/blog/inemuri-meeting-naps)
+- [Pet Rental Shops: Renting a Dog for the Afternoon](/blog/pet-rental-shops)
+- [The Salaryman on the Sidewalk: Tokyo's Public Drunk](/blog/salaryman-drunk-sidewalk)
 
 ---
 
