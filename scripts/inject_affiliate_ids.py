@@ -29,8 +29,8 @@ from pathlib import Path
 # EDIT THESE WITH YOUR REAL IDS BEFORE RUNNING (without --dry-run)
 # ===========================================================================
 IDS = {
-    "amazon_us_tag": "weirdjapan-20",   # replace with real Associates ID
-    "amazon_jp_tag": "weirdjapan-22",   # replace with real Associates ID
+    "amazon_us_tag": "weirdjapan20-20",   # replace with real Associates ID
+    "amazon_jp_tag": "weirdjapan22-22",   # replace with real Associates ID
     "booking_aid": "0000000",            # replace with Awin or Booking affiliate aid
     "booking_label": "weirdjapan",
     "klook_aid": "000000",               # replace with Awin or Klook affiliate aid
@@ -54,25 +54,35 @@ def tag_url(url: str, params_to_add: dict) -> str:
     return urllib.parse.urlunparse(parsed._replace(query=new_query))
 
 
+PLACEHOLDER_VALUES = {"weirdjapan-20", "weirdjapan-22", "0000000", "000000"}
+
+
+def is_placeholder(*values) -> bool:
+    return any(v in PLACEHOLDER_VALUES for v in values)
+
+
 def rewrite_amazon(url: str) -> str:
-    """Append ?tag=<amazon_us_tag>. OneLink handles JP redirect server-side."""
-    # Only touch amazon.com and amazon.co.jp domains
     if "amazon.com" in url:
-        return tag_url(url, {"tag": IDS["amazon_us_tag"]})
+        tag = IDS["amazon_us_tag"]
+        return url if is_placeholder(tag) else tag_url(url, {"tag": tag})
     if "amazon.co.jp" in url:
-        return tag_url(url, {"tag": IDS["amazon_jp_tag"]})
+        tag = IDS["amazon_jp_tag"]
+        return url if is_placeholder(tag) else tag_url(url, {"tag": tag})
     return url
 
 
 def rewrite_booking(url: str) -> str:
-    return tag_url(
-        url,
-        {"aid": IDS["booking_aid"], "label": IDS["booking_label"]},
-    )
+    aid = IDS["booking_aid"]
+    if is_placeholder(aid):
+        return url
+    return tag_url(url, {"aid": aid, "label": IDS["booking_label"]})
 
 
 def rewrite_klook(url: str) -> str:
-    return tag_url(url, {"aid": IDS["klook_aid"]})
+    aid = IDS["klook_aid"]
+    if is_placeholder(aid):
+        return url
+    return tag_url(url, {"aid": aid})
 
 
 # Match raw URLs inside markdown — both [text](url) and bare. We're conservative
@@ -116,13 +126,14 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    # Sanity check: refuse to write placeholder IDs
+    # Sanity check: at least ONE real ID must be set (Amazon/Booking/Klook).
+    # Per-partner placeholders are now skipped silently inside rewrite_*().
     if not args.dry_run:
-        placeholders = ["weirdjapan-20", "weirdjapan-22", "0000000", "000000"]
-        if any(v in placeholders for v in IDS.values()):
+        real_ids = [v for v in IDS.values() if v not in PLACEHOLDER_VALUES]
+        if not real_ids:
             print(
-                "ERROR: Placeholder IDs still in script. Edit IDS{} dict with "
-                "real IDs from your ASP dashboards, or run with --dry-run.",
+                "ERROR: All IDs are still placeholders. Set at least one real "
+                "ID in the IDS{} dict.",
                 file=sys.stderr,
             )
             return 2

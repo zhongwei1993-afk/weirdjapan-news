@@ -156,7 +156,7 @@ The trade-off is **discovery**. The whole point of these boxes is that someone i
 
 If you already know what you like — or if you just want a giant bag of green-tea KitKats with no surprises — go direct.
 
-[Browse Japanese snacks on Amazon](https://www.amazon.com/s?k=japanese+snacks+variety+pack)
+[Browse Japanese snacks on Amazon](https://www.amazon.com/s?k=japanese+snacks+variety+pack&tag=weirdjapan20-20)
 
 ## So, Which One Should You Actually Subscribe To?
 

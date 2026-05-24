@@ -200,7 +200,7 @@ If any of those apply, book a Tokyu Stay or APA Hotel for 50% more money and a r
 
 - 🛏 **[Search Tokyo capsule hotels on Booking.com](https://www.booking.com/searchresults.html?ss=capsule+hotel+Tokyo)** — Filter by "capsule" property type and sort by review score.
 - 🎫 **[Find Tokyo day tours on Klook](https://www.klook.com/en-US/search/?query=tokyo)** — Pair a capsule night with a Shinjuku food tour or a sumo morning practice visit.
-- 📦 **[Amazon: Tokyo travel packing essentials](https://www.amazon.com/s?k=tokyo+travel+essentials)** — Earplugs, a thin sleep mask, and a packable laundry bag are the three things you'll wish you brought.
+- 📦 **[Amazon: Tokyo travel packing essentials](https://www.amazon.com/s?k=tokyo+travel+essentials&tag=weirdjapan20-20)** — Earplugs, a thin sleep mask, and a packable laundry bag are the three things you'll wish you brought.
 
 ---
 

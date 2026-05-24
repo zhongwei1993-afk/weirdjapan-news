@@ -129,7 +129,7 @@ There are now nine Chocolatory locations across Japan. None outside it. This is 
 
 You do not have to be in Tokyo to taste this. The export market for Japanese Kit Kats is now a small industry, and three options consistently work:
 
-- **Amazon variety boxes.** The most reliable way. Vendors ship sampler boxes of 10–30 mixed flavors directly from Japan, usually arriving in 2–3 weeks. Quality varies by seller, but the matcha, hojicha, and sake bars are almost always included. → [Browse Japanese Kit Kat boxes on Amazon](https://www.amazon.com/s?k=japanese+kit+kat+variety+box)
+- **Amazon variety boxes.** The most reliable way. Vendors ship sampler boxes of 10–30 mixed flavors directly from Japan, usually arriving in 2–3 weeks. Quality varies by seller, but the matcha, hojicha, and sake bars are almost always included. → [Browse Japanese Kit Kat boxes on Amazon](https://www.amazon.com/s?k=japanese+kit+kat+variety+box&tag=weirdjapan20-20)
 
 - **A Tokyo food tour, if you do make the trip.** Several Klook-listed walking tours include stops at Kit Kat Chocolatory, depachika basement food halls, and regional snack shops. Worth it for the context, not just the candy. → [Find Tokyo food tours on Klook](https://www.klook.com/en-US/search/?query=tokyo+food)
 

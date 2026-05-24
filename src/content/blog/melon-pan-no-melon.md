@@ -88,7 +88,7 @@ Melon-pan is a sweet bun with a cookie-dough crust scored to look like a melon r
 
 - 🏨 [Search hotels on Booking.com](https://www.booking.com/)
 - 🎫 [Find Japan tours and experiences on Klook](https://www.klook.com/)
-- 📚 [Amazon: Lonely Planet Japan guide](https://www.amazon.com/)
+- 📚 [Amazon: Lonely Planet Japan guide](https://www.amazon.com/?tag=weirdjapan20-20)
 
 ---
 

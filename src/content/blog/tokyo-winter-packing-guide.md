@@ -41,7 +41,7 @@ Uniqlo Heattech is the local original — about ¥1,500 per piece, sold everywhe
 
 If you want to arrive prepared (and not hunt for your size on day one), grab a set before you fly.
 
-[Heattech-style thermal base layers on Amazon](https://www.amazon.com/s?k=thermal+base+layer+winter)
+[Heattech-style thermal base layers on Amazon](https://www.amazon.com/s?k=thermal+base+layer+winter&tag=weirdjapan20-20)
 
 ### 2. Pocket kairo (hand warmers)
 
@@ -49,7 +49,7 @@ Japanese disposable hand warmers — *kairo* (カイロ) — are a national wint
 
 You'll find them everywhere once you arrive, but having a small pack on day one — before you know which konbini is closest — is worth the suitcase space.
 
-[Travel-size hand warmers on Amazon](https://www.amazon.com/s?k=hand+warmers+disposable)
+[Travel-size hand warmers on Amazon](https://www.amazon.com/s?k=hand+warmers+disposable&tag=weirdjapan20-20)
 
 ### 3. A compact umbrella
 
@@ -131,8 +131,8 @@ A useful rule: pack one of everything for your first 24 hours, then resupply loc
 
 **Ready to plan the trip?**
 
-- **[Heattech-style thermal base layers on Amazon](https://www.amazon.com/s?k=thermal+base+layer+winter)** — the single highest-impact item on this list.
-- **[Travel-size hand warmers on Amazon](https://www.amazon.com/s?k=hand+warmers+disposable)** — stash a few before you fly; restock at any konbini.
+- **[Heattech-style thermal base layers on Amazon](https://www.amazon.com/s?k=thermal+base+layer+winter&tag=weirdjapan20-20)** — the single highest-impact item on this list.
+- **[Travel-size hand warmers on Amazon](https://www.amazon.com/s?k=hand+warmers+disposable&tag=weirdjapan20-20)** — stash a few before you fly; restock at any konbini.
 - **[Pocket WiFi rental Japan on Klook](https://www.klook.com/en-US/search/?query=japan+pocket+wifi)** — airport pickup, return at the airport on the way out.
 - **[Find Tokyo hotels on Booking.com](https://www.booking.com/searchresults.html?ss=Tokyo)** — stay near a JR Yamanote stop for maximum walking radius.
 

@@ -94,7 +94,7 @@ A JR Pass pays for itself on this Day 2 round-trip.
 - [Find Tokyo hotels near Mitaka on Booking.com](https://www.booking.com/searchresults.html?ss=Mitaka+Tokyo) — Stay one stop from the museum and skip the morning Chuo Line crush.
 - [Ghibli Park day tours from Nagoya on Klook](https://www.klook.com/en-US/search/?query=ghibli+park+aichi) — The easier backup. Tours include the Linimo transfer and timed-entry tickets.
 - [JR Pass for Tokyo-Nagoya shinkansen](https://www.klook.com/en-US/activity/3066-japan-rail-pass/) — Pays for itself on the Day-2 round trip alone.
-- [Amazon: Studio Ghibli collection Blu-ray box](https://www.amazon.com/s?k=studio+ghibli+blu-ray+collection) — For the 95% of the catalog you *can* watch at home.
+- [Amazon: Studio Ghibli collection Blu-ray box](https://www.amazon.com/s?k=studio+ghibli+blu-ray+collection&tag=weirdjapan20-20) — For the 95% of the catalog you *can* watch at home.
 
 ---
 

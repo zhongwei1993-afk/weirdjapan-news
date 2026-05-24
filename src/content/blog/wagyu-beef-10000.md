@@ -116,7 +116,7 @@ A 300-gram A5 ribeye is not a flex. It is a medical event with garnish. The Japa
 - [Find Tokyo wagyu restaurant reservations on OpenTable](https://www.opentable.com/s?covers=2&term=wagyu&metroId=49) — most of the top yakiniku spots take English-language bookings here.
 - [Find Tokyo food tours on Klook](https://www.klook.com/en-US/search/?query=tokyo+wagyu) — guided tours that handle the language barrier and the reservations.
 - [Hotels in Roppongi or Ginza on Booking.com](https://www.booking.com/searchresults.html?ss=Ginza+Tokyo) — both districts put you within walking distance of a dozen top wagyu counters.
-- [Amazon: "The Wagyu Bible" cookbook](https://www.amazon.com/s?k=wagyu+cookbook) — for the small number of you who will read this and immediately want to start grading carcasses at home.
+- [Amazon: "The Wagyu Bible" cookbook](https://www.amazon.com/s?k=wagyu+cookbook&tag=weirdjapan20-20) — for the small number of you who will read this and immediately want to start grading carcasses at home.
 
 ---
 

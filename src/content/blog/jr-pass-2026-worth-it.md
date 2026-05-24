@@ -126,7 +126,7 @@ The era of "just buy the JR Pass, you'll use it" is over. The era of "do five mi
 - [Buy the JR Pass on Klook (often cheapest)](https://www.klook.com/en-US/activity/3066-japan-rail-pass/) — Compare 7/14/21-day options with live 2026 pricing.
 - [JR East / regional passes on Klook](https://www.klook.com/en-US/search/?query=jr+east+pass) — Tohoku, Hokkaido, Kansai, Kyushu passes—usually a better deal than the national pass.
 - [Find Tokyo hotels on Booking.com](https://www.booking.com/searchresults.html?ss=Tokyo) — Stay near a JR Yamanote line stop (Shinjuku, Shinagawa, Tokyo Station) to maximize your pass's value.
-- [Amazon: Japan travel guides](https://www.amazon.com/s?k=lonely+planet+japan) — A printed map of the Shinkansen network is shockingly useful when your phone dies in a tunnel.
+- [Amazon: Japan travel guides](https://www.amazon.com/s?k=lonely+planet+japan&tag=weirdjapan20-20) — A printed map of the Shinkansen network is shockingly useful when your phone dies in a tunnel.
 
 ---
 

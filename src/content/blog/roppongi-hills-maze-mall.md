@@ -90,7 +90,7 @@ Getting lost in Roppongi Hills is not a failure of the building. It is a feature
 
 - [Search hotels on Booking.com](https://www.booking.com/)
 - [Find Japan tours and experiences on Klook](https://www.klook.com/)
-- [Amazon: Lonely Planet Tokyo guide](https://www.amazon.com/)
+- [Amazon: Lonely Planet Tokyo guide](https://www.amazon.com/?tag=weirdjapan20-20)
 
 ---
 

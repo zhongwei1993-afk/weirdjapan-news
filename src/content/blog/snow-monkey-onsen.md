@@ -105,7 +105,7 @@ The shots you've seen on Instagram require, at minimum, a **70-200mm telephoto**
 - **Tripods**: tolerated in winter when the deck isn't crowded, banned-by-glare from other visitors on busy days. Bring a monopod instead.
 - For tight close-ups of faces and steam droplets, a **private photography tour** with early access gets you better angles than the general crowd. Worth it once.
 
-[**Amazon: photography telephoto lens recommendations**](https://www.amazon.com/s?k=telephoto+lens+wildlife) — a 70-300mm in the $500–800 range is the sweet spot for this and 90% of other wildlife travel.
+[**Amazon: photography telephoto lens recommendations**](https://www.amazon.com/s?k=telephoto+lens+wildlife&tag=weirdjapan20-20) — a 70-300mm in the $500–800 range is the sweet spot for this and 90% of other wildlife travel.
 
 ## TL;DR
 

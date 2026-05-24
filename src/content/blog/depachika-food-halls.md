@@ -99,7 +99,7 @@ Depachika are the food halls under every major Japanese department store — 150
 
 - [Search hotels on Booking.com](https://www.booking.com/)
 - [Find Japan tours and experiences on Klook](https://www.klook.com/)
-- [Amazon: Lonely Planet Japan guide](https://www.amazon.com/)
+- [Amazon: Lonely Planet Japan guide](https://www.amazon.com/?tag=weirdjapan20-20)
 
 ---
 
