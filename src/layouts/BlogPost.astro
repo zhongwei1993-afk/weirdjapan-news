@@ -117,10 +117,18 @@ const seal = sealForCategory[category] || '記';
 
 				<div class="newsletter-inline">
 					<span class="inline-seal seal" aria-hidden="true">報</span>
-					<h3>Get tomorrow's oddity in your inbox</h3>
-					<p>The Weekly Weird — five strange Japan stories every Sunday. No spam.</p>
-					<form class="newsletter-form-inline" onsubmit="event.preventDefault();">
-						<input type="email" placeholder="your@email.com" aria-label="Email address" required />
+					<h3>Dispatches from Weird Japan</h3>
+					<p>Three weird Japan discoveries, one travel tip, one Amazon find. Every Sunday. Free.</p>
+					<form
+						class="newsletter-form-inline"
+						action="https://dispatchesfromweirdjapan.substack.com/api/v1/free?nojs=true"
+						method="post"
+						target="_top"
+					>
+						<input type="email" name="email" placeholder="your@email.com" aria-label="Email address" required />
+						<input type="hidden" name="first_url" value={Astro.url.toString()} />
+						<input type="hidden" name="current_url" value={Astro.url.toString()} />
+						<input type="hidden" name="source" value="weirdjapan_blogpost_footer" />
 						<button type="submit">Subscribe →</button>
 					</form>
 				</div>
